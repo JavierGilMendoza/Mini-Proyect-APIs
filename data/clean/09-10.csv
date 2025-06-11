@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2009-08-29,Real Madrid,La Coruña,1
+2009-08-29,Zaragoza,Tenerife,1
+2009-08-30,Almeria,Valladolid,X
+2009-08-30,Ath Bilbao,Español,1
+2009-08-30,Malaga,Ath Madrid,1
+2009-08-30,Mallorca,Xerez,1
+2009-08-30,Osasuna,Villarreal,X
+2009-08-30,Santander,Getafe,2
+2009-08-30,Valencia,Sevilla,1
+2009-08-31,Barcelona,Sp Gijon,1
+2009-09-12,Ath Madrid,Santander,X
+2009-09-12,Español,Real Madrid,2
+2009-09-12,Getafe,Barcelona,2
+2009-09-12,Sevilla,Zaragoza,1
+2009-09-13,La Coruña,Malaga,1
+2009-09-13,Sp Gijon,Almeria,1
+2009-09-13,Tenerife,Osasuna,1
+2009-09-13,Valladolid,Valencia,2
+2009-09-13,Villarreal,Mallorca,X
+2009-09-13,Xerez,Ath Bilbao,2
+2009-09-19,Barcelona,Ath Madrid,1
+2009-09-19,La Coruña,Español,2
+2009-09-19,Malaga,Santander,2
+2009-09-19,Mallorca,Tenerife,1
+2009-09-19,Osasuna,Sevilla,2
+2009-09-20,Almeria,Getafe,1
+2009-09-20,Ath Bilbao,Villarreal,1
+2009-09-20,Real Madrid,Xerez,1
+2009-09-20,Valencia,Sp Gijon,X
+2009-09-20,Zaragoza,Valladolid,2
+2009-09-22,Santander,Barcelona,2
+2009-09-22,Sevilla,Mallorca,1
+2009-09-23,Ath Madrid,Almeria,X
+2009-09-23,Español,Malaga,1
+2009-09-23,Getafe,Valencia,1
+2009-09-23,Tenerife,Ath Bilbao,1
+2009-09-23,Valladolid,Osasuna,2
+2009-09-23,Villarreal,Real Madrid,2
+2009-09-23,Xerez,La Coruña,2
+2009-09-24,Sp Gijon,Zaragoza,X
+2009-09-26,Ath Bilbao,Sevilla,2
+2009-09-26,Malaga,Barcelona,2
+2009-09-26,Real Madrid,Tenerife,1
+2009-09-26,Valencia,Ath Madrid,X
+2009-09-27,Almeria,Santander,X
+2009-09-27,Español,Xerez,X
+2009-09-27,La Coruña,Villarreal,1
+2009-09-27,Mallorca,Valladolid,1
+2009-09-27,Osasuna,Sp Gijon,1
+2009-09-27,Zaragoza,Getafe,1
+2009-10-03,Ath Madrid,Zaragoza,1
+2009-10-03,Barcelona,Almeria,1
+2009-10-03,Tenerife,La Coruña,2
+2009-10-04,Getafe,Osasuna,1
+2009-10-04,Santander,Valencia,2
+2009-10-04,Sevilla,Real Madrid,1
+2009-10-04,Sp Gijon,Mallorca,1
+2009-10-04,Valladolid,Ath Bilbao,X
+2009-10-04,Villarreal,Español,X
+2009-10-04,Xerez,Malaga,X
+2009-10-17,La Coruña,Sevilla,1
+2009-10-17,Real Madrid,Valladolid,1
+2009-10-17,Valencia,Barcelona,X
+2009-10-18,Ath Bilbao,Sp Gijon,2
+2009-10-18,Español,Tenerife,1
+2009-10-18,Malaga,Almeria,2
+2009-10-18,Mallorca,Getafe,1
+2009-10-18,Osasuna,Ath Madrid,1
+2009-10-18,Xerez,Villarreal,1
+2009-10-18,Zaragoza,Santander,X
+2009-10-24,Ath Madrid,Mallorca,X
+2009-10-24,Sevilla,Español,X
+2009-10-24,Sp Gijon,Real Madrid,X
+2009-10-25,Almeria,Valencia,2
+2009-10-25,Barcelona,Zaragoza,1
+2009-10-25,Getafe,Ath Bilbao,1
+2009-10-25,Santander,Osasuna,X
+2009-10-25,Tenerife,Xerez,1
+2009-10-25,Valladolid,La Coruña,1
+2009-10-25,Villarreal,Malaga,1
+2009-10-31,Ath Bilbao,Ath Madrid,1
+2009-10-31,Osasuna,Barcelona,X
+2009-10-31,Real Madrid,Getafe,1
+2009-10-31,Xerez,Sevilla,2
+2009-11-01,Español,Valladolid,X
+2009-11-01,La Coruña,Sp Gijon,X
+2009-11-01,Malaga,Valencia,2
+2009-11-01,Mallorca,Santander,1
+2009-11-01,Villarreal,Tenerife,1
+2009-11-01,Zaragoza,Almeria,1
+2009-11-07,Ath Madrid,Real Madrid,2
+2009-11-07,Barcelona,Mallorca,1
+2009-11-07,Getafe,La Coruña,2
+2009-11-07,Tenerife,Malaga,X
+2009-11-08,Almeria,Osasuna,1
+2009-11-08,Santander,Ath Bilbao,2
+2009-11-08,Sevilla,Villarreal,1
+2009-11-08,Sp Gijon,Español,1
+2009-11-08,Valencia,Zaragoza,1
+2009-11-08,Valladolid,Xerez,X
+2009-11-21,Ath Bilbao,Barcelona,X
+2009-11-21,La Coruña,Ath Madrid,1
+2009-11-21,Real Madrid,Santander,1
+2009-11-21,Tenerife,Sevilla,2
+2009-11-22,Español,Getafe,2
+2009-11-22,Malaga,Zaragoza,X
+2009-11-22,Mallorca,Almeria,1
+2009-11-22,Osasuna,Valencia,2
+2009-11-22,Villarreal,Valladolid,1
+2009-11-22,Xerez,Sp Gijon,X
+2009-11-28,Sevilla,Malaga,X
+2009-11-28,Sp Gijon,Villarreal,1
+2009-11-28,Valencia,Mallorca,X
+2009-11-29,Almeria,Ath Bilbao,2
+2009-11-29,Ath Madrid,Español,1
+2009-11-29,Barcelona,Real Madrid,1
+2009-11-29,Getafe,Xerez,1
+2009-11-29,Santander,La Coruña,2
+2009-11-29,Valladolid,Tenerife,X
+2009-11-29,Zaragoza,Osasuna,2
+2009-12-02,Xerez,Barcelona,2
+2009-12-05,La Coruña,Barcelona,2
+2009-12-05,Real Madrid,Almeria,1
+2009-12-05,Sevilla,Valladolid,X
+2009-12-05,Xerez,Ath Madrid,2
+2009-12-06,Ath Bilbao,Valencia,2
+2009-12-06,Español,Santander,2
+2009-12-06,Malaga,Osasuna,X
+2009-12-06,Mallorca,Zaragoza,1
+2009-12-06,Tenerife,Sp Gijon,1
+2009-12-06,Villarreal,Getafe,1
+2009-12-12,Barcelona,Español,1
+2009-12-12,Valencia,Real Madrid,2
+2009-12-12,Zaragoza,Ath Bilbao,2
+2009-12-13,Almeria,La Coruña,X
+2009-12-13,Ath Madrid,Villarreal,2
+2009-12-13,Getafe,Tenerife,1
+2009-12-13,Osasuna,Mallorca,2
+2009-12-13,Santander,Xerez,1
+2009-12-13,Sp Gijon,Sevilla,2
+2009-12-13,Valladolid,Malaga,X
+2009-12-19,Ath Bilbao,Osasuna,1
+2009-12-19,Real Madrid,Zaragoza,1
+2009-12-19,Sevilla,Getafe,2
+2009-12-20,Español,Almeria,1
+2009-12-20,La Coruña,Valencia,X
+2009-12-20,Malaga,Mallorca,1
+2009-12-20,Tenerife,Ath Madrid,X
+2009-12-20,Valladolid,Sp Gijon,1
+2009-12-20,Villarreal,Santander,1
+2010-01-02,Ath Madrid,Sevilla,1
+2010-01-02,Barcelona,Villarreal,X
+2010-01-02,Valencia,Español,1
+2010-01-03,Almeria,Xerez,1
+2010-01-03,Getafe,Valladolid,1
+2010-01-03,Mallorca,Ath Bilbao,1
+2010-01-03,Osasuna,Real Madrid,X
+2010-01-03,Santander,Tenerife,1
+2010-01-03,Sp Gijon,Malaga,X
+2010-01-03,Zaragoza,La Coruña,X
+2010-01-09,Sevilla,Santander,2
+2010-01-09,Valladolid,Ath Madrid,2
+2010-01-09,Villarreal,Almeria,X
+2010-01-10,Español,Zaragoza,1
+2010-01-10,La Coruña,Osasuna,1
+2010-01-10,Malaga,Ath Bilbao,X
+2010-01-10,Real Madrid,Mallorca,1
+2010-01-10,Sp Gijon,Getafe,1
+2010-01-10,Tenerife,Barcelona,2
+2010-01-10,Xerez,Valencia,2
+2010-01-16,Ath Bilbao,Real Madrid,1
+2010-01-16,Barcelona,Sevilla,1
+2010-01-16,Osasuna,Español,1
+2010-01-17,Almeria,Tenerife,X
+2010-01-17,Ath Madrid,Sp Gijon,1
+2010-01-17,Malaga,Getafe,1
+2010-01-17,Mallorca,La Coruña,1
+2010-01-17,Santander,Valladolid,X
+2010-01-17,Valencia,Villarreal,1
+2010-01-17,Zaragoza,Xerez,X
+2010-01-23,La Coruña,Ath Bilbao,1
+2010-01-23,Sevilla,Almeria,1
+2010-01-23,Valladolid,Barcelona,2
+2010-01-24,Español,Mallorca,X
+2010-01-24,Getafe,Ath Madrid,1
+2010-01-24,Real Madrid,Malaga,1
+2010-01-24,Sp Gijon,Santander,2
+2010-01-24,Tenerife,Valencia,X
+2010-01-24,Villarreal,Zaragoza,1
+2010-01-24,Xerez,Osasuna,2
+2010-01-30,Español,Ath Bilbao,1
+2010-01-30,La Coruña,Real Madrid,2
+2010-01-30,Sp Gijon,Barcelona,2
+2010-01-31,Ath Madrid,Malaga,2
+2010-01-31,Getafe,Santander,X
+2010-01-31,Sevilla,Valencia,1
+2010-01-31,Tenerife,Zaragoza,2
+2010-01-31,Valladolid,Almeria,X
+2010-01-31,Villarreal,Osasuna,2
+2010-01-31,Xerez,Mallorca,1
+2010-02-06,Barcelona,Getafe,1
+2010-02-06,Real Madrid,Español,1
+2010-02-06,Valencia,Valladolid,1
+2010-02-07,Almeria,Sp Gijon,1
+2010-02-07,Ath Bilbao,Xerez,1
+2010-02-07,Malaga,La Coruña,X
+2010-02-07,Mallorca,Villarreal,1
+2010-02-07,Osasuna,Tenerife,1
+2010-02-07,Santander,Ath Madrid,X
+2010-02-07,Zaragoza,Sevilla,1
+2010-02-13,Sp Gijon,Valencia,X
+2010-02-13,Villarreal,Ath Bilbao,1
+2010-02-13,Xerez,Real Madrid,2
+2010-02-14,Ath Madrid,Barcelona,1
+2010-02-14,Español,La Coruña,1
+2010-02-14,Getafe,Almeria,X
+2010-02-14,Santander,Malaga,2
+2010-02-14,Sevilla,Osasuna,1
+2010-02-14,Valladolid,Zaragoza,X
+2010-02-15,Tenerife,Mallorca,1
+2010-02-20,Barcelona,Santander,1
+2010-02-20,La Coruña,Xerez,1
+2010-02-20,Mallorca,Sevilla,2
+2010-02-21,Almeria,Ath Madrid,1
+2010-02-21,Ath Bilbao,Tenerife,1
+2010-02-21,Malaga,Español,1
+2010-02-21,Osasuna,Valladolid,X
+2010-02-21,Real Madrid,Villarreal,1
+2010-02-21,Zaragoza,Sp Gijon,2
+2010-02-22,Valencia,Getafe,1
+2010-02-27,Barcelona,Malaga,1
+2010-02-27,Getafe,Zaragoza,2
+2010-02-27,Tenerife,Real Madrid,2
+2010-02-28,Ath Madrid,Valencia,1
+2010-02-28,Santander,Almeria,2
+2010-02-28,Sevilla,Ath Bilbao,X
+2010-02-28,Sp Gijon,Osasuna,1
+2010-02-28,Valladolid,Mallorca,2
+2010-02-28,Villarreal,La Coruña,1
+2010-02-28,Xerez,Español,X
+2010-03-06,Almeria,Barcelona,X
+2010-03-06,La Coruña,Tenerife,1
+2010-03-06,Real Madrid,Sevilla,1
+2010-03-07,Ath Bilbao,Valladolid,1
+2010-03-07,Español,Villarreal,X
+2010-03-07,Malaga,Xerez,2
+2010-03-07,Mallorca,Sp Gijon,1
+2010-03-07,Osasuna,Getafe,X
+2010-03-07,Zaragoza,Ath Madrid,X
+2010-03-08,Valencia,Santander,X
+2010-03-13,Getafe,Mallorca,1
+2010-03-13,Sevilla,La Coruña,X
+2010-03-13,Sp Gijon,Ath Bilbao,X
+2010-03-14,Almeria,Malaga,1
+2010-03-14,Barcelona,Valencia,1
+2010-03-14,Santander,Zaragoza,X
+2010-03-14,Tenerife,Español,1
+2010-03-14,Valladolid,Real Madrid,2
+2010-03-14,Villarreal,Xerez,1
+2010-03-15,Ath Madrid,Osasuna,1
+2010-03-20,Ath Bilbao,Getafe,X
+2010-03-20,Español,Sevilla,1
+2010-03-20,La Coruña,Valladolid,2
+2010-03-20,Real Madrid,Sp Gijon,1
+2010-03-20,Xerez,Tenerife,1
+2010-03-21,Malaga,Villarreal,1
+2010-03-21,Mallorca,Ath Madrid,1
+2010-03-21,Osasuna,Santander,2
+2010-03-21,Valencia,Almeria,1
+2010-03-21,Zaragoza,Barcelona,2
+2010-03-23,Sevilla,Xerez,X
+2010-03-23,Sp Gijon,La Coruña,1
+2010-03-24,Almeria,Zaragoza,1
+2010-03-24,Barcelona,Osasuna,1
+2010-03-24,Santander,Mallorca,X
+2010-03-24,Tenerife,Villarreal,X
+2010-03-24,Valencia,Malaga,1
+2010-03-24,Valladolid,Español,X
+2010-03-25,Ath Madrid,Ath Bilbao,1
+2010-03-25,Getafe,Real Madrid,2
+2010-03-27,Malaga,Tenerife,X
+2010-03-27,Mallorca,Barcelona,2
+2010-03-27,Zaragoza,Valencia,1
+2010-03-28,Español,Sp Gijon,X
+2010-03-28,La Coruña,Getafe,2
+2010-03-28,Osasuna,Almeria,1
+2010-03-28,Real Madrid,Ath Madrid,1
+2010-03-28,Villarreal,Sevilla,1
+2010-03-28,Xerez,Valladolid,1
+2010-03-29,Ath Bilbao,Santander,1
+2010-04-03,Barcelona,Ath Bilbao,1
+2010-04-03,Sevilla,Tenerife,1
+2010-04-03,Zaragoza,Malaga,1
+2010-04-04,Almeria,Mallorca,X
+2010-04-04,Ath Madrid,La Coruña,1
+2010-04-04,Getafe,Español,X
+2010-04-04,Santander,Real Madrid,2
+2010-04-04,Sp Gijon,Xerez,X
+2010-04-04,Valencia,Osasuna,1
+2010-04-04,Valladolid,Villarreal,2
+2010-04-10,Malaga,Sevilla,2
+2010-04-10,Real Madrid,Barcelona,2
+2010-04-10,Tenerife,Valladolid,X
+2010-04-10,Villarreal,Sp Gijon,1
+2010-04-10,Xerez,Getafe,2
+2010-04-11,Ath Bilbao,Almeria,1
+2010-04-11,Español,Ath Madrid,1
+2010-04-11,La Coruña,Santander,X
+2010-04-11,Mallorca,Valencia,1
+2010-04-11,Osasuna,Zaragoza,1
+2010-04-13,Getafe,Villarreal,1
+2010-04-13,Sp Gijon,Tenerife,2
+2010-04-13,Valladolid,Sevilla,1
+2010-04-14,Ath Madrid,Xerez,2
+2010-04-14,Barcelona,La Coruña,1
+2010-04-14,Osasuna,Malaga,X
+2010-04-14,Santander,Español,1
+2010-04-14,Zaragoza,Mallorca,X
+2010-04-15,Almeria,Real Madrid,2
+2010-04-15,Valencia,Ath Bilbao,1
+2010-04-17,Español,Barcelona,X
+2010-04-17,Sevilla,Sp Gijon,1
+2010-04-17,Villarreal,Ath Madrid,1
+2010-04-18,Ath Bilbao,Zaragoza,X
+2010-04-18,La Coruña,Almeria,X
+2010-04-18,Malaga,Valladolid,X
+2010-04-18,Real Madrid,Valencia,1
+2010-04-18,Tenerife,Getafe,1
+2010-04-18,Xerez,Santander,X
+2010-04-19,Mallorca,Osasuna,1
+2010-04-24,Barcelona,Xerez,1
+2010-04-24,Valencia,La Coruña,1
+2010-04-24,Zaragoza,Real Madrid,2
+2010-04-25,Almeria,Español,2
+2010-04-25,Ath Madrid,Tenerife,1
+2010-04-25,Getafe,Sevilla,1
+2010-04-25,Mallorca,Malaga,X
+2010-04-25,Santander,Villarreal,2
+2010-04-25,Sp Gijon,Valladolid,2
+2010-04-26,Osasuna,Ath Bilbao,X
+2010-05-01,Español,Valencia,2
+2010-05-01,La Coruña,Zaragoza,2
+2010-05-01,Malaga,Sp Gijon,X
+2010-05-01,Tenerife,Santander,1
+2010-05-01,Valladolid,Getafe,X
+2010-05-01,Villarreal,Barcelona,2
+2010-05-01,Xerez,Almeria,1
+2010-05-02,Ath Bilbao,Mallorca,2
+2010-05-02,Real Madrid,Osasuna,1
+2010-05-02,Sevilla,Ath Madrid,1
+2010-05-04,Almeria,Villarreal,1
+2010-05-04,Barcelona,Tenerife,1
+2010-05-04,Getafe,Sp Gijon,X
+2010-05-04,Valencia,Xerez,1
+2010-05-05,Ath Bilbao,Malaga,X
+2010-05-05,Ath Madrid,Valladolid,1
+2010-05-05,Mallorca,Real Madrid,2
+2010-05-05,Osasuna,La Coruña,1
+2010-05-05,Santander,Sevilla,2
+2010-05-05,Zaragoza,Español,1
+2010-05-08,Español,Osasuna,1
+2010-05-08,Getafe,Malaga,1
+2010-05-08,La Coruña,Mallorca,1
+2010-05-08,Real Madrid,Ath Bilbao,1
+2010-05-08,Sevilla,Barcelona,2
+2010-05-08,Sp Gijon,Ath Madrid,X
+2010-05-08,Tenerife,Almeria,X
+2010-05-08,Valladolid,Santander,1
+2010-05-08,Villarreal,Valencia,1
+2010-05-08,Xerez,Zaragoza,1
+2010-05-15,Almeria,Sevilla,2
+2010-05-15,Ath Bilbao,La Coruña,1
+2010-05-15,Ath Madrid,Getafe,2
+2010-05-15,Mallorca,Español,1
+2010-05-15,Zaragoza,Villarreal,X
+2010-05-16,Barcelona,Valladolid,1
+2010-05-16,Malaga,Real Madrid,X
+2010-05-16,Osasuna,Xerez,X
+2010-05-16,Santander,Sp Gijon,1
+2010-05-16,Valencia,Tenerife,1

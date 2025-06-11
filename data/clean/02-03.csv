@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2002-08-31,Santander,Valladolid,2
+2002-09-01,Barcelona,Ath Madrid,X
+2002-09-01,La Coruña,Betis,2
+2002-09-01,Mallorca,Valencia,2
+2002-09-01,Recreativo,Malaga,2
+2002-09-01,Sevilla,Celta,2
+2002-09-01,Sociedad,Ath Bilbao,1
+2002-09-01,Vallecano,Alaves,X
+2002-09-01,Villarreal,Osasuna,X
+2002-09-02,Real Madrid,Español,1
+2002-09-14,Ath Bilbao,Barcelona,2
+2002-09-14,Malaga,Vallecano,1
+2002-09-14,Osasuna,La Coruña,2
+2002-09-14,Valencia,Recreativo,1
+2002-09-15,Alaves,Santander,2
+2002-09-15,Ath Madrid,Sevilla,X
+2002-09-15,Celta,Mallorca,1
+2002-09-15,Español,Sociedad,2
+2002-09-15,Valladolid,Villarreal,1
+2002-09-21,Barcelona,Español,1
+2002-09-21,La Coruña,Valladolid,1
+2002-09-21,Real Madrid,Osasuna,1
+2002-09-22,Malaga,Valencia,X
+2002-09-22,Mallorca,Ath Madrid,2
+2002-09-22,Recreativo,Celta,2
+2002-09-22,Sevilla,Ath Bilbao,X
+2002-09-22,Sociedad,Betis,X
+2002-09-22,Vallecano,Santander,1
+2002-09-22,Villarreal,Alaves,2
+2002-09-28,Alaves,La Coruña,2
+2002-09-28,Betis,Barcelona,1
+2002-09-28,Valladolid,Real Madrid,X
+2002-09-29,Ath Bilbao,Mallorca,2
+2002-09-29,Ath Madrid,Recreativo,X
+2002-09-29,Celta,Malaga,X
+2002-09-29,Español,Sevilla,X
+2002-09-29,Osasuna,Sociedad,2
+2002-09-29,Santander,Villarreal,X
+2002-09-29,Valencia,Vallecano,1
+2002-10-05,Recreativo,Ath Bilbao,2
+2002-10-06,Barcelona,Osasuna,X
+2002-10-06,La Coruña,Santander,2
+2002-10-06,Malaga,Ath Madrid,1
+2002-10-06,Mallorca,Español,1
+2002-10-06,Real Madrid,Alaves,1
+2002-10-06,Sevilla,Betis,X
+2002-10-06,Sociedad,Valladolid,1
+2002-10-06,Valencia,Celta,2
+2002-10-06,Vallecano,Villarreal,X
+2002-10-08,Betis,Real Madrid,X
+2002-10-19,Ath Madrid,Valencia,X
+2002-10-19,Santander,Real Madrid,1
+2002-10-19,Villarreal,La Coruña,1
+2002-10-20,Alaves,Sociedad,X
+2002-10-20,Ath Bilbao,Malaga,X
+2002-10-20,Betis,Mallorca,2
+2002-10-20,Celta,Vallecano,2
+2002-10-20,Español,Recreativo,1
+2002-10-20,Osasuna,Sevilla,1
+2002-10-20,Valladolid,Barcelona,1
+2002-10-26,Barcelona,Alaves,1
+2002-10-26,Celta,Ath Madrid,X
+2002-10-26,Real Madrid,Villarreal,X
+2002-10-26,Recreativo,Betis,X
+2002-10-26,Valencia,Ath Bilbao,1
+2002-10-26,Vallecano,La Coruña,2
+2002-10-27,Malaga,Español,2
+2002-10-27,Mallorca,Osasuna,1
+2002-10-27,Sevilla,Valladolid,1
+2002-10-27,Sociedad,Santander,1
+2002-11-02,Ath Madrid,Vallecano,1
+2002-11-02,La Coruña,Real Madrid,X
+2002-11-02,Valladolid,Mallorca,2
+2002-11-03,Alaves,Sevilla,1
+2002-11-03,Ath Bilbao,Celta,1
+2002-11-03,Betis,Malaga,1
+2002-11-03,Español,Valencia,2
+2002-11-03,Osasuna,Recreativo,2
+2002-11-03,Santander,Barcelona,X
+2002-11-03,Villarreal,Sociedad,2
+2002-11-09,Barcelona,Villarreal,1
+2002-11-09,Malaga,Osasuna,1
+2002-11-09,Sociedad,La Coruña,X
+2002-11-09,Valencia,Betis,X
+2002-11-09,Vallecano,Real Madrid,2
+2002-11-10,Ath Madrid,Ath Bilbao,X
+2002-11-10,Celta,Español,1
+2002-11-10,Mallorca,Alaves,1
+2002-11-10,Recreativo,Valladolid,2
+2002-11-10,Sevilla,Santander,1
+2002-11-16,La Coruña,Barcelona,1
+2002-11-16,Villarreal,Sevilla,1
+2002-11-17,Alaves,Recreativo,1
+2002-11-17,Ath Bilbao,Vallecano,1
+2002-11-17,Betis,Celta,1
+2002-11-17,Español,Ath Madrid,2
+2002-11-17,Osasuna,Valencia,1
+2002-11-17,Real Madrid,Sociedad,X
+2002-11-17,Santander,Mallorca,2
+2002-11-17,Valladolid,Malaga,X
+2002-11-23,Barcelona,Real Madrid,X
+2002-11-23,Sevilla,La Coruña,X
+2002-11-23,Vallecano,Sociedad,X
+2002-11-24,Ath Bilbao,Español,1
+2002-11-24,Ath Madrid,Betis,1
+2002-11-24,Celta,Osasuna,X
+2002-11-24,Malaga,Alaves,X
+2002-11-24,Mallorca,Villarreal,X
+2002-11-24,Recreativo,Santander,1
+2002-11-24,Valencia,Valladolid,1
+2002-11-30,Osasuna,Ath Madrid,1
+2002-12-01,Alaves,Valencia,X
+2002-12-01,Betis,Ath Bilbao,1
+2002-12-01,Español,Vallecano,1
+2002-12-01,La Coruña,Mallorca,X
+2002-12-01,Santander,Malaga,1
+2002-12-01,Sociedad,Barcelona,1
+2002-12-01,Valladolid,Celta,2
+2002-12-01,Villarreal,Recreativo,1
+2002-12-07,Malaga,Villarreal,X
+2002-12-07,Recreativo,La Coruña,X
+2002-12-07,Sevilla,Sociedad,2
+2002-12-07,Valencia,Santander,1
+2002-12-07,Vallecano,Barcelona,1
+2002-12-08,Ath Bilbao,Osasuna,2
+2002-12-08,Ath Madrid,Valladolid,1
+2002-12-08,Celta,Alaves,1
+2002-12-08,Español,Betis,2
+2002-12-08,Mallorca,Real Madrid,2
+2002-12-14,Alaves,Ath Madrid,1
+2002-12-14,Villarreal,Valencia,2
+2002-12-15,Barcelona,Sevilla,2
+2002-12-15,Betis,Vallecano,2
+2002-12-15,La Coruña,Malaga,1
+2002-12-15,Osasuna,Español,1
+2002-12-15,Real Madrid,Recreativo,1
+2002-12-15,Santander,Celta,1
+2002-12-15,Sociedad,Mallorca,1
+2002-12-15,Valladolid,Ath Bilbao,1
+2002-12-21,Ath Bilbao,Alaves,1
+2002-12-21,Ath Madrid,Santander,2
+2002-12-21,Celta,Villarreal,1
+2002-12-21,Malaga,Real Madrid,2
+2002-12-21,Mallorca,Barcelona,2
+2002-12-21,Vallecano,Sevilla,2
+2002-12-22,Betis,Osasuna,1
+2002-12-22,Español,Valladolid,1
+2002-12-22,Recreativo,Sociedad,2
+2002-12-22,Valencia,La Coruña,2
+2003-01-02,Real Madrid,Sevilla,1
+2003-01-04,La Coruña,Celta,1
+2003-01-04,Osasuna,Vallecano,2
+2003-01-04,Santander,Ath Bilbao,2
+2003-01-04,Valladolid,Betis,1
+2003-01-05,Alaves,Español,1
+2003-01-05,Barcelona,Recreativo,1
+2003-01-05,Real Madrid,Valencia,1
+2003-01-05,Sevilla,Mallorca,1
+2003-01-05,Sociedad,Malaga,X
+2003-01-05,Villarreal,Ath Madrid,1
+2003-01-11,Celta,Real Madrid,2
+2003-01-11,Valencia,Sociedad,X
+2003-01-12,Ath Bilbao,Villarreal,2
+2003-01-12,Ath Madrid,La Coruña,1
+2003-01-12,Betis,Alaves,X
+2003-01-12,Español,Santander,1
+2003-01-12,Malaga,Barcelona,X
+2003-01-12,Osasuna,Valladolid,X
+2003-01-12,Recreativo,Sevilla,X
+2003-01-12,Vallecano,Mallorca,2
+2003-01-18,Barcelona,Valencia,2
+2003-01-18,Sociedad,Celta,1
+2003-01-19,Alaves,Osasuna,X
+2003-01-19,La Coruña,Ath Bilbao,1
+2003-01-19,Mallorca,Recreativo,X
+2003-01-19,Real Madrid,Ath Madrid,X
+2003-01-19,Santander,Betis,2
+2003-01-19,Sevilla,Malaga,X
+2003-01-19,Vallecano,Valladolid,2
+2003-01-19,Villarreal,Español,X
+2003-01-25,Ath Madrid,Sociedad,2
+2003-01-26,Ath Bilbao,Real Madrid,X
+2003-01-26,Betis,Villarreal,1
+2003-01-26,Celta,Barcelona,1
+2003-01-26,Español,La Coruña,1
+2003-01-26,Malaga,Mallorca,1
+2003-01-26,Osasuna,Santander,1
+2003-01-26,Recreativo,Vallecano,1
+2003-01-26,Valencia,Sevilla,1
+2003-01-26,Valladolid,Alaves,2
+2003-02-01,Ath Madrid,Barcelona,1
+2003-02-02,Alaves,Vallecano,X
+2003-02-02,Ath Bilbao,Sociedad,1
+2003-02-02,Betis,La Coruña,2
+2003-02-02,Celta,Sevilla,2
+2003-02-02,Español,Real Madrid,X
+2003-02-02,Malaga,Recreativo,1
+2003-02-02,Osasuna,Villarreal,2
+2003-02-02,Valencia,Mallorca,1
+2003-02-02,Valladolid,Santander,1
+2003-02-08,Real Madrid,Betis,1
+2003-02-08,Villarreal,Valladolid,1
+2003-02-09,Barcelona,Ath Bilbao,X
+2003-02-09,La Coruña,Osasuna,X
+2003-02-09,Mallorca,Celta,2
+2003-02-09,Recreativo,Valencia,X
+2003-02-09,Santander,Alaves,1
+2003-02-09,Sevilla,Ath Madrid,X
+2003-02-09,Sociedad,Español,X
+2003-02-09,Vallecano,Malaga,1
+2003-02-15,Español,Barcelona,2
+2003-02-15,Valencia,Malaga,1
+2003-02-15,Valladolid,La Coruña,2
+2003-02-16,Alaves,Villarreal,1
+2003-02-16,Ath Bilbao,Sevilla,1
+2003-02-16,Ath Madrid,Mallorca,1
+2003-02-16,Betis,Sociedad,1
+2003-02-16,Celta,Recreativo,1
+2003-02-16,Osasuna,Real Madrid,1
+2003-02-16,Santander,Vallecano,1
+2003-02-22,Barcelona,Betis,1
+2003-02-22,La Coruña,Alaves,1
+2003-02-22,Real Madrid,Valladolid,1
+2003-02-23,Malaga,Celta,X
+2003-02-23,Mallorca,Ath Bilbao,X
+2003-02-23,Recreativo,Ath Madrid,1
+2003-02-23,Sevilla,Español,1
+2003-02-23,Sociedad,Osasuna,1
+2003-02-23,Vallecano,Valencia,2
+2003-02-23,Villarreal,Santander,2
+2003-03-01,Alaves,Real Madrid,2
+2003-03-01,Ath Bilbao,Recreativo,2
+2003-03-01,Español,Mallorca,1
+2003-03-02,Ath Madrid,Malaga,1
+2003-03-02,Betis,Sevilla,2
+2003-03-02,Celta,Valencia,X
+2003-03-02,Osasuna,Barcelona,X
+2003-03-02,Santander,La Coruña,2
+2003-03-02,Valladolid,Sociedad,1
+2003-03-02,Villarreal,Vallecano,1
+2003-03-08,Barcelona,Valladolid,X
+2003-03-08,La Coruña,Villarreal,1
+2003-03-08,Real Madrid,Santander,1
+2003-03-08,Valencia,Ath Madrid,2
+2003-03-09,Malaga,Ath Bilbao,1
+2003-03-09,Mallorca,Betis,1
+2003-03-09,Recreativo,Español,X
+2003-03-09,Sevilla,Osasuna,1
+2003-03-09,Sociedad,Alaves,1
+2003-03-09,Vallecano,Celta,1
+2003-03-15,La Coruña,Vallecano,1
+2003-03-15,Santander,Sociedad,2
+2003-03-15,Villarreal,Real Madrid,2
+2003-03-16,Alaves,Barcelona,X
+2003-03-16,Ath Bilbao,Valencia,1
+2003-03-16,Ath Madrid,Celta,2
+2003-03-16,Betis,Recreativo,X
+2003-03-16,Español,Malaga,1
+2003-03-16,Osasuna,Mallorca,X
+2003-03-16,Valladolid,Sevilla,X
+2003-03-22,Vallecano,Ath Madrid,X
+2003-03-23,Barcelona,Santander,1
+2003-03-23,Celta,Ath Bilbao,1
+2003-03-23,Malaga,Betis,X
+2003-03-23,Mallorca,Valladolid,1
+2003-03-23,Real Madrid,La Coruña,1
+2003-03-23,Recreativo,Osasuna,X
+2003-03-23,Sevilla,Alaves,1
+2003-03-23,Sociedad,Villarreal,X
+2003-03-23,Valencia,Español,X
+2003-04-05,Betis,Valencia,1
+2003-04-05,Español,Celta,X
+2003-04-05,Real Madrid,Vallecano,1
+2003-04-05,Villarreal,Barcelona,1
+2003-04-06,Alaves,Mallorca,X
+2003-04-06,Ath Bilbao,Ath Madrid,1
+2003-04-06,La Coruña,Sociedad,1
+2003-04-06,Osasuna,Malaga,2
+2003-04-06,Santander,Sevilla,1
+2003-04-06,Valladolid,Recreativo,2
+2003-04-12,Barcelona,La Coruña,2
+2003-04-12,Sevilla,Villarreal,1
+2003-04-13,Ath Madrid,Español,X
+2003-04-13,Celta,Betis,1
+2003-04-13,Malaga,Valladolid,1
+2003-04-13,Mallorca,Santander,X
+2003-04-13,Recreativo,Alaves,1
+2003-04-13,Sociedad,Real Madrid,1
+2003-04-13,Valencia,Osasuna,1
+2003-04-13,Vallecano,Ath Bilbao,X
+2003-04-19,Real Madrid,Barcelona,X
+2003-04-19,Valladolid,Valencia,1
+2003-04-19,Villarreal,Mallorca,X
+2003-04-20,Alaves,Malaga,2
+2003-04-20,Betis,Ath Madrid,X
+2003-04-20,Español,Ath Bilbao,X
+2003-04-20,La Coruña,Sevilla,1
+2003-04-20,Osasuna,Celta,2
+2003-04-20,Santander,Recreativo,1
+2003-04-20,Sociedad,Vallecano,1
+2003-04-26,Ath Bilbao,Betis,1
+2003-04-26,Ath Madrid,Osasuna,2
+2003-04-27,Barcelona,Sociedad,1
+2003-04-27,Celta,Valladolid,X
+2003-04-27,Malaga,Santander,X
+2003-04-27,Mallorca,La Coruña,1
+2003-04-27,Recreativo,Villarreal,1
+2003-04-27,Sevilla,Real Madrid,2
+2003-04-27,Valencia,Alaves,1
+2003-04-27,Vallecano,Español,2
+2003-05-03,Real Madrid,Mallorca,2
+2003-05-03,Sociedad,Sevilla,1
+2003-05-04,Alaves,Celta,X
+2003-05-04,Barcelona,Vallecano,1
+2003-05-04,Betis,Español,X
+2003-05-04,La Coruña,Recreativo,1
+2003-05-04,Osasuna,Ath Bilbao,2
+2003-05-04,Santander,Valencia,1
+2003-05-04,Valladolid,Ath Madrid,1
+2003-05-04,Villarreal,Malaga,X
+2003-05-10,Ath Bilbao,Valladolid,X
+2003-05-10,Ath Madrid,Alaves,2
+2003-05-10,Español,Osasuna,X
+2003-05-10,Malaga,La Coruña,2
+2003-05-10,Recreativo,Real Madrid,X
+2003-05-11,Celta,Santander,X
+2003-05-11,Mallorca,Sociedad,2
+2003-05-11,Sevilla,Barcelona,X
+2003-05-11,Valencia,Villarreal,2
+2003-05-11,Vallecano,Betis,X
+2003-05-17,La Coruña,Valencia,2
+2003-05-17,Santander,Ath Madrid,2
+2003-05-18,Alaves,Ath Bilbao,2
+2003-05-18,Barcelona,Mallorca,2
+2003-05-18,Osasuna,Betis,1
+2003-05-18,Real Madrid,Malaga,1
+2003-05-18,Sevilla,Vallecano,X
+2003-05-18,Sociedad,Recreativo,1
+2003-05-18,Valladolid,Español,X
+2003-05-18,Villarreal,Celta,1
+2003-05-24,Ath Bilbao,Santander,1
+2003-05-24,Ath Madrid,Villarreal,1
+2003-05-24,Celta,La Coruña,1
+2003-05-24,Valencia,Real Madrid,2
+2003-05-24,Vallecano,Osasuna,X
+2003-05-25,Betis,Valladolid,X
+2003-05-25,Español,Alaves,1
+2003-05-25,Malaga,Sociedad,2
+2003-05-25,Mallorca,Sevilla,2
+2003-05-25,Recreativo,Barcelona,2
+2003-05-31,Real Madrid,Celta,X
+2003-06-01,Alaves,Betis,2
+2003-06-01,Barcelona,Malaga,1
+2003-06-01,La Coruña,Ath Madrid,1
+2003-06-01,Mallorca,Vallecano,X
+2003-06-01,Santander,Español,1
+2003-06-01,Sevilla,Recreativo,1
+2003-06-01,Sociedad,Valencia,X
+2003-06-01,Valladolid,Osasuna,2
+2003-06-01,Villarreal,Ath Bilbao,X
+2003-06-14,Valladolid,Vallecano,1
+2003-06-15,Ath Bilbao,La Coruña,1
+2003-06-15,Ath Madrid,Real Madrid,2
+2003-06-15,Betis,Santander,1
+2003-06-15,Celta,Sociedad,1
+2003-06-15,Español,Villarreal,X
+2003-06-15,Malaga,Sevilla,1
+2003-06-15,Osasuna,Alaves,1
+2003-06-15,Recreativo,Mallorca,X
+2003-06-15,Valencia,Barcelona,2
+2003-06-21,Alaves,Valladolid,X
+2003-06-21,La Coruña,Español,1
+2003-06-21,Mallorca,Malaga,1
+2003-06-21,Santander,Osasuna,2
+2003-06-21,Sevilla,Valencia,2
+2003-06-21,Vallecano,Recreativo,X
+2003-06-22,Barcelona,Celta,1
+2003-06-22,Real Madrid,Ath Bilbao,1
+2003-06-22,Sociedad,Ath Madrid,1
+2003-06-22,Villarreal,Betis,2

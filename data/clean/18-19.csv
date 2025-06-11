@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2018-08-17,Betis,Levante,2
+2018-08-17,Girona,Valladolid,X
+2018-08-18,Barcelona,Alaves,1
+2018-08-18,Celta,Español,X
+2018-08-18,Villarreal,Sociedad,2
+2018-08-19,Eibar,Huesca,2
+2018-08-19,Real Madrid,Getafe,1
+2018-08-19,Vallecano,Sevilla,2
+2018-08-20,Ath Bilbao,Leganes,1
+2018-08-20,Valencia,Ath Madrid,X
+2018-08-24,Getafe,Eibar,1
+2018-08-24,Leganes,Sociedad,X
+2018-08-25,Alaves,Betis,X
+2018-08-25,Ath Madrid,Vallecano,1
+2018-08-25,Valladolid,Barcelona,2
+2018-08-26,Español,Valencia,1
+2018-08-26,Girona,Real Madrid,2
+2018-08-26,Sevilla,Villarreal,X
+2018-08-27,Ath Bilbao,Huesca,X
+2018-08-27,Levante,Celta,2
+2018-08-31,Eibar,Sociedad,1
+2018-08-31,Getafe,Valladolid,X
+2018-08-31,Villarreal,Girona,2
+2018-09-01,Celta,Ath Madrid,1
+2018-09-01,Real Madrid,Leganes,1
+2018-09-02,Alaves,Español,1
+2018-09-02,Barcelona,Huesca,1
+2018-09-02,Betis,Sevilla,1
+2018-09-02,Levante,Valencia,X
+2018-09-14,Huesca,Vallecano,2
+2018-09-15,Ath Bilbao,Real Madrid,X
+2018-09-15,Ath Madrid,Eibar,X
+2018-09-15,Sociedad,Barcelona,2
+2018-09-15,Valencia,Betis,X
+2018-09-16,Español,Levante,1
+2018-09-16,Leganes,Villarreal,2
+2018-09-16,Sevilla,Getafe,2
+2018-09-16,Valladolid,Alaves,2
+2018-09-17,Girona,Celta,1
+2018-09-21,Huesca,Sociedad,2
+2018-09-22,Celta,Valladolid,X
+2018-09-22,Eibar,Leganes,1
+2018-09-22,Getafe,Ath Madrid,2
+2018-09-22,Real Madrid,Español,1
+2018-09-22,Vallecano,Alaves,2
+2018-09-23,Barcelona,Girona,X
+2018-09-23,Betis,Ath Bilbao,X
+2018-09-23,Levante,Sevilla,2
+2018-09-23,Villarreal,Valencia,X
+2018-09-25,Ath Madrid,Huesca,1
+2018-09-25,Español,Eibar,1
+2018-09-25,Sociedad,Vallecano,X
+2018-09-26,Ath Bilbao,Villarreal,2
+2018-09-26,Leganes,Barcelona,1
+2018-09-26,Sevilla,Real Madrid,1
+2018-09-26,Valencia,Celta,X
+2018-09-27,Alaves,Getafe,X
+2018-09-27,Girona,Betis,2
+2018-09-27,Valladolid,Levante,1
+2018-09-28,Vallecano,Español,X
+2018-09-29,Barcelona,Ath Bilbao,X
+2018-09-29,Eibar,Sevilla,2
+2018-09-29,Real Madrid,Ath Madrid,X
+2018-09-29,Sociedad,Valencia,2
+2018-09-30,Betis,Leganes,1
+2018-09-30,Huesca,Girona,X
+2018-09-30,Levante,Alaves,1
+2018-09-30,Villarreal,Valladolid,2
+2018-10-01,Celta,Getafe,X
+2018-10-05,Ath Bilbao,Sociedad,2
+2018-10-06,Alaves,Real Madrid,1
+2018-10-06,Getafe,Levante,2
+2018-10-06,Girona,Eibar,2
+2018-10-06,Leganes,Vallecano,1
+2018-10-07,Ath Madrid,Betis,1
+2018-10-07,Español,Villarreal,1
+2018-10-07,Sevilla,Celta,1
+2018-10-07,Valencia,Barcelona,X
+2018-10-07,Valladolid,Huesca,1
+2018-10-19,Celta,Alaves,2
+2018-10-20,Barcelona,Sevilla,1
+2018-10-20,Real Madrid,Levante,2
+2018-10-20,Valencia,Leganes,X
+2018-10-20,Villarreal,Ath Madrid,X
+2018-10-21,Betis,Valladolid,2
+2018-10-21,Eibar,Ath Bilbao,X
+2018-10-21,Huesca,Español,2
+2018-10-21,Vallecano,Getafe,2
+2018-10-22,Sociedad,Girona,X
+2018-10-24,Vallecano,Ath Bilbao,X
+2018-10-26,Valladolid,Español,X
+2018-10-27,Ath Bilbao,Valencia,X
+2018-10-27,Ath Madrid,Sociedad,1
+2018-10-27,Celta,Eibar,1
+2018-10-27,Girona,Vallecano,1
+2018-10-27,Levante,Leganes,1
+2018-10-28,Alaves,Villarreal,1
+2018-10-28,Barcelona,Real Madrid,1
+2018-10-28,Getafe,Betis,1
+2018-10-28,Sevilla,Huesca,1
+2018-11-03,Leganes,Ath Madrid,X
+2018-11-03,Real Madrid,Valladolid,1
+2018-11-03,Valencia,Girona,2
+2018-11-03,Vallecano,Barcelona,2
+2018-11-04,Betis,Celta,X
+2018-11-04,Eibar,Alaves,1
+2018-11-04,Huesca,Getafe,X
+2018-11-04,Sociedad,Sevilla,X
+2018-11-04,Villarreal,Levante,X
+2018-11-05,Español,Ath Bilbao,1
+2018-11-09,Levante,Sociedad,2
+2018-11-10,Ath Madrid,Ath Bilbao,1
+2018-11-10,Getafe,Valencia,2
+2018-11-10,Girona,Leganes,X
+2018-11-10,Valladolid,Eibar,X
+2018-11-11,Alaves,Huesca,1
+2018-11-11,Barcelona,Betis,2
+2018-11-11,Celta,Real Madrid,2
+2018-11-11,Sevilla,Español,1
+2018-11-11,Vallecano,Villarreal,X
+2018-11-23,Leganes,Alaves,1
+2018-11-24,Ath Madrid,Barcelona,X
+2018-11-24,Eibar,Real Madrid,1
+2018-11-24,Huesca,Levante,X
+2018-11-24,Valencia,Vallecano,1
+2018-11-25,Ath Bilbao,Getafe,X
+2018-11-25,Español,Girona,2
+2018-11-25,Sevilla,Valladolid,1
+2018-11-25,Villarreal,Betis,1
+2018-11-26,Sociedad,Celta,1
+2018-11-30,Vallecano,Eibar,1
+2018-12-01,Celta,Huesca,1
+2018-12-01,Getafe,Español,1
+2018-12-01,Real Madrid,Valencia,1
+2018-12-01,Valladolid,Leganes,2
+2018-12-02,Alaves,Sevilla,X
+2018-12-02,Barcelona,Villarreal,1
+2018-12-02,Betis,Sociedad,1
+2018-12-02,Girona,Ath Madrid,X
+2018-12-03,Levante,Ath Bilbao,1
+2018-12-07,Leganes,Getafe,X
+2018-12-08,Ath Madrid,Alaves,1
+2018-12-08,Español,Barcelona,2
+2018-12-08,Valencia,Sevilla,X
+2018-12-08,Villarreal,Celta,2
+2018-12-09,Betis,Vallecano,1
+2018-12-09,Eibar,Levante,X
+2018-12-09,Huesca,Real Madrid,2
+2018-12-09,Sociedad,Valladolid,2
+2018-12-10,Ath Bilbao,Girona,1
+2018-12-14,Celta,Leganes,X
+2018-12-15,Eibar,Valencia,X
+2018-12-15,Getafe,Sociedad,1
+2018-12-15,Real Madrid,Vallecano,1
+2018-12-15,Valladolid,Ath Madrid,2
+2018-12-16,Español,Betis,2
+2018-12-16,Huesca,Villarreal,X
+2018-12-16,Levante,Barcelona,2
+2018-12-16,Sevilla,Girona,1
+2018-12-17,Alaves,Ath Bilbao,X
+2018-12-21,Girona,Getafe,X
+2018-12-21,Sociedad,Alaves,2
+2018-12-22,Ath Bilbao,Valladolid,X
+2018-12-22,Ath Madrid,Español,1
+2018-12-22,Barcelona,Celta,1
+2018-12-22,Betis,Eibar,X
+2018-12-23,Leganes,Sevilla,X
+2018-12-23,Valencia,Huesca,1
+2018-12-23,Vallecano,Levante,1
+2019-01-03,Villarreal,Real Madrid,X
+2019-01-04,Español,Leganes,1
+2019-01-04,Levante,Girona,X
+2019-01-05,Alaves,Valencia,1
+2019-01-05,Huesca,Betis,1
+2019-01-05,Valladolid,Vallecano,2
+2019-01-06,Eibar,Villarreal,X
+2019-01-06,Getafe,Barcelona,2
+2019-01-06,Real Madrid,Sociedad,2
+2019-01-06,Sevilla,Ath Madrid,X
+2019-01-07,Celta,Ath Bilbao,2
+2019-01-11,Vallecano,Celta,1
+2019-01-12,Girona,Alaves,X
+2019-01-12,Leganes,Huesca,1
+2019-01-12,Valencia,Valladolid,X
+2019-01-12,Villarreal,Getafe,2
+2019-01-13,Ath Bilbao,Sevilla,1
+2019-01-13,Ath Madrid,Levante,1
+2019-01-13,Barcelona,Eibar,1
+2019-01-13,Betis,Real Madrid,2
+2019-01-14,Sociedad,Español,1
+2019-01-18,Getafe,Alaves,1
+2019-01-19,Celta,Valencia,2
+2019-01-19,Huesca,Ath Madrid,2
+2019-01-19,Real Madrid,Sevilla,1
+2019-01-20,Barcelona,Leganes,1
+2019-01-20,Betis,Girona,1
+2019-01-20,Levante,Valladolid,1
+2019-01-20,Vallecano,Sociedad,X
+2019-01-20,Villarreal,Ath Bilbao,X
+2019-01-21,Eibar,Español,1
+2019-01-26,Ath Madrid,Getafe,1
+2019-01-26,Leganes,Eibar,X
+2019-01-26,Sevilla,Levante,1
+2019-01-26,Valencia,Villarreal,1
+2019-01-27,Ath Bilbao,Betis,1
+2019-01-27,Español,Real Madrid,2
+2019-01-27,Girona,Barcelona,2
+2019-01-27,Sociedad,Huesca,X
+2019-01-27,Valladolid,Celta,1
+2019-01-28,Alaves,Vallecano,2
+2019-02-01,Huesca,Valladolid,1
+2019-02-02,Barcelona,Valencia,X
+2019-02-02,Celta,Sevilla,1
+2019-02-02,Levante,Getafe,X
+2019-02-02,Sociedad,Ath Bilbao,1
+2019-02-03,Betis,Ath Madrid,1
+2019-02-03,Eibar,Girona,1
+2019-02-03,Real Madrid,Alaves,1
+2019-02-03,Villarreal,Español,X
+2019-02-04,Vallecano,Leganes,2
+2019-02-08,Valladolid,Villarreal,X
+2019-02-09,Ath Madrid,Real Madrid,2
+2019-02-09,Español,Vallecano,1
+2019-02-09,Getafe,Celta,1
+2019-02-09,Girona,Huesca,2
+2019-02-10,Ath Bilbao,Barcelona,X
+2019-02-10,Leganes,Betis,1
+2019-02-10,Sevilla,Eibar,X
+2019-02-10,Valencia,Sociedad,X
+2019-02-11,Alaves,Levante,1
+2019-02-15,Eibar,Getafe,X
+2019-02-16,Barcelona,Valladolid,1
+2019-02-16,Celta,Levante,2
+2019-02-16,Sociedad,Leganes,1
+2019-02-16,Vallecano,Ath Madrid,2
+2019-02-17,Betis,Alaves,X
+2019-02-17,Real Madrid,Girona,2
+2019-02-17,Valencia,Español,X
+2019-02-17,Villarreal,Sevilla,1
+2019-02-18,Huesca,Ath Bilbao,2
+2019-02-22,Español,Huesca,X
+2019-02-23,Alaves,Celta,X
+2019-02-23,Ath Bilbao,Eibar,1
+2019-02-23,Getafe,Vallecano,1
+2019-02-23,Sevilla,Barcelona,2
+2019-02-24,Ath Madrid,Villarreal,1
+2019-02-24,Leganes,Valencia,X
+2019-02-24,Levante,Real Madrid,2
+2019-02-24,Valladolid,Betis,2
+2019-02-25,Girona,Sociedad,X
+2019-03-01,Vallecano,Girona,2
+2019-03-02,Español,Valladolid,1
+2019-03-02,Huesca,Sevilla,1
+2019-03-02,Real Madrid,Barcelona,2
+2019-03-02,Villarreal,Alaves,2
+2019-03-03,Betis,Getafe,2
+2019-03-03,Eibar,Celta,1
+2019-03-03,Sociedad,Ath Madrid,2
+2019-03-03,Valencia,Ath Bilbao,1
+2019-03-04,Leganes,Levante,1
+2019-03-08,Ath Bilbao,Español,X
+2019-03-09,Alaves,Eibar,X
+2019-03-09,Ath Madrid,Leganes,1
+2019-03-09,Barcelona,Vallecano,1
+2019-03-09,Getafe,Huesca,1
+2019-03-10,Celta,Betis,2
+2019-03-10,Girona,Valencia,2
+2019-03-10,Levante,Villarreal,2
+2019-03-10,Sevilla,Sociedad,1
+2019-03-10,Valladolid,Real Madrid,2
+2019-03-15,Sociedad,Levante,X
+2019-03-16,Ath Bilbao,Ath Madrid,1
+2019-03-16,Huesca,Alaves,2
+2019-03-16,Leganes,Girona,2
+2019-03-16,Real Madrid,Celta,1
+2019-03-17,Betis,Barcelona,2
+2019-03-17,Eibar,Valladolid,2
+2019-03-17,Español,Sevilla,2
+2019-03-17,Valencia,Getafe,X
+2019-03-17,Villarreal,Vallecano,1
+2019-03-29,Girona,Ath Bilbao,2
+2019-03-30,Alaves,Ath Madrid,2
+2019-03-30,Barcelona,Español,1
+2019-03-30,Celta,Villarreal,1
+2019-03-30,Getafe,Leganes,2
+2019-03-31,Levante,Eibar,X
+2019-03-31,Real Madrid,Huesca,1
+2019-03-31,Sevilla,Valencia,2
+2019-03-31,Valladolid,Sociedad,X
+2019-03-31,Vallecano,Betis,X
+2019-04-02,Ath Madrid,Girona,1
+2019-04-02,Español,Getafe,X
+2019-04-02,Villarreal,Barcelona,X
+2019-04-03,Ath Bilbao,Levante,1
+2019-04-03,Eibar,Vallecano,1
+2019-04-03,Huesca,Celta,X
+2019-04-03,Valencia,Real Madrid,1
+2019-04-04,Leganes,Valladolid,1
+2019-04-04,Sevilla,Alaves,1
+2019-04-04,Sociedad,Betis,1
+2019-04-06,Barcelona,Ath Madrid,1
+2019-04-06,Girona,Español,2
+2019-04-06,Real Madrid,Eibar,1
+2019-04-06,Vallecano,Valencia,1
+2019-04-07,Alaves,Leganes,X
+2019-04-07,Betis,Villarreal,1
+2019-04-07,Celta,Sociedad,1
+2019-04-07,Getafe,Ath Bilbao,1
+2019-04-07,Levante,Huesca,X
+2019-04-07,Valladolid,Sevilla,2
+2019-04-13,Ath Madrid,Celta,1
+2019-04-13,Español,Alaves,1
+2019-04-13,Huesca,Barcelona,X
+2019-04-13,Sevilla,Betis,1
+2019-04-14,Ath Bilbao,Vallecano,1
+2019-04-14,Girona,Villarreal,2
+2019-04-14,Sociedad,Eibar,X
+2019-04-14,Valencia,Levante,1
+2019-04-14,Valladolid,Getafe,X
+2019-04-15,Leganes,Real Madrid,X
+2019-04-19,Alaves,Valladolid,X
+2019-04-20,Barcelona,Sociedad,1
+2019-04-20,Celta,Girona,1
+2019-04-20,Eibar,Ath Madrid,2
+2019-04-20,Vallecano,Huesca,X
+2019-04-21,Betis,Valencia,2
+2019-04-21,Getafe,Sevilla,1
+2019-04-21,Levante,Español,X
+2019-04-21,Real Madrid,Ath Bilbao,1
+2019-04-21,Villarreal,Leganes,1
+2019-04-23,Alaves,Barcelona,2
+2019-04-23,Huesca,Eibar,1
+2019-04-23,Valladolid,Girona,1
+2019-04-24,Ath Madrid,Valencia,1
+2019-04-24,Español,Celta,X
+2019-04-24,Leganes,Ath Bilbao,2
+2019-04-24,Levante,Betis,1
+2019-04-25,Getafe,Real Madrid,X
+2019-04-25,Sevilla,Vallecano,1
+2019-04-25,Sociedad,Villarreal,2
+2019-04-27,Ath Bilbao,Alaves,X
+2019-04-27,Ath Madrid,Valladolid,1
+2019-04-27,Barcelona,Levante,1
+2019-04-27,Leganes,Celta,X
+2019-04-28,Girona,Sevilla,1
+2019-04-28,Sociedad,Getafe,1
+2019-04-28,Valencia,Eibar,2
+2019-04-28,Vallecano,Real Madrid,1
+2019-04-28,Villarreal,Huesca,X
+2019-04-29,Betis,Español,X
+2019-05-03,Sevilla,Leganes,2
+2019-05-04,Alaves,Sociedad,2
+2019-05-04,Celta,Barcelona,1
+2019-05-04,Español,Ath Madrid,1
+2019-05-04,Levante,Vallecano,1
+2019-05-05,Eibar,Betis,1
+2019-05-05,Getafe,Girona,1
+2019-05-05,Huesca,Valencia,2
+2019-05-05,Real Madrid,Villarreal,1
+2019-05-05,Valladolid,Ath Bilbao,1
+2019-05-12,Ath Bilbao,Celta,1
+2019-05-12,Ath Madrid,Sevilla,X
+2019-05-12,Barcelona,Getafe,1
+2019-05-12,Betis,Huesca,1
+2019-05-12,Girona,Levante,2
+2019-05-12,Leganes,Español,2
+2019-05-12,Sociedad,Real Madrid,1
+2019-05-12,Valencia,Alaves,1
+2019-05-12,Vallecano,Valladolid,2
+2019-05-12,Villarreal,Eibar,1
+2019-05-18,Alaves,Girona,1
+2019-05-18,Celta,Vallecano,X
+2019-05-18,Español,Sociedad,1
+2019-05-18,Getafe,Villarreal,X
+2019-05-18,Huesca,Leganes,1
+2019-05-18,Levante,Ath Madrid,X
+2019-05-18,Sevilla,Ath Bilbao,1
+2019-05-18,Valladolid,Valencia,2
+2019-05-19,Eibar,Barcelona,X
+2019-05-19,Real Madrid,Betis,2

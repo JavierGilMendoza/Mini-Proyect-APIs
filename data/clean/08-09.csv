@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2008-08-30,Español,Valladolid,1
+2008-08-30,Valencia,Mallorca,1
+2008-08-31,Ath Bilbao,Almeria,2
+2008-08-31,Ath Madrid,Malaga,1
+2008-08-31,Betis,Recreativo,2
+2008-08-31,La Coruña,Real Madrid,1
+2008-08-31,Numancia,Barcelona,1
+2008-08-31,Osasuna,Villarreal,X
+2008-08-31,Santander,Sevilla,X
+2008-08-31,Sp Gijon,Getafe,2
+2008-09-13,Barcelona,Santander,X
+2008-09-13,Valladolid,Ath Madrid,1
+2008-09-14,Almeria,Valencia,X
+2008-09-14,Getafe,Betis,X
+2008-09-14,Malaga,Ath Bilbao,X
+2008-09-14,Mallorca,Osasuna,X
+2008-09-14,Real Madrid,Numancia,1
+2008-09-14,Recreativo,Español,2
+2008-09-14,Sevilla,Sp Gijon,1
+2008-09-14,Villarreal,La Coruña,1
+2008-09-20,Ath Madrid,Recreativo,1
+2008-09-20,Español,Getafe,X
+2008-09-21,Almeria,Malaga,1
+2008-09-21,Ath Bilbao,Valladolid,1
+2008-09-21,Betis,Sevilla,X
+2008-09-21,La Coruña,Mallorca,X
+2008-09-21,Numancia,Villarreal,2
+2008-09-21,Santander,Real Madrid,2
+2008-09-21,Sp Gijon,Barcelona,2
+2008-09-21,Valencia,Osasuna,1
+2008-09-24,Barcelona,Betis,1
+2008-09-24,Getafe,Ath Madrid,2
+2008-09-24,Osasuna,La Coruña,X
+2008-09-24,Real Madrid,Sp Gijon,1
+2008-09-24,Sevilla,Español,1
+2008-09-24,Villarreal,Santander,1
+2008-09-25,Malaga,Valencia,2
+2008-09-25,Mallorca,Numancia,1
+2008-09-25,Recreativo,Ath Bilbao,X
+2008-09-25,Valladolid,Almeria,1
+2008-09-27,Betis,Real Madrid,2
+2008-09-27,Español,Barcelona,2
+2008-09-27,Sp Gijon,Villarreal,2
+2008-09-28,Almeria,Recreativo,1
+2008-09-28,Ath Bilbao,Getafe,2
+2008-09-28,Ath Madrid,Sevilla,2
+2008-09-28,Malaga,Valladolid,1
+2008-09-28,Numancia,Osasuna,X
+2008-09-28,Santander,Mallorca,2
+2008-09-28,Valencia,La Coruña,1
+2008-10-04,Barcelona,Ath Madrid,1
+2008-10-04,Villarreal,Betis,1
+2008-10-05,Getafe,Almeria,X
+2008-10-05,La Coruña,Numancia,1
+2008-10-05,Mallorca,Sp Gijon,2
+2008-10-05,Osasuna,Santander,2
+2008-10-05,Real Madrid,Español,X
+2008-10-05,Recreativo,Malaga,2
+2008-10-05,Sevilla,Ath Bilbao,1
+2008-10-05,Valladolid,Valencia,2
+2008-10-18,Ath Madrid,Real Madrid,2
+2008-10-18,Español,Villarreal,X
+2008-10-19,Almeria,Sevilla,2
+2008-10-19,Ath Bilbao,Barcelona,2
+2008-10-19,Betis,Mallorca,1
+2008-10-19,Malaga,Getafe,1
+2008-10-19,Santander,La Coruña,X
+2008-10-19,Sp Gijon,Osasuna,1
+2008-10-19,Valencia,Numancia,1
+2008-10-19,Valladolid,Recreativo,X
+2008-10-25,Barcelona,Almeria,1
+2008-10-25,Osasuna,Betis,2
+2008-10-26,Getafe,Valladolid,1
+2008-10-26,La Coruña,Sp Gijon,2
+2008-10-26,Mallorca,Español,1
+2008-10-26,Numancia,Santander,1
+2008-10-26,Real Madrid,Ath Bilbao,1
+2008-10-26,Recreativo,Valencia,X
+2008-10-26,Sevilla,Malaga,2
+2008-10-26,Villarreal,Ath Madrid,X
+2008-11-01,Ath Bilbao,Villarreal,2
+2008-11-01,Ath Madrid,Mallorca,1
+2008-11-01,Malaga,Barcelona,2
+2008-11-01,Valencia,Santander,2
+2008-11-02,Almeria,Real Madrid,X
+2008-11-02,Betis,La Coruña,2
+2008-11-02,Español,Osasuna,1
+2008-11-02,Recreativo,Getafe,X
+2008-11-02,Sp Gijon,Numancia,1
+2008-11-02,Valladolid,Sevilla,1
+2008-11-08,Barcelona,Valladolid,1
+2008-11-08,Real Madrid,Malaga,1
+2008-11-09,Getafe,Valencia,2
+2008-11-09,La Coruña,Español,1
+2008-11-09,Mallorca,Ath Bilbao,X
+2008-11-09,Numancia,Betis,2
+2008-11-09,Osasuna,Ath Madrid,X
+2008-11-09,Santander,Sp Gijon,1
+2008-11-09,Sevilla,Recreativo,1
+2008-11-09,Villarreal,Almeria,1
+2008-11-15,Valencia,Sp Gijon,2
+2008-11-15,Valladolid,Real Madrid,1
+2008-11-16,Almeria,Mallorca,1
+2008-11-16,Ath Bilbao,Osasuna,1
+2008-11-16,Ath Madrid,La Coruña,1
+2008-11-16,Betis,Santander,1
+2008-11-16,Español,Numancia,2
+2008-11-16,Getafe,Sevilla,2
+2008-11-16,Malaga,Villarreal,X
+2008-11-16,Recreativo,Barcelona,2
+2008-11-22,Real Madrid,Recreativo,1
+2008-11-22,Sevilla,Valencia,X
+2008-11-22,Villarreal,Valladolid,2
+2008-11-23,Barcelona,Getafe,X
+2008-11-23,La Coruña,Ath Bilbao,1
+2008-11-23,Mallorca,Malaga,X
+2008-11-23,Numancia,Ath Madrid,X
+2008-11-23,Osasuna,Almeria,1
+2008-11-23,Santander,Español,1
+2008-11-23,Sp Gijon,Betis,2
+2008-11-29,Getafe,Real Madrid,1
+2008-11-29,Sevilla,Barcelona,2
+2008-11-30,Almeria,La Coruña,2
+2008-11-30,Ath Bilbao,Numancia,1
+2008-11-30,Ath Madrid,Santander,1
+2008-11-30,Español,Sp Gijon,2
+2008-11-30,Malaga,Osasuna,1
+2008-11-30,Recreativo,Villarreal,2
+2008-11-30,Valencia,Betis,1
+2008-11-30,Valladolid,Mallorca,1
+2008-12-06,Barcelona,Valencia,1
+2008-12-06,Sp Gijon,Ath Madrid,2
+2008-12-06,Villarreal,Getafe,X
+2008-12-07,Betis,Español,X
+2008-12-07,La Coruña,Malaga,1
+2008-12-07,Mallorca,Recreativo,2
+2008-12-07,Numancia,Almeria,1
+2008-12-07,Osasuna,Valladolid,X
+2008-12-07,Real Madrid,Sevilla,2
+2008-12-07,Santander,Ath Bilbao,X
+2008-12-13,Barcelona,Real Madrid,1
+2008-12-13,Valencia,Español,1
+2008-12-14,Almeria,Santander,X
+2008-12-14,Ath Bilbao,Sp Gijon,1
+2008-12-14,Ath Madrid,Betis,1
+2008-12-14,Getafe,Mallorca,1
+2008-12-14,Malaga,Numancia,1
+2008-12-14,Recreativo,Osasuna,1
+2008-12-14,Sevilla,Villarreal,1
+2008-12-14,Valladolid,La Coruña,1
+2008-12-20,Español,Ath Madrid,2
+2008-12-20,Real Madrid,Valencia,1
+2008-12-21,Betis,Ath Bilbao,2
+2008-12-21,La Coruña,Recreativo,1
+2008-12-21,Mallorca,Sevilla,X
+2008-12-21,Numancia,Valladolid,1
+2008-12-21,Osasuna,Getafe,1
+2008-12-21,Santander,Malaga,X
+2008-12-21,Sp Gijon,Almeria,1
+2008-12-21,Villarreal,Barcelona,2
+2009-01-03,Barcelona,Mallorca,1
+2009-01-03,Valencia,Ath Madrid,1
+2009-01-04,Almeria,Betis,1
+2009-01-04,Ath Bilbao,Español,X
+2009-01-04,Getafe,La Coruña,2
+2009-01-04,Malaga,Sp Gijon,1
+2009-01-04,Real Madrid,Villarreal,1
+2009-01-04,Recreativo,Numancia,1
+2009-01-04,Sevilla,Osasuna,X
+2009-01-04,Valladolid,Santander,2
+2009-01-10,La Coruña,Sevilla,2
+2009-01-10,Valencia,Villarreal,X
+2009-01-11,Ath Madrid,Ath Bilbao,2
+2009-01-11,Betis,Malaga,2
+2009-01-11,Español,Almeria,X
+2009-01-11,Mallorca,Real Madrid,2
+2009-01-11,Numancia,Getafe,1
+2009-01-11,Osasuna,Barcelona,2
+2009-01-11,Santander,Recreativo,X
+2009-01-11,Sp Gijon,Valladolid,1
+2009-01-17,Barcelona,La Coruña,1
+2009-01-17,Sevilla,Numancia,1
+2009-01-18,Almeria,Ath Madrid,X
+2009-01-18,Ath Bilbao,Valencia,1
+2009-01-18,Getafe,Santander,2
+2009-01-18,Malaga,Español,1
+2009-01-18,Real Madrid,Osasuna,1
+2009-01-18,Recreativo,Sp Gijon,1
+2009-01-18,Valladolid,Betis,2
+2009-01-18,Villarreal,Mallorca,1
+2009-01-24,Barcelona,Numancia,1
+2009-01-24,Villarreal,Osasuna,X
+2009-01-25,Almeria,Ath Bilbao,1
+2009-01-25,Getafe,Sp Gijon,1
+2009-01-25,Malaga,Ath Madrid,X
+2009-01-25,Mallorca,Valencia,1
+2009-01-25,Real Madrid,La Coruña,1
+2009-01-25,Recreativo,Betis,1
+2009-01-25,Sevilla,Santander,2
+2009-01-25,Valladolid,Español,X
+2009-01-31,Ath Bilbao,Malaga,1
+2009-01-31,Numancia,Real Madrid,2
+2009-02-01,Ath Madrid,Valladolid,2
+2009-02-01,Betis,Getafe,X
+2009-02-01,Español,Recreativo,X
+2009-02-01,La Coruña,Villarreal,1
+2009-02-01,Osasuna,Mallorca,1
+2009-02-01,Santander,Barcelona,2
+2009-02-01,Sp Gijon,Sevilla,1
+2009-02-01,Valencia,Almeria,1
+2009-02-07,Real Madrid,Santander,1
+2009-02-07,Sevilla,Betis,2
+2009-02-08,Barcelona,Sp Gijon,1
+2009-02-08,Getafe,Español,X
+2009-02-08,Malaga,Almeria,1
+2009-02-08,Mallorca,La Coruña,X
+2009-02-08,Osasuna,Valencia,1
+2009-02-08,Recreativo,Ath Madrid,2
+2009-02-08,Valladolid,Ath Bilbao,1
+2009-02-08,Villarreal,Numancia,1
+2009-02-14,Betis,Barcelona,X
+2009-02-14,La Coruña,Osasuna,X
+2009-02-14,Valencia,Malaga,X
+2009-02-15,Almeria,Valladolid,1
+2009-02-15,Ath Bilbao,Recreativo,X
+2009-02-15,Ath Madrid,Getafe,X
+2009-02-15,Español,Sevilla,2
+2009-02-15,Numancia,Mallorca,2
+2009-02-15,Santander,Villarreal,X
+2009-02-15,Sp Gijon,Real Madrid,2
+2009-02-21,Barcelona,Español,2
+2009-02-21,Real Madrid,Betis,1
+2009-02-21,Sevilla,Ath Madrid,1
+2009-02-21,Villarreal,Sp Gijon,1
+2009-02-22,Getafe,Ath Bilbao,X
+2009-02-22,La Coruña,Valencia,X
+2009-02-22,Mallorca,Santander,1
+2009-02-22,Osasuna,Numancia,1
+2009-02-22,Recreativo,Almeria,X
+2009-02-22,Valladolid,Malaga,2
+2009-02-28,Ath Bilbao,Sevilla,2
+2009-02-28,Español,Real Madrid,2
+2009-03-01,Almeria,Getafe,1
+2009-03-01,Ath Madrid,Barcelona,1
+2009-03-01,Betis,Villarreal,X
+2009-03-01,Malaga,Recreativo,2
+2009-03-01,Numancia,La Coruña,2
+2009-03-01,Santander,Osasuna,X
+2009-03-01,Sp Gijon,Mallorca,2
+2009-03-01,Valencia,Valladolid,2
+2009-03-07,Barcelona,Ath Bilbao,1
+2009-03-07,Real Madrid,Ath Madrid,X
+2009-03-07,Villarreal,Español,1
+2009-03-08,Getafe,Malaga,2
+2009-03-08,La Coruña,Santander,1
+2009-03-08,Mallorca,Betis,X
+2009-03-08,Numancia,Valencia,1
+2009-03-08,Osasuna,Sp Gijon,2
+2009-03-08,Recreativo,Valladolid,2
+2009-03-08,Sevilla,Almeria,1
+2009-03-14,Ath Bilbao,Real Madrid,2
+2009-03-14,Valencia,Recreativo,X
+2009-03-15,Almeria,Barcelona,2
+2009-03-15,Ath Madrid,Villarreal,1
+2009-03-15,Betis,Osasuna,X
+2009-03-15,Español,Mallorca,X
+2009-03-15,Malaga,Sevilla,X
+2009-03-15,Santander,Numancia,1
+2009-03-15,Sp Gijon,La Coruña,1
+2009-03-15,Valladolid,Getafe,1
+2009-03-21,Sevilla,Valladolid,1
+2009-03-21,Villarreal,Ath Bilbao,1
+2009-03-22,Barcelona,Malaga,1
+2009-03-22,Getafe,Recreativo,1
+2009-03-22,La Coruña,Betis,X
+2009-03-22,Mallorca,Ath Madrid,1
+2009-03-22,Numancia,Sp Gijon,1
+2009-03-22,Osasuna,Español,1
+2009-03-22,Real Madrid,Almeria,1
+2009-03-22,Santander,Valencia,2
+2009-04-04,Almeria,Villarreal,1
+2009-04-04,Ath Bilbao,Mallorca,1
+2009-04-04,Betis,Numancia,X
+2009-04-04,Malaga,Real Madrid,2
+2009-04-04,Recreativo,Sevilla,2
+2009-04-04,Valladolid,Barcelona,2
+2009-04-05,Ath Madrid,Osasuna,2
+2009-04-05,Español,La Coruña,1
+2009-04-05,Sp Gijon,Santander,2
+2009-04-05,Valencia,Getafe,1
+2009-04-11,Barcelona,Recreativo,1
+2009-04-11,Villarreal,Malaga,2
+2009-04-12,La Coruña,Ath Madrid,2
+2009-04-12,Mallorca,Almeria,1
+2009-04-12,Numancia,Español,X
+2009-04-12,Osasuna,Ath Bilbao,1
+2009-04-12,Real Madrid,Valladolid,1
+2009-04-12,Santander,Betis,2
+2009-04-12,Sevilla,Getafe,2
+2009-04-12,Sp Gijon,Valencia,2
+2009-04-18,Ath Bilbao,La Coruña,2
+2009-04-18,Ath Madrid,Numancia,1
+2009-04-18,Getafe,Barcelona,2
+2009-04-18,Malaga,Mallorca,X
+2009-04-18,Recreativo,Real Madrid,2
+2009-04-19,Almeria,Osasuna,1
+2009-04-19,Betis,Sp Gijon,1
+2009-04-19,Español,Santander,1
+2009-04-19,Valencia,Sevilla,1
+2009-04-19,Valladolid,Villarreal,X
+2009-04-21,Numancia,Ath Bilbao,2
+2009-04-21,Real Madrid,Getafe,1
+2009-04-22,Barcelona,Sevilla,1
+2009-04-22,Betis,Valencia,2
+2009-04-22,La Coruña,Almeria,1
+2009-04-22,Osasuna,Malaga,2
+2009-04-23,Mallorca,Valladolid,1
+2009-04-23,Santander,Ath Madrid,1
+2009-04-23,Sp Gijon,Español,2
+2009-04-23,Villarreal,Recreativo,1
+2009-04-25,Almeria,Numancia,1
+2009-04-25,Malaga,La Coruña,X
+2009-04-25,Valencia,Barcelona,X
+2009-04-26,Ath Bilbao,Santander,1
+2009-04-26,Ath Madrid,Sp Gijon,1
+2009-04-26,Español,Betis,1
+2009-04-26,Getafe,Villarreal,2
+2009-04-26,Recreativo,Mallorca,2
+2009-04-26,Sevilla,Real Madrid,2
+2009-04-26,Valladolid,Osasuna,X
+2009-05-02,Numancia,Malaga,1
+2009-05-02,Real Madrid,Barcelona,2
+2009-05-02,Villarreal,Sevilla,2
+2009-05-03,Betis,Ath Madrid,2
+2009-05-03,Español,Valencia,1
+2009-05-03,La Coruña,Valladolid,1
+2009-05-03,Mallorca,Getafe,1
+2009-05-03,Osasuna,Recreativo,2
+2009-05-03,Santander,Almeria,2
+2009-05-03,Sp Gijon,Ath Bilbao,X
+2009-05-09,Ath Bilbao,Betis,1
+2009-05-09,Sevilla,Mallorca,1
+2009-05-09,Valencia,Real Madrid,1
+2009-05-10,Almeria,Sp Gijon,1
+2009-05-10,Ath Madrid,Español,1
+2009-05-10,Barcelona,Villarreal,X
+2009-05-10,Getafe,Osasuna,1
+2009-05-10,Malaga,Santander,1
+2009-05-10,Recreativo,La Coruña,2
+2009-05-10,Valladolid,Numancia,X
+2009-05-16,La Coruña,Getafe,X
+2009-05-16,Osasuna,Sevilla,X
+2009-05-16,Villarreal,Real Madrid,1
+2009-05-17,Ath Madrid,Valencia,1
+2009-05-17,Betis,Almeria,1
+2009-05-17,Español,Ath Bilbao,1
+2009-05-17,Mallorca,Barcelona,1
+2009-05-17,Numancia,Recreativo,1
+2009-05-17,Santander,Valladolid,1
+2009-05-17,Sp Gijon,Malaga,1
+2009-05-23,Almeria,Español,2
+2009-05-23,Ath Bilbao,Ath Madrid,2
+2009-05-23,Barcelona,Osasuna,2
+2009-05-23,Getafe,Numancia,1
+2009-05-23,Malaga,Betis,X
+2009-05-23,Recreativo,Santander,2
+2009-05-23,Sevilla,La Coruña,1
+2009-05-23,Valladolid,Sp Gijon,2
+2009-05-23,Villarreal,Valencia,1
+2009-05-24,Real Madrid,Mallorca,2
+2009-05-30,Ath Madrid,Almeria,1
+2009-05-30,La Coruña,Barcelona,X
+2009-05-30,Mallorca,Villarreal,2
+2009-05-30,Valencia,Ath Bilbao,1
+2009-05-31,Betis,Valladolid,X
+2009-05-31,Español,Malaga,1
+2009-05-31,Numancia,Sevilla,2
+2009-05-31,Osasuna,Real Madrid,1
+2009-05-31,Santander,Getafe,X
+2009-05-31,Sp Gijon,Recreativo,1

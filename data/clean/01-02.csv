@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2001-08-25,Valencia,Real Madrid,1
+2001-08-26,La Coruña,Valladolid,1
+2001-08-26,Español,Zaragoza,1
+2001-08-26,Malaga,Betis,1
+2001-08-26,Mallorca,Las Palmas,2
+2001-08-26,Osasuna,Celta,2
+2001-08-26,Sociedad,Ath Bilbao,2
+2001-08-26,Vallecano,Villarreal,2
+2001-08-26,Sevilla,Barcelona,2
+2001-08-26,Tenerife,Alaves,2
+2001-09-08,Ath Bilbao,Mallorca,2
+2001-09-08,Las Palmas,La Coruña,2
+2001-09-08,Real Madrid,Malaga,X
+2001-09-08,Villarreal,Osasuna,1
+2001-09-09,Alaves,Sociedad,1
+2001-09-09,Barcelona,Vallecano,X
+2001-09-09,Betis,Español,1
+2001-09-09,Celta,Tenerife,1
+2001-09-09,Valladolid,Valencia,X
+2001-09-09,Zaragoza,Sevilla,X
+2001-09-15,Betis,Real Madrid,1
+2001-09-15,La Coruña,Ath Bilbao,2
+2001-09-15,Mallorca,Alaves,X
+2001-09-15,Osasuna,Barcelona,X
+2001-09-16,Español,Sevilla,2
+2001-09-16,Malaga,Valladolid,2
+2001-09-16,Sociedad,Celta,X
+2001-09-16,Vallecano,Zaragoza,2
+2001-09-16,Tenerife,Villarreal,1
+2001-09-16,Valencia,Las Palmas,1
+2001-09-22,Alaves,La Coruña,2
+2001-09-22,Barcelona,Tenerife,1
+2001-09-22,Las Palmas,Malaga,X
+2001-09-22,Real Madrid,Español,1
+2001-09-22,Villarreal,Sociedad,1
+2001-09-23,Ath Bilbao,Valencia,X
+2001-09-23,Celta,Mallorca,1
+2001-09-23,Sevilla,Vallecano,1
+2001-09-23,Valladolid,Betis,2
+2001-09-23,Zaragoza,Osasuna,2
+2001-09-29,Español,Vallecano,1
+2001-09-29,Malaga,Ath Bilbao,2
+2001-09-29,Real Madrid,Valladolid,X
+2001-09-29,Sociedad,Barcelona,2
+2001-09-30,Betis,Las Palmas,1
+2001-09-30,La Coruña,Celta,X
+2001-09-30,Mallorca,Villarreal,2
+2001-09-30,Osasuna,Sevilla,1
+2001-09-30,Tenerife,Zaragoza,X
+2001-09-30,Valencia,Alaves,X
+2001-10-03,Alaves,Malaga,1
+2001-10-03,Ath Bilbao,Betis,X
+2001-10-03,Barcelona,Mallorca,1
+2001-10-03,Las Palmas,Real Madrid,1
+2001-10-03,Vallecano,Osasuna,2
+2001-10-03,Sevilla,Tenerife,1
+2001-10-03,Valladolid,Español,2
+2001-10-03,Villarreal,La Coruña,X
+2001-10-03,Zaragoza,Sociedad,1
+2001-10-04,Celta,Valencia,X
+2001-10-06,La Coruña,Barcelona,1
+2001-10-06,Real Madrid,Ath Bilbao,1
+2001-10-07,Betis,Alaves,1
+2001-10-07,Español,Osasuna,X
+2001-10-07,Malaga,Celta,X
+2001-10-07,Mallorca,Zaragoza,2
+2001-10-07,Sociedad,Sevilla,X
+2001-10-07,Tenerife,Vallecano,1
+2001-10-07,Valencia,Villarreal,1
+2001-10-07,Valladolid,Las Palmas,1
+2001-10-13,Alaves,Real Madrid,X
+2001-10-13,Sevilla,Mallorca,X
+2001-10-13,Zaragoza,La Coruña,2
+2001-10-14,Ath Bilbao,Valladolid,2
+2001-10-14,Barcelona,Valencia,X
+2001-10-14,Celta,Betis,1
+2001-10-14,Las Palmas,Español,1
+2001-10-14,Osasuna,Tenerife,2
+2001-10-14,Vallecano,Sociedad,1
+2001-10-14,Villarreal,Malaga,2
+2001-10-20,Betis,Villarreal,X
+2001-10-20,La Coruña,Sevilla,1
+2001-10-20,Las Palmas,Ath Bilbao,X
+2001-10-20,Malaga,Barcelona,X
+2001-10-20,Sociedad,Osasuna,1
+2001-10-21,Español,Tenerife,1
+2001-10-21,Mallorca,Vallecano,1
+2001-10-21,Real Madrid,Celta,X
+2001-10-21,Valencia,Zaragoza,1
+2001-10-21,Valladolid,Alaves,2
+2001-10-27,Barcelona,Betis,1
+2001-10-27,Osasuna,Mallorca,1
+2001-10-27,Vallecano,La Coruña,1
+2001-10-27,Tenerife,Sociedad,2
+2001-10-27,Villarreal,Real Madrid,2
+2001-10-28,Alaves,Las Palmas,1
+2001-10-28,Ath Bilbao,Español,X
+2001-10-28,Celta,Valladolid,X
+2001-10-28,Sevilla,Valencia,X
+2001-10-28,Zaragoza,Malaga,2
+2001-11-03,Ath Bilbao,Alaves,1
+2001-11-04,Betis,Zaragoza,2
+2001-11-04,La Coruña,Osasuna,1
+2001-11-04,Español,Sociedad,2
+2001-11-04,Las Palmas,Celta,1
+2001-11-04,Malaga,Sevilla,2
+2001-11-04,Mallorca,Tenerife,1
+2001-11-04,Real Madrid,Barcelona,1
+2001-11-04,Valencia,Vallecano,1
+2001-11-04,Valladolid,Villarreal,1
+2001-11-10,Sevilla,Betis,X
+2001-11-11,Alaves,Español,1
+2001-11-11,Barcelona,Valladolid,1
+2001-11-11,Celta,Ath Bilbao,2
+2001-11-11,Osasuna,Valencia,X
+2001-11-11,Sociedad,Mallorca,2
+2001-11-11,Vallecano,Malaga,1
+2001-11-11,Tenerife,La Coruña,1
+2001-11-11,Villarreal,Las Palmas,1
+2001-11-11,Zaragoza,Real Madrid,1
+2001-11-17,La Coruña,Sociedad,1
+2001-11-17,Las Palmas,Barcelona,X
+2001-11-17,Real Madrid,Sevilla,1
+2001-11-18,Alaves,Celta,1
+2001-11-18,Ath Bilbao,Villarreal,X
+2001-11-18,Betis,Vallecano,1
+2001-11-18,Español,Mallorca,1
+2001-11-18,Malaga,Osasuna,1
+2001-11-18,Valencia,Tenerife,X
+2001-11-18,Valladolid,Zaragoza,1
+2001-11-24,Barcelona,Ath Bilbao,2
+2001-11-25,Celta,Español,1
+2001-11-25,Mallorca,La Coruña,1
+2001-11-25,Osasuna,Betis,2
+2001-11-25,Sociedad,Valencia,1
+2001-11-25,Vallecano,Real Madrid,2
+2001-11-25,Sevilla,Valladolid,1
+2001-11-25,Tenerife,Malaga,1
+2001-11-25,Villarreal,Alaves,1
+2001-11-25,Zaragoza,Las Palmas,1
+2001-12-01,Alaves,Barcelona,1
+2001-12-01,Español,La Coruña,1
+2001-12-01,Real Madrid,Osasuna,1
+2001-12-01,Valencia,Mallorca,X
+2001-12-02,Ath Bilbao,Zaragoza,1
+2001-12-02,Betis,Tenerife,1
+2001-12-02,Celta,Villarreal,1
+2001-12-02,Las Palmas,Sevilla,1
+2001-12-02,Malaga,Sociedad,1
+2001-12-02,Valladolid,Vallecano,1
+2001-12-08,Sevilla,Ath Bilbao,X
+2001-12-08,Tenerife,Real Madrid,2
+2001-12-09,Barcelona,Celta,X
+2001-12-09,La Coruña,Valencia,1
+2001-12-09,Mallorca,Malaga,X
+2001-12-09,Osasuna,Valladolid,1
+2001-12-09,Sociedad,Betis,X
+2001-12-09,Vallecano,Las Palmas,X
+2001-12-09,Villarreal,Español,X
+2001-12-09,Zaragoza,Alaves,2
+2001-12-15,Español,Valencia,2
+2001-12-15,Las Palmas,Osasuna,X
+2001-12-15,Real Madrid,Sociedad,1
+2001-12-16,Alaves,Sevilla,2
+2001-12-16,Ath Bilbao,Vallecano,X
+2001-12-16,Betis,Mallorca,1
+2001-12-16,Celta,Zaragoza,1
+2001-12-16,Malaga,La Coruña,X
+2001-12-16,Valladolid,Tenerife,X
+2001-12-16,Villarreal,Barcelona,2
+2001-12-22,La Coruña,Betis,1
+2001-12-22,Español,Barcelona,1
+2001-12-22,Sociedad,Valladolid,1
+2001-12-22,Sevilla,Celta,2
+2001-12-22,Tenerife,Las Palmas,2
+2001-12-22,Valencia,Malaga,1
+2001-12-23,Mallorca,Real Madrid,X
+2001-12-23,Osasuna,Ath Bilbao,2
+2001-12-23,Zaragoza,Villarreal,1
+2002-01-05,Celta,Vallecano,X
+2002-01-05,Las Palmas,Sociedad,X
+2002-01-05,Real Madrid,La Coruña,1
+2002-01-05,Villarreal,Sevilla,2
+2002-01-06,Alaves,Osasuna,2
+2002-01-06,Ath Bilbao,Tenerife,2
+2002-01-06,Barcelona,Zaragoza,1
+2002-01-06,Betis,Valencia,2
+2002-01-06,Malaga,Español,1
+2002-01-06,Valladolid,Mallorca,1
+2002-01-12,Ath Bilbao,Sociedad,1
+2002-01-12,Villarreal,Vallecano,X
+2002-01-13,Alaves,Tenerife,1
+2002-01-13,Barcelona,Sevilla,1
+2002-01-13,Betis,Malaga,X
+2002-01-13,Celta,Osasuna,X
+2002-01-13,Las Palmas,Mallorca,1
+2002-01-13,Real Madrid,Valencia,1
+2002-01-13,Valladolid,La Coruña,1
+2002-01-13,Zaragoza,Español,X
+2002-01-19,Malaga,Real Madrid,X
+2002-01-19,Sociedad,Alaves,2
+2002-01-20,La Coruña,Las Palmas,1
+2002-01-20,Español,Betis,X
+2002-01-20,Mallorca,Ath Bilbao,1
+2002-01-20,Osasuna,Villarreal,X
+2002-01-20,Vallecano,Barcelona,1
+2002-01-20,Sevilla,Zaragoza,1
+2002-01-20,Tenerife,Celta,X
+2002-01-20,Valencia,Valladolid,2
+2002-01-23,Vallecano,Alaves,1
+2002-01-26,Celta,Sociedad,1
+2002-01-26,Las Palmas,Valencia,2
+2002-01-27,Alaves,Mallorca,2
+2002-01-27,Ath Bilbao,La Coruña,X
+2002-01-27,Barcelona,Osasuna,2
+2002-01-27,Real Madrid,Betis,X
+2002-01-27,Sevilla,Español,1
+2002-01-27,Valladolid,Malaga,X
+2002-01-27,Villarreal,Tenerife,1
+2002-01-27,Zaragoza,Vallecano,1
+2002-02-02,La Coruña,Alaves,2
+2002-02-02,Mallorca,Celta,2
+2002-02-02,Sociedad,Villarreal,1
+2002-02-02,Vallecano,Sevilla,1
+2002-02-02,Tenerife,Barcelona,2
+2002-02-03,Betis,Valladolid,1
+2002-02-03,Español,Real Madrid,1
+2002-02-03,Malaga,Las Palmas,X
+2002-02-03,Osasuna,Zaragoza,X
+2002-02-03,Valencia,Ath Bilbao,1
+2002-02-05,Celta,La Coruña,2
+2002-02-06,Alaves,Valencia,2
+2002-02-06,Ath Bilbao,Malaga,1
+2002-02-06,Barcelona,Sociedad,1
+2002-02-06,Las Palmas,Betis,X
+2002-02-06,Vallecano,Español,X
+2002-02-06,Sevilla,Osasuna,X
+2002-02-06,Valladolid,Real Madrid,1
+2002-02-06,Villarreal,Mallorca,1
+2002-02-06,Zaragoza,Tenerife,X
+2002-02-09,Mallorca,Barcelona,X
+2002-02-09,Valencia,Celta,X
+2002-02-10,Betis,Ath Bilbao,X
+2002-02-10,La Coruña,Villarreal,X
+2002-02-10,Español,Valladolid,1
+2002-02-10,Malaga,Alaves,1
+2002-02-10,Osasuna,Vallecano,1
+2002-02-10,Real Madrid,Las Palmas,1
+2002-02-10,Sociedad,Zaragoza,1
+2002-02-10,Tenerife,Sevilla,X
+2002-02-16,Ath Bilbao,Real Madrid,1
+2002-02-16,Barcelona,La Coruña,1
+2002-02-16,Villarreal,Valencia,X
+2002-02-17,Alaves,Betis,2
+2002-02-17,Celta,Malaga,X
+2002-02-17,Las Palmas,Valladolid,X
+2002-02-17,Osasuna,Español,X
+2002-02-17,Vallecano,Tenerife,1
+2002-02-17,Sevilla,Sociedad,2
+2002-02-17,Zaragoza,Mallorca,1
+2002-02-23,La Coruña,Zaragoza,1
+2002-02-23,Real Madrid,Alaves,1
+2002-02-23,Valencia,Barcelona,1
+2002-02-24,Betis,Celta,1
+2002-02-24,Español,Las Palmas,1
+2002-02-24,Malaga,Villarreal,1
+2002-02-24,Mallorca,Sevilla,2
+2002-02-24,Sociedad,Vallecano,X
+2002-02-24,Tenerife,Osasuna,1
+2002-02-24,Valladolid,Ath Bilbao,1
+2002-03-02,Celta,Real Madrid,2
+2002-03-02,Sevilla,La Coruña,2
+2002-03-02,Villarreal,Betis,X
+2002-03-03,Alaves,Valladolid,1
+2002-03-03,Ath Bilbao,Las Palmas,1
+2002-03-03,Barcelona,Malaga,1
+2002-03-03,Osasuna,Sociedad,X
+2002-03-03,Vallecano,Mallorca,2
+2002-03-03,Tenerife,Español,X
+2002-03-03,Zaragoza,Valencia,2
+2002-03-09,Betis,Barcelona,1
+2002-03-09,La Coruña,Vallecano,X
+2002-03-09,Las Palmas,Alaves,1
+2002-03-09,Real Madrid,Villarreal,1
+2002-03-10,Español,Ath Bilbao,1
+2002-03-10,Malaga,Zaragoza,1
+2002-03-10,Mallorca,Osasuna,1
+2002-03-10,Sociedad,Tenerife,2
+2002-03-10,Valencia,Sevilla,1
+2002-03-10,Valladolid,Celta,2
+2002-03-16,Barcelona,Real Madrid,X
+2002-03-16,Osasuna,La Coruña,2
+2002-03-17,Alaves,Ath Bilbao,2
+2002-03-17,Celta,Las Palmas,1
+2002-03-17,Sociedad,Español,1
+2002-03-17,Vallecano,Valencia,1
+2002-03-17,Sevilla,Malaga,2
+2002-03-17,Tenerife,Mallorca,X
+2002-03-17,Villarreal,Valladolid,X
+2002-03-17,Zaragoza,Betis,X
+2002-03-23,Betis,Sevilla,X
+2002-03-23,Las Palmas,Villarreal,1
+2002-03-23,Malaga,Vallecano,X
+2002-03-24,Ath Bilbao,Celta,2
+2002-03-24,La Coruña,Tenerife,1
+2002-03-24,Español,Alaves,2
+2002-03-24,Mallorca,Sociedad,2
+2002-03-24,Real Madrid,Zaragoza,1
+2002-03-24,Valencia,Osasuna,1
+2002-03-24,Valladolid,Barcelona,2
+2002-03-30,Barcelona,Las Palmas,X
+2002-03-30,Celta,Alaves,1
+2002-03-30,Sociedad,La Coruña,X
+2002-03-30,Sevilla,Real Madrid,2
+2002-03-30,Tenerife,Valencia,2
+2002-03-31,Mallorca,Español,1
+2002-03-31,Osasuna,Malaga,2
+2002-03-31,Vallecano,Betis,X
+2002-03-31,Villarreal,Ath Bilbao,1
+2002-03-31,Zaragoza,Valladolid,X
+2002-04-06,Ath Bilbao,Barcelona,2
+2002-04-06,La Coruña,Mallorca,1
+2002-04-06,Las Palmas,Zaragoza,X
+2002-04-06,Real Madrid,Vallecano,1
+2002-04-07,Alaves,Villarreal,1
+2002-04-07,Betis,Osasuna,X
+2002-04-07,Español,Celta,1
+2002-04-07,Malaga,Tenerife,1
+2002-04-07,Valencia,Sociedad,1
+2002-04-07,Valladolid,Sevilla,X
+2002-04-13,Mallorca,Valencia,X
+2002-04-14,Barcelona,Alaves,1
+2002-04-14,La Coruña,Español,1
+2002-04-14,Osasuna,Real Madrid,1
+2002-04-14,Sociedad,Malaga,1
+2002-04-14,Vallecano,Valladolid,1
+2002-04-14,Sevilla,Las Palmas,X
+2002-04-14,Tenerife,Betis,1
+2002-04-14,Villarreal,Celta,1
+2002-04-14,Zaragoza,Ath Bilbao,X
+2002-04-20,Celta,Barcelona,1
+2002-04-20,Las Palmas,Vallecano,2
+2002-04-20,Real Madrid,Tenerife,1
+2002-04-21,Alaves,Zaragoza,1
+2002-04-21,Ath Bilbao,Sevilla,2
+2002-04-21,Betis,Sociedad,1
+2002-04-21,Español,Villarreal,1
+2002-04-21,Malaga,Mallorca,X
+2002-04-21,Valencia,La Coruña,1
+2002-04-21,Valladolid,Osasuna,1
+2002-04-27,Barcelona,Villarreal,1
+2002-04-27,Sociedad,Real Madrid,1
+2002-04-27,Valencia,Español,1
+2002-04-28,La Coruña,Malaga,X
+2002-04-28,Mallorca,Betis,2
+2002-04-28,Osasuna,Las Palmas,1
+2002-04-28,Vallecano,Ath Bilbao,1
+2002-04-28,Sevilla,Alaves,1
+2002-04-28,Tenerife,Valladolid,2
+2002-04-28,Zaragoza,Celta,2
+2002-05-05,Alaves,Vallecano,2
+2002-05-05,Ath Bilbao,Osasuna,X
+2002-05-05,Barcelona,Español,1
+2002-05-05,Betis,La Coruña,2
+2002-05-05,Celta,Sevilla,2
+2002-05-05,Las Palmas,Tenerife,2
+2002-05-05,Malaga,Valencia,2
+2002-05-05,Real Madrid,Mallorca,X
+2002-05-05,Valladolid,Sociedad,2
+2002-05-05,Villarreal,Zaragoza,1
+2002-05-10,La Coruña,Real Madrid,1
+2002-05-11,Español,Malaga,2
+2002-05-11,Mallorca,Valladolid,1
+2002-05-11,Osasuna,Alaves,2
+2002-05-11,Sociedad,Las Palmas,X
+2002-05-11,Vallecano,Celta,1
+2002-05-11,Sevilla,Villarreal,1
+2002-05-11,Tenerife,Ath Bilbao,2
+2002-05-11,Valencia,Betis,1
+2002-05-11,Zaragoza,Barcelona,X

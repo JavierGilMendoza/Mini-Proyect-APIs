@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2011-08-27,Granada,Betis,2
+2011-08-27,Sp Gijon,Sociedad,2
+2011-08-27,Valencia,Santander,1
+2011-08-28,Ath Bilbao,Vallecano,X
+2011-08-28,Ath Madrid,Osasuna,X
+2011-08-28,Getafe,Levante,X
+2011-08-28,Mallorca,Español,1
+2011-08-28,Sevilla,Malaga,1
+2011-08-28,Zaragoza,Real Madrid,2
+2011-08-29,Barcelona,Villarreal,1
+2011-09-10,Real Madrid,Getafe,1
+2011-09-10,Sociedad,Barcelona,X
+2011-09-10,Valencia,Ath Madrid,1
+2011-09-10,Villarreal,Sevilla,X
+2011-09-11,Betis,Mallorca,1
+2011-09-11,Español,Ath Bilbao,1
+2011-09-11,Osasuna,Sp Gijon,1
+2011-09-11,Santander,Levante,X
+2011-09-11,Vallecano,Zaragoza,X
+2011-09-12,Malaga,Granada,1
+2011-09-17,Barcelona,Osasuna,1
+2011-09-17,Granada,Villarreal,1
+2011-09-17,Mallorca,Malaga,2
+2011-09-17,Sevilla,Sociedad,1
+2011-09-17,Sp Gijon,Valencia,2
+2011-09-18,Ath Bilbao,Betis,2
+2011-09-18,Ath Madrid,Santander,1
+2011-09-18,Getafe,Vallecano,2
+2011-09-18,Levante,Real Madrid,1
+2011-09-18,Zaragoza,Español,1
+2011-09-20,Osasuna,Sevilla,X
+2011-09-20,Sociedad,Granada,1
+2011-09-20,Villarreal,Mallorca,1
+2011-09-21,Ath Madrid,Sp Gijon,1
+2011-09-21,Malaga,Ath Bilbao,1
+2011-09-21,Santander,Real Madrid,X
+2011-09-21,Valencia,Barcelona,X
+2011-09-21,Vallecano,Levante,2
+2011-09-22,Betis,Zaragoza,1
+2011-09-22,Español,Getafe,1
+2011-09-24,Ath Bilbao,Villarreal,X
+2011-09-24,Barcelona,Ath Madrid,1
+2011-09-24,Real Madrid,Vallecano,1
+2011-09-24,Sevilla,Valencia,1
+2011-09-25,Granada,Osasuna,X
+2011-09-25,Levante,Español,1
+2011-09-25,Mallorca,Sociedad,1
+2011-09-25,Sp Gijon,Santander,X
+2011-09-25,Zaragoza,Malaga,X
+2011-09-26,Getafe,Betis,1
+2011-10-01,Malaga,Getafe,1
+2011-10-01,Osasuna,Mallorca,X
+2011-10-01,Santander,Vallecano,X
+2011-10-01,Valencia,Granada,1
+2011-10-01,Villarreal,Zaragoza,X
+2011-10-02,Ath Madrid,Sevilla,X
+2011-10-02,Betis,Levante,2
+2011-10-02,Español,Real Madrid,2
+2011-10-02,Sociedad,Ath Bilbao,2
+2011-10-02,Sp Gijon,Barcelona,2
+2011-10-15,Barcelona,Santander,1
+2011-10-15,Getafe,Villarreal,X
+2011-10-15,Granada,Ath Madrid,X
+2011-10-15,Mallorca,Valencia,X
+2011-10-15,Real Madrid,Betis,1
+2011-10-16,Levante,Malaga,1
+2011-10-16,Sevilla,Sp Gijon,1
+2011-10-16,Vallecano,Español,2
+2011-10-16,Zaragoza,Sociedad,1
+2011-10-17,Ath Bilbao,Osasuna,1
+2011-10-22,Barcelona,Sevilla,X
+2011-10-22,Malaga,Real Madrid,2
+2011-10-22,Santander,Español,2
+2011-10-22,Sp Gijon,Granada,1
+2011-10-23,Ath Madrid,Mallorca,X
+2011-10-23,Betis,Vallecano,2
+2011-10-23,Osasuna,Zaragoza,1
+2011-10-23,Sociedad,Getafe,X
+2011-10-23,Valencia,Ath Bilbao,X
+2011-10-23,Villarreal,Levante,2
+2011-10-25,Granada,Barcelona,2
+2011-10-25,Sevilla,Santander,X
+2011-10-26,Getafe,Osasuna,X
+2011-10-26,Levante,Sociedad,1
+2011-10-26,Mallorca,Sp Gijon,2
+2011-10-26,Real Madrid,Villarreal,1
+2011-10-26,Vallecano,Malaga,1
+2011-10-26,Zaragoza,Valencia,2
+2011-10-27,Ath Bilbao,Ath Madrid,1
+2011-10-27,Español,Betis,1
+2011-10-29,Barcelona,Mallorca,1
+2011-10-29,Sociedad,Real Madrid,2
+2011-10-29,Valencia,Getafe,1
+2011-10-29,Villarreal,Vallecano,1
+2011-10-30,Ath Madrid,Zaragoza,1
+2011-10-30,Malaga,Español,1
+2011-10-30,Osasuna,Levante,1
+2011-10-30,Santander,Betis,1
+2011-10-30,Sp Gijon,Ath Bilbao,X
+2011-10-31,Sevilla,Granada,2
+2011-11-05,Betis,Malaga,X
+2011-11-05,Levante,Valencia,2
+2011-11-05,Mallorca,Sevilla,X
+2011-11-06,Ath Bilbao,Barcelona,X
+2011-11-06,Español,Villarreal,X
+2011-11-06,Getafe,Ath Madrid,1
+2011-11-06,Granada,Santander,X
+2011-11-06,Real Madrid,Osasuna,1
+2011-11-06,Vallecano,Sociedad,1
+2011-11-06,Zaragoza,Sp Gijon,X
+2011-11-19,Barcelona,Zaragoza,1
+2011-11-19,Valencia,Real Madrid,2
+2011-11-19,Villarreal,Betis,1
+2011-11-20,Ath Madrid,Levante,1
+2011-11-20,Osasuna,Vallecano,X
+2011-11-20,Sevilla,Ath Bilbao,2
+2011-11-20,Sociedad,Español,X
+2011-11-20,Sp Gijon,Getafe,1
+2011-11-21,Santander,Malaga,2
+2011-11-26,Getafe,Barcelona,1
+2011-11-26,Real Madrid,Ath Madrid,1
+2011-11-26,Vallecano,Valencia,2
+2011-11-27,Ath Bilbao,Granada,2
+2011-11-27,Betis,Sociedad,2
+2011-11-27,Español,Osasuna,2
+2011-11-27,Levante,Sp Gijon,1
+2011-11-27,Mallorca,Santander,1
+2011-11-27,Zaragoza,Sevilla,2
+2011-11-28,Malaga,Villarreal,1
+2011-11-29,Barcelona,Vallecano,1
+2011-12-03,Barcelona,Levante,1
+2011-12-03,Santander,Villarreal,1
+2011-12-03,Sp Gijon,Real Madrid,2
+2011-12-03,Valencia,Español,1
+2011-12-04,Ath Madrid,Vallecano,1
+2011-12-04,Granada,Zaragoza,1
+2011-12-04,Mallorca,Ath Bilbao,X
+2011-12-04,Osasuna,Betis,1
+2011-12-04,Sociedad,Malaga,1
+2011-12-05,Sevilla,Getafe,1
+2011-12-07,Granada,Mallorca,X
+2011-12-10,Betis,Valencia,1
+2011-12-10,Levante,Sevilla,1
+2011-12-10,Real Madrid,Barcelona,2
+2011-12-11,Ath Bilbao,Santander,X
+2011-12-11,Español,Ath Madrid,1
+2011-12-11,Getafe,Granada,1
+2011-12-11,Malaga,Osasuna,X
+2011-12-11,Vallecano,Sp Gijon,2
+2011-12-11,Villarreal,Sociedad,X
+2011-12-11,Zaragoza,Mallorca,2
+2011-12-17,Ath Bilbao,Zaragoza,1
+2011-12-17,Mallorca,Getafe,2
+2011-12-17,Sevilla,Real Madrid,2
+2011-12-17,Sp Gijon,Español,2
+2011-12-18,Ath Madrid,Betis,2
+2011-12-18,Granada,Levante,1
+2011-12-18,Osasuna,Villarreal,1
+2011-12-18,Santander,Sociedad,X
+2011-12-18,Valencia,Malaga,1
+2012-01-07,Levante,Mallorca,X
+2012-01-07,Malaga,Ath Madrid,X
+2012-01-07,Real Madrid,Granada,1
+2012-01-07,Santander,Zaragoza,1
+2012-01-07,Sociedad,Osasuna,X
+2012-01-08,Betis,Sp Gijon,1
+2012-01-08,Español,Barcelona,X
+2012-01-08,Getafe,Ath Bilbao,X
+2012-01-08,Vallecano,Sevilla,1
+2012-01-08,Villarreal,Valencia,X
+2012-01-14,Granada,Vallecano,2
+2012-01-14,Mallorca,Real Madrid,2
+2012-01-14,Sevilla,Español,X
+2012-01-14,Valencia,Sociedad,2
+2012-01-14,Zaragoza,Getafe,X
+2012-01-15,Ath Bilbao,Levante,1
+2012-01-15,Ath Madrid,Villarreal,1
+2012-01-15,Barcelona,Betis,1
+2012-01-15,Osasuna,Santander,2
+2012-01-15,Sp Gijon,Malaga,1
+2012-01-21,Betis,Sevilla,X
+2012-01-21,Español,Granada,1
+2012-01-21,Santander,Getafe,2
+2012-01-21,Sociedad,Ath Madrid,2
+2012-01-22,Levante,Zaragoza,X
+2012-01-22,Malaga,Barcelona,2
+2012-01-22,Osasuna,Valencia,X
+2012-01-22,Real Madrid,Ath Bilbao,1
+2012-01-22,Vallecano,Mallorca,2
+2012-01-23,Villarreal,Sp Gijon,1
+2012-01-28,Español,Mallorca,1
+2012-01-28,Real Madrid,Zaragoza,1
+2012-01-28,Vallecano,Ath Bilbao,2
+2012-01-28,Villarreal,Barcelona,X
+2012-01-29,Betis,Granada,2
+2012-01-29,Levante,Getafe,2
+2012-01-29,Malaga,Sevilla,1
+2012-01-29,Santander,Valencia,X
+2012-01-29,Sociedad,Sp Gijon,1
+2012-01-30,Osasuna,Ath Madrid,2
+2012-02-04,Ath Bilbao,Español,X
+2012-02-04,Barcelona,Sociedad,1
+2012-02-04,Getafe,Real Madrid,2
+2012-02-04,Levante,Santander,X
+2012-02-04,Mallorca,Betis,1
+2012-02-05,Ath Madrid,Valencia,X
+2012-02-05,Sevilla,Villarreal,2
+2012-02-05,Sp Gijon,Osasuna,X
+2012-02-05,Zaragoza,Vallecano,2
+2012-02-06,Granada,Malaga,1
+2012-02-11,Betis,Ath Bilbao,1
+2012-02-11,Osasuna,Barcelona,1
+2012-02-11,Santander,Ath Madrid,X
+2012-02-12,Español,Zaragoza,2
+2012-02-12,Malaga,Mallorca,1
+2012-02-12,Real Madrid,Levante,1
+2012-02-12,Valencia,Sp Gijon,1
+2012-02-12,Vallecano,Getafe,1
+2012-02-12,Villarreal,Granada,1
+2012-02-13,Sociedad,Sevilla,1
+2012-02-18,Getafe,Español,X
+2012-02-18,Real Madrid,Santander,1
+2012-02-18,Sevilla,Osasuna,1
+2012-02-19,Ath Bilbao,Malaga,1
+2012-02-19,Barcelona,Valencia,1
+2012-02-19,Granada,Sociedad,1
+2012-02-19,Levante,Vallecano,2
+2012-02-19,Mallorca,Villarreal,1
+2012-02-19,Sp Gijon,Ath Madrid,X
+2012-02-20,Zaragoza,Betis,2
+2012-02-25,Betis,Getafe,X
+2012-02-25,Español,Levante,2
+2012-02-25,Malaga,Zaragoza,1
+2012-02-25,Santander,Sp Gijon,X
+2012-02-26,Ath Madrid,Barcelona,2
+2012-02-26,Osasuna,Granada,1
+2012-02-26,Sociedad,Mallorca,1
+2012-02-26,Valencia,Sevilla,2
+2012-02-26,Vallecano,Real Madrid,2
+2012-02-26,Villarreal,Ath Bilbao,X
+2012-03-03,Barcelona,Sp Gijon,1
+2012-03-03,Getafe,Malaga,2
+2012-03-03,Mallorca,Osasuna,X
+2012-03-03,Sevilla,Ath Madrid,X
+2012-03-03,Vallecano,Santander,1
+2012-03-04,Ath Bilbao,Sociedad,1
+2012-03-04,Granada,Valencia,2
+2012-03-04,Real Madrid,Español,1
+2012-03-04,Zaragoza,Villarreal,1
+2012-03-05,Levante,Betis,1
+2012-03-10,Betis,Real Madrid,2
+2012-03-10,Malaga,Levante,1
+2012-03-10,Sociedad,Zaragoza,1
+2012-03-10,Sp Gijon,Sevilla,1
+2012-03-11,Ath Madrid,Granada,1
+2012-03-11,Español,Vallecano,1
+2012-03-11,Osasuna,Ath Bilbao,1
+2012-03-11,Santander,Barcelona,2
+2012-03-11,Valencia,Mallorca,X
+2012-03-12,Villarreal,Getafe,2
+2012-03-17,Getafe,Sociedad,1
+2012-03-17,Granada,Sp Gijon,1
+2012-03-17,Sevilla,Barcelona,2
+2012-03-17,Vallecano,Betis,1
+2012-03-17,Zaragoza,Osasuna,X
+2012-03-18,Ath Bilbao,Valencia,2
+2012-03-18,Levante,Villarreal,1
+2012-03-18,Mallorca,Ath Madrid,1
+2012-03-18,Real Madrid,Malaga,X
+2012-03-19,Español,Santander,1
+2012-03-20,Barcelona,Granada,1
+2012-03-20,Osasuna,Getafe,X
+2012-03-21,Ath Madrid,Ath Bilbao,1
+2012-03-21,Sociedad,Levante,2
+2012-03-21,Sp Gijon,Mallorca,2
+2012-03-21,Valencia,Zaragoza,2
+2012-03-21,Villarreal,Real Madrid,X
+2012-03-22,Betis,Español,X
+2012-03-22,Malaga,Vallecano,1
+2012-03-22,Santander,Sevilla,2
+2012-03-24,Getafe,Valencia,1
+2012-03-24,Mallorca,Barcelona,2
+2012-03-24,Real Madrid,Sociedad,1
+2012-03-25,Ath Bilbao,Sp Gijon,X
+2012-03-25,Betis,Santander,X
+2012-03-25,Español,Malaga,2
+2012-03-25,Levante,Osasuna,2
+2012-03-25,Vallecano,Villarreal,2
+2012-03-25,Zaragoza,Ath Madrid,1
+2012-03-26,Granada,Sevilla,2
+2012-03-31,Barcelona,Ath Bilbao,1
+2012-03-31,Malaga,Betis,2
+2012-03-31,Osasuna,Real Madrid,2
+2012-03-31,Santander,Granada,2
+2012-03-31,Sp Gijon,Zaragoza,2
+2012-04-01,Ath Madrid,Getafe,1
+2012-04-01,Sociedad,Vallecano,1
+2012-04-01,Valencia,Levante,X
+2012-04-01,Villarreal,Español,X
+2012-04-02,Sevilla,Mallorca,1
+2012-04-07,Betis,Villarreal,1
+2012-04-07,Español,Sociedad,X
+2012-04-07,Getafe,Sp Gijon,1
+2012-04-07,Vallecano,Osasuna,1
+2012-04-07,Zaragoza,Barcelona,2
+2012-04-08,Ath Bilbao,Sevilla,1
+2012-04-08,Levante,Ath Madrid,1
+2012-04-08,Mallorca,Granada,X
+2012-04-08,Real Madrid,Valencia,X
+2012-04-09,Malaga,Santander,1
+2012-04-10,Barcelona,Getafe,1
+2012-04-10,Osasuna,Español,1
+2012-04-10,Sociedad,Betis,X
+2012-04-11,Ath Madrid,Real Madrid,2
+2012-04-11,Granada,Ath Bilbao,X
+2012-04-11,Sp Gijon,Levante,1
+2012-04-11,Valencia,Vallecano,1
+2012-04-12,Santander,Mallorca,2
+2012-04-12,Sevilla,Zaragoza,1
+2012-04-12,Villarreal,Malaga,1
+2012-04-14,Levante,Barcelona,2
+2012-04-14,Real Madrid,Sp Gijon,1
+2012-04-15,Ath Bilbao,Mallorca,1
+2012-04-15,Betis,Osasuna,1
+2012-04-15,Español,Valencia,1
+2012-04-15,Malaga,Sociedad,X
+2012-04-15,Vallecano,Ath Madrid,2
+2012-04-15,Villarreal,Santander,X
+2012-04-15,Zaragoza,Granada,1
+2012-04-16,Getafe,Sevilla,1
+2012-04-21,Barcelona,Real Madrid,2
+2012-04-21,Mallorca,Zaragoza,1
+2012-04-21,Sevilla,Levante,X
+2012-04-21,Sp Gijon,Vallecano,1
+2012-04-22,Ath Madrid,Español,1
+2012-04-22,Granada,Getafe,1
+2012-04-22,Santander,Ath Bilbao,2
+2012-04-22,Sociedad,Villarreal,X
+2012-04-22,Valencia,Betis,1
+2012-04-23,Osasuna,Malaga,X
+2012-04-28,Español,Sp Gijon,2
+2012-04-28,Getafe,Mallorca,2
+2012-04-28,Levante,Granada,1
+2012-04-28,Sociedad,Santander,1
+2012-04-28,Villarreal,Osasuna,X
+2012-04-29,Betis,Ath Madrid,X
+2012-04-29,Malaga,Valencia,1
+2012-04-29,Real Madrid,Sevilla,1
+2012-04-29,Vallecano,Barcelona,2
+2012-04-29,Zaragoza,Ath Bilbao,1
+2012-05-01,Getafe,Santander,X
+2012-05-01,Granada,Español,1
+2012-05-01,Sp Gijon,Villarreal,2
+2012-05-02,Ath Bilbao,Real Madrid,2
+2012-05-02,Ath Madrid,Sociedad,X
+2012-05-02,Barcelona,Malaga,1
+2012-05-02,Mallorca,Vallecano,1
+2012-05-02,Sevilla,Betis,2
+2012-05-02,Valencia,Osasuna,1
+2012-05-02,Zaragoza,Levante,1
+2012-05-05,Ath Bilbao,Getafe,X
+2012-05-05,Ath Madrid,Malaga,1
+2012-05-05,Barcelona,Español,1
+2012-05-05,Granada,Real Madrid,2
+2012-05-05,Mallorca,Levante,1
+2012-05-05,Osasuna,Sociedad,1
+2012-05-05,Sevilla,Vallecano,1
+2012-05-05,Sp Gijon,Betis,1
+2012-05-05,Valencia,Villarreal,1
+2012-05-05,Zaragoza,Santander,1
+2012-05-12,Betis,Barcelona,X
+2012-05-12,Sociedad,Valencia,1
+2012-05-13,Español,Sevilla,X
+2012-05-13,Getafe,Zaragoza,2
+2012-05-13,Levante,Ath Bilbao,1
+2012-05-13,Malaga,Sp Gijon,1
+2012-05-13,Real Madrid,Mallorca,1
+2012-05-13,Santander,Osasuna,2
+2012-05-13,Vallecano,Granada,1
+2012-05-13,Villarreal,Ath Madrid,2

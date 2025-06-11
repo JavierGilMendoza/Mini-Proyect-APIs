@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2014-08-23,Almeria,Español,X
+2014-08-23,Granada,La Coruña,1
+2014-08-23,Malaga,Ath Bilbao,1
+2014-08-23,Sevilla,Valencia,X
+2014-08-24,Barcelona,Elche,1
+2014-08-24,Celta,Getafe,1
+2014-08-24,Eibar,Sociedad,1
+2014-08-24,Levante,Villarreal,2
+2014-08-25,Real Madrid,Cordoba,1
+2014-08-25,Vallecano,Ath Madrid,X
+2014-08-29,Getafe,Almeria,1
+2014-08-29,Valencia,Malaga,1
+2014-08-30,Ath Bilbao,Levante,1
+2014-08-30,Ath Madrid,Eibar,1
+2014-08-30,Cordoba,Celta,X
+2014-08-30,Español,Sevilla,2
+2014-08-31,Elche,Granada,X
+2014-08-31,La Coruña,Vallecano,X
+2014-08-31,Sociedad,Real Madrid,1
+2014-08-31,Villarreal,Barcelona,2
+2014-09-12,Almeria,Cordoba,X
+2014-09-13,Barcelona,Ath Bilbao,1
+2014-09-13,Celta,Sociedad,X
+2014-09-13,Malaga,Levante,X
+2014-09-13,Real Madrid,Ath Madrid,2
+2014-09-14,Granada,Villarreal,X
+2014-09-14,Sevilla,Getafe,1
+2014-09-14,Valencia,Español,1
+2014-09-14,Vallecano,Elche,2
+2014-09-15,Eibar,La Coruña,2
+2014-09-19,Elche,Eibar,2
+2014-09-20,Ath Bilbao,Granada,2
+2014-09-20,Ath Madrid,Celta,X
+2014-09-20,Español,Malaga,X
+2014-09-20,La Coruña,Real Madrid,2
+2014-09-21,Cordoba,Sevilla,2
+2014-09-21,Levante,Barcelona,2
+2014-09-21,Sociedad,Almeria,2
+2014-09-21,Villarreal,Vallecano,1
+2014-09-22,Getafe,Valencia,2
+2014-09-23,Celta,La Coruña,1
+2014-09-23,Real Madrid,Elche,1
+2014-09-24,Almeria,Ath Madrid,2
+2014-09-24,Eibar,Villarreal,X
+2014-09-24,Granada,Levante,2
+2014-09-24,Malaga,Barcelona,X
+2014-09-24,Sevilla,Sociedad,1
+2014-09-24,Vallecano,Ath Bilbao,1
+2014-09-25,Español,Getafe,1
+2014-09-25,Valencia,Cordoba,1
+2014-09-26,Elche,Celta,2
+2014-09-27,Ath Bilbao,Eibar,X
+2014-09-27,Ath Madrid,Sevilla,1
+2014-09-27,Barcelona,Granada,1
+2014-09-27,Levante,Vallecano,2
+2014-09-27,Villarreal,Real Madrid,2
+2014-09-28,Cordoba,Español,X
+2014-09-28,Getafe,Malaga,1
+2014-09-28,La Coruña,Almeria,2
+2014-09-28,Sociedad,Valencia,X
+2014-10-03,Getafe,Cordoba,X
+2014-10-04,Almeria,Elche,X
+2014-10-04,Eibar,Levante,X
+2014-10-04,Malaga,Granada,1
+2014-10-04,Valencia,Ath Madrid,1
+2014-10-04,Vallecano,Barcelona,2
+2014-10-05,Celta,Villarreal,2
+2014-10-05,Español,Sociedad,1
+2014-10-05,Real Madrid,Ath Bilbao,1
+2014-10-05,Sevilla,La Coruña,1
+2014-10-17,Granada,Vallecano,2
+2014-10-18,Ath Bilbao,Celta,X
+2014-10-18,Barcelona,Eibar,1
+2014-10-18,Cordoba,Malaga,2
+2014-10-18,Levante,Real Madrid,2
+2014-10-19,Ath Madrid,Español,1
+2014-10-19,Elche,Sevilla,2
+2014-10-19,La Coruña,Valencia,1
+2014-10-19,Villarreal,Almeria,1
+2014-10-20,Sociedad,Getafe,2
+2014-10-24,Celta,Levante,1
+2014-10-25,Almeria,Ath Bilbao,2
+2014-10-25,Cordoba,Sociedad,X
+2014-10-25,Eibar,Granada,X
+2014-10-25,Real Madrid,Barcelona,1
+2014-10-25,Valencia,Elche,1
+2014-10-26,Español,La Coruña,X
+2014-10-26,Getafe,Ath Madrid,2
+2014-10-26,Malaga,Vallecano,1
+2014-10-26,Sevilla,Villarreal,1
+2014-10-31,La Coruña,Getafe,2
+2014-11-01,Ath Madrid,Cordoba,1
+2014-11-01,Barcelona,Celta,2
+2014-11-01,Granada,Real Madrid,2
+2014-11-01,Sociedad,Malaga,2
+2014-11-02,Ath Bilbao,Sevilla,1
+2014-11-02,Elche,Español,1
+2014-11-02,Levante,Almeria,1
+2014-11-02,Villarreal,Valencia,2
+2014-11-03,Vallecano,Eibar,2
+2014-11-07,Cordoba,La Coruña,X
+2014-11-08,Almeria,Barcelona,2
+2014-11-08,Celta,Granada,X
+2014-11-08,Getafe,Elche,X
+2014-11-08,Malaga,Eibar,1
+2014-11-08,Real Madrid,Vallecano,1
+2014-11-09,Español,Villarreal,X
+2014-11-09,Sevilla,Levante,X
+2014-11-09,Sociedad,Ath Madrid,1
+2014-11-09,Valencia,Ath Bilbao,X
+2014-11-21,Ath Bilbao,Español,1
+2014-11-22,Ath Madrid,Malaga,1
+2014-11-22,Barcelona,Sevilla,1
+2014-11-22,Eibar,Real Madrid,2
+2014-11-22,La Coruña,Sociedad,X
+2014-11-23,Elche,Cordoba,X
+2014-11-23,Levante,Valencia,1
+2014-11-23,Vallecano,Celta,1
+2014-11-23,Villarreal,Getafe,1
+2014-11-24,Granada,Almeria,X
+2014-11-28,Sociedad,Elche,1
+2014-11-29,Celta,Eibar,2
+2014-11-29,Español,Levante,1
+2014-11-29,Getafe,Ath Bilbao,2
+2014-11-29,Malaga,Real Madrid,2
+2014-11-30,Ath Madrid,La Coruña,1
+2014-11-30,Cordoba,Villarreal,2
+2014-11-30,Sevilla,Granada,1
+2014-11-30,Valencia,Barcelona,2
+2014-12-01,Almeria,Vallecano,2
+2014-12-06,Ath Bilbao,Cordoba,2
+2014-12-06,Elche,Ath Madrid,2
+2014-12-06,La Coruña,Malaga,2
+2014-12-06,Real Madrid,Celta,1
+2014-12-07,Barcelona,Español,1
+2014-12-07,Granada,Valencia,X
+2014-12-07,Vallecano,Sevilla,2
+2014-12-07,Villarreal,Sociedad,1
+2014-12-08,Eibar,Almeria,1
+2014-12-08,Levante,Getafe,X
+2014-12-12,Almeria,Real Madrid,2
+2014-12-13,Cordoba,Levante,X
+2014-12-13,Getafe,Barcelona,X
+2014-12-13,Malaga,Celta,1
+2014-12-13,Valencia,Vallecano,1
+2014-12-14,Ath Madrid,Villarreal,2
+2014-12-14,Español,Granada,1
+2014-12-14,Sevilla,Eibar,X
+2014-12-14,Sociedad,Ath Bilbao,X
+2014-12-15,La Coruña,Elche,1
+2014-12-19,Celta,Almeria,2
+2014-12-20,Barcelona,Cordoba,1
+2014-12-20,Eibar,Valencia,2
+2014-12-20,Levante,Sociedad,X
+2014-12-20,Vallecano,Español,2
+2014-12-21,Ath Bilbao,Ath Madrid,2
+2014-12-21,Elche,Malaga,2
+2014-12-21,Granada,Getafe,X
+2014-12-21,Villarreal,La Coruña,1
+2015-01-03,Ath Madrid,Levante,1
+2015-01-03,Elche,Villarreal,X
+2015-01-03,La Coruña,Ath Bilbao,1
+2015-01-03,Malaga,Almeria,2
+2015-01-03,Sevilla,Celta,1
+2015-01-04,Español,Eibar,2
+2015-01-04,Getafe,Vallecano,2
+2015-01-04,Sociedad,Barcelona,1
+2015-01-04,Valencia,Real Madrid,1
+2015-01-05,Cordoba,Granada,1
+2015-01-09,Levante,La Coruña,X
+2015-01-10,Celta,Valencia,X
+2015-01-10,Eibar,Getafe,1
+2015-01-10,Malaga,Villarreal,X
+2015-01-10,Real Madrid,Español,1
+2015-01-11,Almeria,Sevilla,2
+2015-01-11,Ath Bilbao,Elche,2
+2015-01-11,Barcelona,Ath Madrid,1
+2015-01-11,Granada,Sociedad,X
+2015-01-12,Vallecano,Cordoba,2
+2015-01-16,Cordoba,Eibar,X
+2015-01-17,Español,Celta,1
+2015-01-17,Sociedad,Vallecano,2
+2015-01-17,Valencia,Almeria,1
+2015-01-17,Villarreal,Ath Bilbao,1
+2015-01-18,Ath Madrid,Granada,1
+2015-01-18,Elche,Levante,1
+2015-01-18,Getafe,Real Madrid,2
+2015-01-18,La Coruña,Barcelona,2
+2015-01-18,Sevilla,Malaga,1
+2015-01-24,Ath Madrid,Vallecano,1
+2015-01-24,Cordoba,Real Madrid,2
+2015-01-24,Elche,Barcelona,2
+2015-01-24,Sociedad,Eibar,1
+2015-01-24,Villarreal,Levante,1
+2015-01-25,Ath Bilbao,Malaga,X
+2015-01-25,Español,Almeria,1
+2015-01-25,La Coruña,Granada,X
+2015-01-25,Valencia,Sevilla,1
+2015-01-26,Getafe,Celta,1
+2015-01-30,Vallecano,La Coruña,2
+2015-01-31,Celta,Cordoba,1
+2015-01-31,Eibar,Ath Madrid,2
+2015-01-31,Granada,Elche,1
+2015-01-31,Real Madrid,Sociedad,1
+2015-02-01,Almeria,Getafe,1
+2015-02-01,Barcelona,Villarreal,1
+2015-02-01,Levante,Ath Bilbao,2
+2015-02-01,Sevilla,Español,1
+2015-02-02,Malaga,Valencia,1
+2015-02-04,Real Madrid,Sevilla,1
+2015-02-06,La Coruña,Eibar,1
+2015-02-07,Ath Madrid,Real Madrid,1
+2015-02-07,Levante,Malaga,1
+2015-02-07,Sociedad,Celta,X
+2015-02-07,Villarreal,Granada,1
+2015-02-08,Ath Bilbao,Barcelona,2
+2015-02-08,Cordoba,Almeria,2
+2015-02-08,Español,Valencia,2
+2015-02-08,Getafe,Sevilla,1
+2015-02-09,Elche,Vallecano,1
+2015-02-13,Almeria,Sociedad,X
+2015-02-14,Granada,Ath Bilbao,X
+2015-02-14,Malaga,Español,2
+2015-02-14,Real Madrid,La Coruña,1
+2015-02-14,Sevilla,Cordoba,1
+2015-02-15,Barcelona,Levante,1
+2015-02-15,Celta,Ath Madrid,1
+2015-02-15,Valencia,Getafe,1
+2015-02-15,Vallecano,Villarreal,1
+2015-02-16,Eibar,Elche,2
+2015-02-20,Getafe,Español,1
+2015-02-21,Ath Madrid,Almeria,1
+2015-02-21,Barcelona,Malaga,2
+2015-02-21,Cordoba,Valencia,2
+2015-02-21,La Coruña,Celta,2
+2015-02-22,Ath Bilbao,Vallecano,1
+2015-02-22,Elche,Real Madrid,2
+2015-02-22,Sociedad,Sevilla,1
+2015-02-22,Villarreal,Eibar,1
+2015-02-23,Levante,Granada,1
+2015-02-27,Español,Cordoba,1
+2015-02-28,Almeria,La Coruña,X
+2015-02-28,Granada,Barcelona,2
+2015-02-28,Malaga,Getafe,1
+2015-02-28,Vallecano,Levante,1
+2015-03-01,Eibar,Ath Bilbao,2
+2015-03-01,Real Madrid,Villarreal,X
+2015-03-01,Sevilla,Ath Madrid,X
+2015-03-01,Valencia,Sociedad,1
+2015-03-02,Celta,Elche,X
+2015-03-06,Levante,Eibar,1
+2015-03-07,Ath Bilbao,Real Madrid,1
+2015-03-07,Elche,Almeria,1
+2015-03-07,Granada,Malaga,1
+2015-03-07,La Coruña,Sevilla,2
+2015-03-08,Ath Madrid,Valencia,X
+2015-03-08,Barcelona,Vallecano,1
+2015-03-08,Sociedad,Español,1
+2015-03-08,Villarreal,Celta,1
+2015-03-09,Cordoba,Getafe,2
+2015-03-13,Valencia,La Coruña,1
+2015-03-14,Celta,Ath Bilbao,2
+2015-03-14,Eibar,Barcelona,2
+2015-03-14,Español,Ath Madrid,X
+2015-03-14,Vallecano,Granada,1
+2015-03-15,Almeria,Villarreal,X
+2015-03-15,Malaga,Cordoba,1
+2015-03-15,Real Madrid,Levante,1
+2015-03-15,Sevilla,Elche,1
+2015-03-16,Getafe,Sociedad,2
+2015-03-20,Elche,Valencia,2
+2015-03-21,Ath Bilbao,Almeria,1
+2015-03-21,Ath Madrid,Getafe,1
+2015-03-21,Granada,Eibar,X
+2015-03-21,Levante,Celta,2
+2015-03-21,Vallecano,Malaga,1
+2015-03-22,Barcelona,Real Madrid,1
+2015-03-22,La Coruña,Español,X
+2015-03-22,Sociedad,Cordoba,1
+2015-03-22,Villarreal,Sevilla,2
+2015-04-03,Eibar,Vallecano,2
+2015-04-04,Almeria,Levante,2
+2015-04-04,Cordoba,Ath Madrid,2
+2015-04-04,Malaga,Sociedad,X
+2015-04-04,Sevilla,Ath Bilbao,1
+2015-04-05,Celta,Barcelona,2
+2015-04-05,Getafe,La Coruña,1
+2015-04-05,Real Madrid,Granada,1
+2015-04-05,Valencia,Villarreal,X
+2015-04-06,Español,Elche,X
+2015-04-07,Ath Madrid,Sociedad,1
+2015-04-07,Eibar,Malaga,1
+2015-04-07,Levante,Sevilla,2
+2015-04-08,Barcelona,Almeria,1
+2015-04-08,Granada,Celta,X
+2015-04-08,La Coruña,Cordoba,X
+2015-04-08,Vallecano,Real Madrid,2
+2015-04-09,Ath Bilbao,Valencia,X
+2015-04-09,Elche,Getafe,2
+2015-04-09,Villarreal,Español,2
+2015-04-11,Almeria,Granada,1
+2015-04-11,Celta,Vallecano,1
+2015-04-11,Malaga,Ath Madrid,X
+2015-04-11,Real Madrid,Eibar,1
+2015-04-11,Sevilla,Barcelona,X
+2015-04-12,Cordoba,Elche,2
+2015-04-12,Español,Ath Bilbao,1
+2015-04-12,Getafe,Villarreal,X
+2015-04-12,Sociedad,La Coruña,X
+2015-04-13,Valencia,Levante,1
+2015-04-17,Levante,Español,X
+2015-04-18,Ath Bilbao,Getafe,1
+2015-04-18,Barcelona,Valencia,1
+2015-04-18,La Coruña,Ath Madrid,2
+2015-04-18,Real Madrid,Malaga,1
+2015-04-19,Eibar,Celta,2
+2015-04-19,Granada,Sevilla,X
+2015-04-19,Vallecano,Almeria,1
+2015-04-19,Villarreal,Cordoba,X
+2015-04-20,Elche,Sociedad,1
+2015-04-24,Cordoba,Ath Bilbao,2
+2015-04-25,Ath Madrid,Elche,1
+2015-04-25,Español,Barcelona,2
+2015-04-25,Getafe,Levante,2
+2015-04-25,Sociedad,Villarreal,X
+2015-04-26,Almeria,Eibar,1
+2015-04-26,Celta,Real Madrid,2
+2015-04-26,Malaga,La Coruña,X
+2015-04-26,Sevilla,Vallecano,1
+2015-04-27,Valencia,Granada,1
+2015-04-28,Ath Bilbao,Sociedad,X
+2015-04-28,Barcelona,Getafe,1
+2015-04-28,Levante,Cordoba,1
+2015-04-29,Celta,Malaga,1
+2015-04-29,Eibar,Sevilla,2
+2015-04-29,Elche,La Coruña,1
+2015-04-29,Real Madrid,Almeria,1
+2015-04-29,Villarreal,Ath Madrid,2
+2015-04-30,Granada,Español,2
+2015-04-30,Vallecano,Valencia,X
+2015-05-01,Sociedad,Levante,1
+2015-05-02,Ath Madrid,Ath Bilbao,X
+2015-05-02,Cordoba,Barcelona,2
+2015-05-02,La Coruña,Villarreal,X
+2015-05-02,Sevilla,Real Madrid,2
+2015-05-03,Español,Vallecano,X
+2015-05-03,Getafe,Granada,2
+2015-05-03,Malaga,Elche,2
+2015-05-03,Valencia,Eibar,1
+2015-05-04,Almeria,Celta,X
+2015-05-08,Eibar,Español,2
+2015-05-09,Ath Bilbao,La Coruña,X
+2015-05-09,Barcelona,Sociedad,1
+2015-05-09,Granada,Cordoba,1
+2015-05-09,Real Madrid,Valencia,X
+2015-05-10,Almeria,Malaga,2
+2015-05-10,Celta,Sevilla,X
+2015-05-10,Levante,Ath Madrid,X
+2015-05-10,Villarreal,Elche,1
+2015-05-11,Vallecano,Getafe,1
+2015-05-17,Ath Madrid,Barcelona,2
+2015-05-17,Cordoba,Vallecano,2
+2015-05-17,Elche,Ath Bilbao,2
+2015-05-17,Español,Real Madrid,2
+2015-05-17,Getafe,Eibar,X
+2015-05-17,La Coruña,Levante,1
+2015-05-17,Sevilla,Almeria,1
+2015-05-17,Sociedad,Granada,2
+2015-05-17,Valencia,Celta,X
+2015-05-17,Villarreal,Malaga,1
+2015-05-23,Almeria,Valencia,2
+2015-05-23,Ath Bilbao,Villarreal,1
+2015-05-23,Barcelona,La Coruña,X
+2015-05-23,Celta,Español,1
+2015-05-23,Eibar,Cordoba,1
+2015-05-23,Granada,Ath Madrid,X
+2015-05-23,Levante,Elche,X
+2015-05-23,Malaga,Sevilla,2
+2015-05-23,Real Madrid,Getafe,1
+2015-05-23,Vallecano,Sociedad,2

@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+1997-08-30,Real Madrid,Ath Madrid,X
+1997-08-31,Ath Bilbao,Español,2
+1997-08-31,Barcelona,Sociedad,1
+1997-08-31,Celta,Zaragoza,1
+1997-08-31,Compostela,Sp Gijon,1
+1997-08-31,Mallorca,Valencia,1
+1997-08-31,Oviedo,Merida,1
+1997-08-31,Santander,Salamanca,1
+1997-08-31,Tenerife,La Coruña,X
+1997-09-01,Valladolid,Betis,2
+1997-09-06,Ath Madrid,Valladolid,1
+1997-09-06,Betis,Ath Bilbao,X
+1997-09-07,Español,Celta,X
+1997-09-07,La Coruña,Mallorca,X
+1997-09-07,Merida,Compostela,X
+1997-09-07,Salamanca,Real Madrid,2
+1997-09-07,Sociedad,Santander,1
+1997-09-07,Sp Gijon,Tenerife,2
+1997-09-07,Zaragoza,Oviedo,X
+1997-09-08,Valencia,Barcelona,2
+1997-09-13,Ath Bilbao,Ath Madrid,1
+1997-09-13,Barcelona,La Coruña,1
+1997-09-13,Real Madrid,Sociedad,1
+1997-09-13,Valladolid,Salamanca,2
+1997-09-14,Celta,Betis,1
+1997-09-14,Compostela,Tenerife,2
+1997-09-14,Merida,Zaragoza,2
+1997-09-14,Oviedo,Español,X
+1997-09-14,Santander,Valencia,1
+1997-09-15,Mallorca,Sp Gijon,1
+1997-09-28,Ath Madrid,Celta,X
+1997-09-28,Betis,Oviedo,X
+1997-09-28,La Coruña,Santander,1
+1997-09-28,Salamanca,Ath Bilbao,X
+1997-09-28,Sociedad,Valladolid,1
+1997-09-28,Sp Gijon,Barcelona,2
+1997-09-28,Tenerife,Mallorca,2
+1997-09-28,Valencia,Real Madrid,2
+1997-09-28,Zaragoza,Compostela,X
+1997-09-29,Español,Merida,X
+1997-10-04,Ath Bilbao,Sociedad,X
+1997-10-04,Zaragoza,Español,X
+1997-10-05,Barcelona,Tenerife,1
+1997-10-05,Celta,Salamanca,1
+1997-10-05,Compostela,Mallorca,X
+1997-10-05,Oviedo,Ath Madrid,2
+1997-10-05,Real Madrid,La Coruña,X
+1997-10-05,Santander,Sp Gijon,1
+1997-10-05,Valladolid,Valencia,2
+1997-10-06,Merida,Betis,2
+1997-10-14,Mallorca,Barcelona,2
+1997-10-15,Ath Madrid,Merida,1
+1997-10-15,Betis,Zaragoza,X
+1997-10-15,Español,Compostela,1
+1997-10-15,La Coruña,Valladolid,2
+1997-10-15,Salamanca,Oviedo,2
+1997-10-15,Sociedad,Celta,1
+1997-10-15,Sp Gijon,Real Madrid,2
+1997-10-15,Tenerife,Santander,X
+1997-10-15,Valencia,Ath Bilbao,X
+1997-10-18,Ath Bilbao,La Coruña,X
+1997-10-18,Compostela,Barcelona,X
+1997-10-18,Real Madrid,Tenerife,1
+1997-10-18,Valladolid,Sp Gijon,X
+1997-10-18,Zaragoza,Ath Madrid,2
+1997-10-19,Celta,Valencia,1
+1997-10-19,Español,Betis,1
+1997-10-19,Merida,Salamanca,1
+1997-10-19,Oviedo,Sociedad,2
+1997-10-19,Santander,Mallorca,2
+1997-10-25,La Coruña,Celta,X
+1997-10-26,Ath Madrid,Español,2
+1997-10-26,Barcelona,Santander,1
+1997-10-26,Betis,Compostela,1
+1997-10-26,Salamanca,Zaragoza,2
+1997-10-26,Sociedad,Merida,1
+1997-10-26,Sp Gijon,Ath Bilbao,2
+1997-10-26,Tenerife,Valladolid,1
+1997-10-26,Valencia,Oviedo,X
+1997-10-27,Mallorca,Real Madrid,X
+1997-11-01,Ath Bilbao,Tenerife,1
+1997-11-01,Betis,Ath Madrid,2
+1997-11-01,Real Madrid,Barcelona,2
+1997-11-01,Valladolid,Mallorca,X
+1997-11-02,Celta,Sp Gijon,1
+1997-11-02,Compostela,Santander,1
+1997-11-02,Español,Salamanca,1
+1997-11-02,Oviedo,La Coruña,X
+1997-11-02,Zaragoza,Sociedad,X
+1997-11-03,Merida,Valencia,1
+1997-11-08,Santander,Real Madrid,2
+1997-11-09,Ath Madrid,Compostela,1
+1997-11-09,Barcelona,Valladolid,2
+1997-11-09,La Coruña,Merida,2
+1997-11-09,Mallorca,Ath Bilbao,1
+1997-11-09,Salamanca,Betis,X
+1997-11-09,Sociedad,Español,1
+1997-11-09,Sp Gijon,Oviedo,2
+1997-11-09,Tenerife,Celta,2
+1997-11-09,Valencia,Zaragoza,1
+1997-11-11,Ath Madrid,Salamanca,X
+1997-11-12,Betis,Sociedad,X
+1997-11-12,Celta,Mallorca,1
+1997-11-12,Compostela,Real Madrid,2
+1997-11-12,Español,Valencia,1
+1997-11-12,Merida,Sp Gijon,1
+1997-11-12,Oviedo,Tenerife,1
+1997-11-12,Valladolid,Santander,X
+1997-11-12,Zaragoza,La Coruña,2
+1997-11-13,Ath Bilbao,Barcelona,1
+1997-11-15,Sociedad,Ath Madrid,X
+1997-11-16,Barcelona,Celta,1
+1997-11-16,La Coruña,Español,X
+1997-11-16,Mallorca,Oviedo,X
+1997-11-16,Salamanca,Compostela,2
+1997-11-16,Santander,Ath Bilbao,X
+1997-11-16,Sp Gijon,Zaragoza,2
+1997-11-16,Tenerife,Merida,X
+1997-11-16,Valencia,Betis,1
+1997-11-17,Real Madrid,Valladolid,1
+1997-11-22,Ath Bilbao,Real Madrid,X
+1997-11-22,Ath Madrid,Valencia,1
+1997-11-22,Oviedo,Barcelona,1
+1997-11-23,Betis,La Coruña,1
+1997-11-23,Celta,Santander,2
+1997-11-23,Compostela,Valladolid,X
+1997-11-23,Merida,Mallorca,X
+1997-11-23,Salamanca,Sociedad,X
+1997-11-23,Zaragoza,Tenerife,1
+1997-11-24,Español,Sp Gijon,X
+1997-11-29,Sp Gijon,Betis,2
+1997-11-30,La Coruña,Ath Madrid,X
+1997-11-30,Mallorca,Zaragoza,2
+1997-11-30,Real Madrid,Celta,1
+1997-11-30,Santander,Oviedo,X
+1997-11-30,Sociedad,Compostela,1
+1997-11-30,Tenerife,Español,X
+1997-11-30,Valencia,Salamanca,2
+1997-11-30,Valladolid,Ath Bilbao,1
+1997-12-01,Barcelona,Merida,1
+1997-12-06,Ath Madrid,Sp Gijon,1
+1997-12-06,Español,Mallorca,1
+1997-12-06,Oviedo,Real Madrid,X
+1997-12-06,Zaragoza,Barcelona,2
+1997-12-07,Betis,Tenerife,1
+1997-12-07,Celta,Valladolid,1
+1997-12-07,Compostela,Ath Bilbao,2
+1997-12-07,Merida,Santander,2
+1997-12-07,Salamanca,La Coruña,1
+1997-12-07,Sociedad,Valencia,X
+1997-12-13,Ath Bilbao,Celta,1
+1997-12-13,Barcelona,Español,1
+1997-12-13,Mallorca,Betis,2
+1997-12-14,La Coruña,Sociedad,X
+1997-12-14,Real Madrid,Merida,1
+1997-12-14,Santander,Zaragoza,2
+1997-12-14,Sp Gijon,Salamanca,X
+1997-12-14,Tenerife,Ath Madrid,X
+1997-12-14,Valencia,Compostela,1
+1997-12-14,Valladolid,Oviedo,1
+1997-12-17,Ath Madrid,Mallorca,2
+1997-12-17,Compostela,Celta,X
+1997-12-17,Español,Santander,X
+1997-12-17,Merida,Valladolid,X
+1997-12-17,Oviedo,Ath Bilbao,2
+1997-12-17,Salamanca,Tenerife,1
+1997-12-17,Sociedad,Sp Gijon,1
+1997-12-17,Zaragoza,Real Madrid,X
+1997-12-18,Valencia,La Coruña,1
+1997-12-20,Barcelona,Ath Madrid,1
+1997-12-21,Ath Bilbao,Merida,1
+1997-12-21,Celta,Oviedo,1
+1997-12-21,Compostela,La Coruña,X
+1997-12-21,Real Madrid,Español,1
+1997-12-21,Santander,Betis,1
+1997-12-21,Sp Gijon,Valencia,2
+1997-12-21,Tenerife,Sociedad,X
+1997-12-21,Valladolid,Zaragoza,1
+1997-12-22,Mallorca,Salamanca,1
+1998-01-03,Betis,Real Madrid,1
+1998-01-04,Ath Madrid,Santander,1
+1998-01-04,Español,Valladolid,1
+1998-01-04,La Coruña,Sp Gijon,1
+1998-01-04,Merida,Celta,1
+1998-01-04,Oviedo,Compostela,X
+1998-01-04,Sociedad,Mallorca,1
+1998-01-04,Valencia,Tenerife,2
+1998-01-04,Zaragoza,Ath Bilbao,X
+1998-01-05,Salamanca,Barcelona,1
+1998-01-10,Ath Madrid,Real Madrid,X
+1998-01-11,Español,Ath Bilbao,2
+1998-01-11,La Coruña,Tenerife,1
+1998-01-11,Merida,Oviedo,1
+1998-01-11,Salamanca,Santander,X
+1998-01-11,Sociedad,Barcelona,X
+1998-01-11,Sp Gijon,Compostela,2
+1998-01-11,Zaragoza,Celta,1
+1998-01-12,Valencia,Mallorca,X
+1998-01-17,Celta,Español,1
+1998-01-17,Oviedo,Zaragoza,1
+1998-01-17,Valladolid,Ath Madrid,1
+1998-01-18,Ath Bilbao,Betis,X
+1998-01-18,Compostela,Merida,1
+1998-01-18,Mallorca,La Coruña,X
+1998-01-18,Real Madrid,Salamanca,1
+1998-01-18,Santander,Sociedad,1
+1998-01-18,Tenerife,Sp Gijon,1
+1998-01-19,Barcelona,Valencia,2
+1998-01-24,Ath Madrid,Ath Bilbao,1
+1998-01-25,Betis,Celta,1
+1998-01-25,Español,Oviedo,X
+1998-01-25,La Coruña,Barcelona,1
+1998-01-25,Sociedad,Real Madrid,1
+1998-01-25,Sp Gijon,Mallorca,2
+1998-01-25,Tenerife,Compostela,1
+1998-01-25,Valencia,Santander,1
+1998-01-25,Zaragoza,Merida,X
+1998-01-26,Salamanca,Valladolid,1
+1998-01-31,Ath Bilbao,Salamanca,1
+1998-01-31,Mallorca,Tenerife,1
+1998-01-31,Oviedo,Betis,X
+1998-02-01,Barcelona,Sp Gijon,1
+1998-02-01,Celta,Ath Madrid,X
+1998-02-01,Compostela,Zaragoza,1
+1998-02-01,Merida,Español,X
+1998-02-01,Santander,La Coruña,2
+1998-02-01,Valladolid,Sociedad,2
+1998-02-02,Real Madrid,Valencia,2
+1998-02-08,Betis,Merida,1
+1998-02-08,Español,Zaragoza,2
+1998-02-08,La Coruña,Real Madrid,X
+1998-02-08,Mallorca,Compostela,1
+1998-02-08,Salamanca,Celta,2
+1998-02-08,Sociedad,Ath Bilbao,X
+1998-02-08,Sp Gijon,Santander,1
+1998-02-08,Tenerife,Barcelona,X
+1998-02-08,Valencia,Valladolid,2
+1998-02-09,Ath Madrid,Oviedo,1
+1998-02-14,Valladolid,La Coruña,1
+1998-02-15,Ath Bilbao,Valencia,2
+1998-02-15,Barcelona,Mallorca,X
+1998-02-15,Celta,Sociedad,1
+1998-02-15,Compostela,Español,X
+1998-02-15,Merida,Ath Madrid,1
+1998-02-15,Oviedo,Salamanca,1
+1998-02-15,Real Madrid,Sp Gijon,1
+1998-02-15,Santander,Tenerife,1
+1998-02-15,Zaragoza,Betis,1
+1998-02-21,Sp Gijon,Valladolid,2
+1998-02-21,Tenerife,Real Madrid,1
+1998-02-22,Barcelona,Compostela,1
+1998-02-22,Betis,Español,2
+1998-02-22,La Coruña,Ath Bilbao,1
+1998-02-22,Mallorca,Santander,1
+1998-02-22,Salamanca,Merida,1
+1998-02-22,Sociedad,Oviedo,X
+1998-02-22,Valencia,Celta,1
+1998-02-23,Ath Madrid,Zaragoza,1
+1998-02-25,Betis,Valladolid,1
+1998-02-28,Compostela,Betis,2
+1998-02-28,Español,Ath Madrid,X
+1998-02-28,Real Madrid,Mallorca,1
+1998-03-01,Ath Bilbao,Sp Gijon,X
+1998-03-01,Celta,La Coruña,1
+1998-03-01,Merida,Sociedad,1
+1998-03-01,Oviedo,Valencia,X
+1998-03-01,Valladolid,Tenerife,1
+1998-03-01,Zaragoza,Salamanca,X
+1998-03-02,Santander,Barcelona,2
+1998-03-07,Barcelona,Real Madrid,1
+1998-03-08,Ath Madrid,Betis,X
+1998-03-08,La Coruña,Oviedo,1
+1998-03-08,Mallorca,Valladolid,X
+1998-03-08,Salamanca,Español,1
+1998-03-08,Santander,Compostela,X
+1998-03-08,Sociedad,Zaragoza,2
+1998-03-08,Sp Gijon,Celta,2
+1998-03-08,Tenerife,Ath Bilbao,2
+1998-03-09,Valencia,Merida,1
+1998-03-14,Compostela,Ath Madrid,1
+1998-03-14,Real Madrid,Santander,X
+1998-03-15,Betis,Salamanca,1
+1998-03-15,Celta,Tenerife,X
+1998-03-15,Español,Sociedad,2
+1998-03-15,Merida,La Coruña,1
+1998-03-15,Oviedo,Sp Gijon,1
+1998-03-15,Valladolid,Barcelona,2
+1998-03-15,Zaragoza,Valencia,2
+1998-03-16,Ath Bilbao,Mallorca,1
+1998-03-21,Salamanca,Ath Madrid,1
+1998-03-22,Barcelona,Ath Bilbao,1
+1998-03-22,La Coruña,Zaragoza,1
+1998-03-22,Mallorca,Celta,1
+1998-03-22,Real Madrid,Compostela,1
+1998-03-22,Santander,Valladolid,2
+1998-03-22,Sociedad,Betis,1
+1998-03-22,Sp Gijon,Merida,X
+1998-03-22,Tenerife,Oviedo,1
+1998-03-22,Valencia,Español,X
+1998-03-28,Ath Madrid,Sociedad,X
+1998-03-28,Betis,Valencia,1
+1998-03-28,Valladolid,Real Madrid,X
+1998-03-29,Ath Bilbao,Santander,1
+1998-03-29,Celta,Barcelona,1
+1998-03-29,Compostela,Salamanca,1
+1998-03-29,Español,La Coruña,1
+1998-03-29,Merida,Tenerife,X
+1998-03-29,Oviedo,Mallorca,2
+1998-03-29,Zaragoza,Sp Gijon,X
+1998-04-04,Barcelona,Oviedo,1
+1998-04-04,La Coruña,Betis,1
+1998-04-04,Real Madrid,Ath Bilbao,X
+1998-04-05,Mallorca,Merida,1
+1998-04-05,Santander,Celta,1
+1998-04-05,Sociedad,Salamanca,X
+1998-04-05,Sp Gijon,Español,1
+1998-04-05,Tenerife,Zaragoza,X
+1998-04-05,Valencia,Ath Madrid,1
+1998-04-05,Valladolid,Compostela,1
+1998-04-07,Betis,Barcelona,2
+1998-04-11,Ath Madrid,La Coruña,1
+1998-04-11,Celta,Real Madrid,1
+1998-04-11,Merida,Barcelona,2
+1998-04-12,Ath Bilbao,Valladolid,1
+1998-04-12,Compostela,Sociedad,2
+1998-04-12,Español,Tenerife,1
+1998-04-12,Oviedo,Santander,2
+1998-04-12,Salamanca,Valencia,1
+1998-04-12,Zaragoza,Mallorca,2
+1998-04-13,Betis,Sp Gijon,1
+1998-04-18,Valencia,Sociedad,1
+1998-04-19,Ath Bilbao,Compostela,1
+1998-04-19,Barcelona,Zaragoza,1
+1998-04-19,La Coruña,Salamanca,1
+1998-04-19,Mallorca,Español,X
+1998-04-19,Real Madrid,Oviedo,1
+1998-04-19,Santander,Merida,1
+1998-04-19,Sp Gijon,Ath Madrid,2
+1998-04-19,Tenerife,Betis,1
+1998-04-19,Valladolid,Celta,X
+1998-04-25,Betis,Mallorca,1
+1998-04-25,Español,Barcelona,X
+1998-04-26,Ath Madrid,Tenerife,X
+1998-04-26,Celta,Ath Bilbao,X
+1998-04-26,Compostela,Valencia,1
+1998-04-26,Merida,Real Madrid,X
+1998-04-26,Oviedo,Valladolid,2
+1998-04-26,Salamanca,Sp Gijon,1
+1998-04-26,Zaragoza,Santander,1
+1998-04-27,Sociedad,La Coruña,X
+1998-05-02,La Coruña,Valencia,2
+1998-05-03,Ath Bilbao,Oviedo,1
+1998-05-03,Barcelona,Betis,2
+1998-05-03,Celta,Compostela,X
+1998-05-03,Mallorca,Ath Madrid,1
+1998-05-03,Santander,Español,X
+1998-05-03,Sp Gijon,Sociedad,2
+1998-05-03,Tenerife,Salamanca,1
+1998-05-03,Valladolid,Merida,X
+1998-05-04,Real Madrid,Zaragoza,2
+1998-05-09,Español,Real Madrid,1
+1998-05-09,Valencia,Sp Gijon,X
+1998-05-10,Ath Madrid,Barcelona,1
+1998-05-10,Betis,Santander,2
+1998-05-10,La Coruña,Compostela,2
+1998-05-10,Merida,Ath Bilbao,X
+1998-05-10,Oviedo,Celta,1
+1998-05-10,Salamanca,Mallorca,X
+1998-05-10,Sociedad,Tenerife,X
+1998-05-10,Zaragoza,Valladolid,X
+1998-05-15,Ath Bilbao,Zaragoza,1
+1998-05-15,Barcelona,Salamanca,2
+1998-05-15,Celta,Merida,1
+1998-05-15,Compostela,Oviedo,1
+1998-05-15,Mallorca,Sociedad,2
+1998-05-15,Real Madrid,Betis,1
+1998-05-15,Santander,Ath Madrid,2
+1998-05-15,Tenerife,Valencia,1
+1998-05-15,Valladolid,Español,X
+1998-05-16,Sp Gijon,La Coruña,2

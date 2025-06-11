@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2017-08-18,Leganes,Alaves,1
+2017-08-18,Valencia,Las Palmas,1
+2017-08-19,Celta,Sociedad,2
+2017-08-19,Girona,Ath Madrid,X
+2017-08-19,Sevilla,Español,X
+2017-08-20,Ath Bilbao,Getafe,X
+2017-08-20,Barcelona,Betis,1
+2017-08-20,La Coruña,Real Madrid,2
+2017-08-21,Levante,Villarreal,1
+2017-08-21,Malaga,Eibar,2
+2017-08-25,Betis,Celta,1
+2017-08-25,Sociedad,Villarreal,1
+2017-08-26,Alaves,Barcelona,2
+2017-08-26,Girona,Malaga,1
+2017-08-26,Las Palmas,Ath Madrid,2
+2017-08-26,Levante,La Coruña,X
+2017-08-27,Eibar,Ath Bilbao,2
+2017-08-27,Español,Leganes,2
+2017-08-27,Getafe,Sevilla,2
+2017-08-27,Real Madrid,Valencia,X
+2017-09-08,Leganes,Getafe,2
+2017-09-09,Barcelona,Español,1
+2017-09-09,Real Madrid,Levante,X
+2017-09-09,Sevilla,Eibar,1
+2017-09-09,Valencia,Ath Madrid,X
+2017-09-10,Ath Bilbao,Girona,1
+2017-09-10,Celta,Alaves,1
+2017-09-10,La Coruña,Sociedad,2
+2017-09-10,Villarreal,Betis,1
+2017-09-11,Malaga,Las Palmas,2
+2017-09-15,Eibar,Leganes,1
+2017-09-16,Ath Madrid,Malaga,1
+2017-09-16,Betis,La Coruña,1
+2017-09-16,Getafe,Barcelona,2
+2017-09-16,Levante,Valencia,X
+2017-09-17,Alaves,Villarreal,2
+2017-09-17,Girona,Sevilla,2
+2017-09-17,Las Palmas,Ath Bilbao,1
+2017-09-17,Sociedad,Real Madrid,2
+2017-09-18,Español,Celta,1
+2017-09-19,Barcelona,Eibar,1
+2017-09-19,Valencia,Malaga,1
+2017-09-20,Ath Bilbao,Ath Madrid,2
+2017-09-20,La Coruña,Alaves,1
+2017-09-20,Leganes,Girona,X
+2017-09-20,Real Madrid,Betis,2
+2017-09-20,Sevilla,Las Palmas,1
+2017-09-21,Celta,Getafe,X
+2017-09-21,Levante,Sociedad,1
+2017-09-21,Villarreal,Español,X
+2017-09-23,Alaves,Real Madrid,2
+2017-09-23,Ath Madrid,Sevilla,1
+2017-09-23,Girona,Barcelona,2
+2017-09-23,Malaga,Ath Bilbao,X
+2017-09-24,Eibar,Celta,2
+2017-09-24,Español,La Coruña,1
+2017-09-24,Getafe,Villarreal,1
+2017-09-24,Las Palmas,Leganes,2
+2017-09-24,Sociedad,Valencia,2
+2017-09-25,Betis,Levante,1
+2017-09-29,Celta,Girona,X
+2017-09-30,La Coruña,Getafe,1
+2017-09-30,Leganes,Ath Madrid,X
+2017-09-30,Levante,Alaves,2
+2017-09-30,Sevilla,Malaga,1
+2017-10-01,Barcelona,Las Palmas,1
+2017-10-01,Real Madrid,Español,1
+2017-10-01,Sociedad,Betis,X
+2017-10-01,Valencia,Ath Bilbao,1
+2017-10-01,Villarreal,Eibar,1
+2017-10-13,Español,Levante,X
+2017-10-14,Alaves,Sociedad,2
+2017-10-14,Ath Bilbao,Sevilla,1
+2017-10-14,Ath Madrid,Barcelona,X
+2017-10-14,Getafe,Real Madrid,2
+2017-10-15,Betis,Valencia,2
+2017-10-15,Eibar,La Coruña,X
+2017-10-15,Girona,Villarreal,2
+2017-10-15,Malaga,Leganes,2
+2017-10-16,Las Palmas,Celta,2
+2017-10-21,Barcelona,Malaga,1
+2017-10-21,Betis,Alaves,1
+2017-10-21,Levante,Getafe,X
+2017-10-21,Valencia,Sevilla,1
+2017-10-22,Celta,Ath Madrid,2
+2017-10-22,Leganes,Ath Bilbao,1
+2017-10-22,Real Madrid,Eibar,1
+2017-10-22,Villarreal,Las Palmas,1
+2017-10-23,La Coruña,Girona,2
+2017-10-23,Sociedad,Español,X
+2017-10-28,Alaves,Valencia,2
+2017-10-28,Ath Bilbao,Barcelona,2
+2017-10-28,Ath Madrid,Villarreal,X
+2017-10-28,Sevilla,Leganes,1
+2017-10-29,Eibar,Levante,X
+2017-10-29,Getafe,Sociedad,1
+2017-10-29,Girona,Real Madrid,1
+2017-10-29,Malaga,Celta,1
+2017-10-30,Español,Betis,1
+2017-10-30,Las Palmas,La Coruña,2
+2017-11-03,Betis,Getafe,X
+2017-11-04,Alaves,Español,1
+2017-11-04,Barcelona,Sevilla,1
+2017-11-04,La Coruña,Ath Madrid,2
+2017-11-04,Valencia,Leganes,1
+2017-11-05,Celta,Ath Bilbao,1
+2017-11-05,Levante,Girona,2
+2017-11-05,Real Madrid,Las Palmas,1
+2017-11-05,Sociedad,Eibar,1
+2017-11-05,Villarreal,Malaga,1
+2017-11-17,Girona,Sociedad,X
+2017-11-18,Ath Madrid,Real Madrid,X
+2017-11-18,Getafe,Alaves,1
+2017-11-18,Leganes,Barcelona,2
+2017-11-18,Sevilla,Celta,1
+2017-11-19,Ath Bilbao,Villarreal,X
+2017-11-19,Español,Valencia,2
+2017-11-19,Las Palmas,Levante,2
+2017-11-19,Malaga,La Coruña,1
+2017-11-20,Eibar,Betis,1
+2017-11-24,Celta,Leganes,1
+2017-11-25,Alaves,Eibar,2
+2017-11-25,Betis,Girona,X
+2017-11-25,Levante,Ath Madrid,2
+2017-11-25,Real Madrid,Malaga,1
+2017-11-26,La Coruña,Ath Bilbao,X
+2017-11-26,Sociedad,Las Palmas,X
+2017-11-26,Valencia,Barcelona,X
+2017-11-26,Villarreal,Sevilla,2
+2017-11-27,Español,Getafe,1
+2017-12-01,Malaga,Levante,X
+2017-12-02,Ath Bilbao,Real Madrid,X
+2017-12-02,Ath Madrid,Sociedad,1
+2017-12-02,Barcelona,Celta,X
+2017-12-02,Sevilla,La Coruña,1
+2017-12-03,Eibar,Español,1
+2017-12-03,Getafe,Valencia,1
+2017-12-03,Las Palmas,Betis,1
+2017-12-03,Leganes,Villarreal,1
+2017-12-04,Girona,Alaves,2
+2017-12-08,Alaves,Las Palmas,1
+2017-12-09,Getafe,Eibar,X
+2017-12-09,La Coruña,Leganes,1
+2017-12-09,Real Madrid,Sevilla,1
+2017-12-09,Valencia,Celta,1
+2017-12-10,Betis,Ath Madrid,2
+2017-12-10,Levante,Ath Bilbao,2
+2017-12-10,Sociedad,Malaga,2
+2017-12-10,Villarreal,Barcelona,2
+2017-12-11,Español,Girona,2
+2017-12-15,Sevilla,Levante,X
+2017-12-16,Ath Bilbao,Sociedad,X
+2017-12-16,Ath Madrid,Alaves,1
+2017-12-16,Eibar,Valencia,1
+2017-12-17,Barcelona,La Coruña,1
+2017-12-17,Celta,Villarreal,2
+2017-12-17,Girona,Getafe,1
+2017-12-17,Las Palmas,Español,X
+2017-12-18,Malaga,Betis,2
+2017-12-19,Levante,Leganes,X
+2017-12-20,Getafe,Las Palmas,1
+2017-12-20,Sociedad,Sevilla,1
+2017-12-21,Alaves,Malaga,1
+2017-12-21,Eibar,Girona,1
+2017-12-22,Betis,Ath Bilbao,2
+2017-12-22,Español,Ath Madrid,1
+2017-12-23,La Coruña,Celta,2
+2017-12-23,Real Madrid,Barcelona,2
+2017-12-23,Valencia,Villarreal,2
+2018-01-06,Ath Madrid,Getafe,1
+2018-01-06,Las Palmas,Eibar,2
+2018-01-06,Sevilla,Betis,2
+2018-01-06,Valencia,Girona,1
+2018-01-07,Ath Bilbao,Alaves,1
+2018-01-07,Barcelona,Levante,1
+2018-01-07,Celta,Real Madrid,X
+2018-01-07,Leganes,Sociedad,1
+2018-01-07,Villarreal,La Coruña,X
+2018-01-08,Malaga,Español,2
+2018-01-12,Getafe,Malaga,1
+2018-01-13,Eibar,Ath Madrid,2
+2018-01-13,Girona,Las Palmas,1
+2018-01-13,La Coruña,Valencia,2
+2018-01-13,Real Madrid,Villarreal,2
+2018-01-14,Alaves,Sevilla,1
+2018-01-14,Español,Ath Bilbao,X
+2018-01-14,Levante,Celta,2
+2018-01-14,Sociedad,Barcelona,2
+2018-01-15,Betis,Leganes,1
+2018-01-19,Getafe,Ath Bilbao,X
+2018-01-20,Ath Madrid,Girona,X
+2018-01-20,Español,Sevilla,2
+2018-01-20,Las Palmas,Valencia,1
+2018-01-20,Villarreal,Levante,1
+2018-01-21,Alaves,Leganes,X
+2018-01-21,Betis,Barcelona,2
+2018-01-21,Real Madrid,La Coruña,1
+2018-01-21,Sociedad,Celta,2
+2018-01-22,Eibar,Malaga,X
+2018-01-26,Ath Bilbao,Eibar,X
+2018-01-27,La Coruña,Levante,X
+2018-01-27,Malaga,Girona,X
+2018-01-27,Valencia,Real Madrid,2
+2018-01-27,Villarreal,Sociedad,1
+2018-01-28,Ath Madrid,Las Palmas,1
+2018-01-28,Barcelona,Alaves,1
+2018-01-28,Leganes,Español,1
+2018-01-28,Sevilla,Getafe,X
+2018-01-29,Celta,Betis,1
+2018-02-02,Sociedad,La Coruña,1
+2018-02-03,Alaves,Celta,1
+2018-02-03,Betis,Villarreal,1
+2018-02-03,Eibar,Sevilla,1
+2018-02-03,Levante,Real Madrid,X
+2018-02-04,Ath Madrid,Valencia,1
+2018-02-04,Español,Barcelona,X
+2018-02-04,Getafe,Leganes,X
+2018-02-04,Girona,Ath Bilbao,1
+2018-02-05,Las Palmas,Malaga,1
+2018-02-09,Ath Bilbao,Las Palmas,X
+2018-02-10,Leganes,Eibar,2
+2018-02-10,Malaga,Ath Madrid,2
+2018-02-10,Real Madrid,Sociedad,1
+2018-02-10,Villarreal,Alaves,2
+2018-02-11,Barcelona,Getafe,X
+2018-02-11,Celta,Español,X
+2018-02-11,Sevilla,Girona,1
+2018-02-11,Valencia,Levante,1
+2018-02-12,La Coruña,Betis,2
+2018-02-16,Girona,Leganes,1
+2018-02-17,Alaves,La Coruña,1
+2018-02-17,Eibar,Barcelona,2
+2018-02-17,Las Palmas,Sevilla,2
+2018-02-17,Malaga,Valencia,2
+2018-02-18,Ath Madrid,Ath Bilbao,1
+2018-02-18,Betis,Real Madrid,2
+2018-02-18,Español,Villarreal,X
+2018-02-18,Sociedad,Levante,1
+2018-02-19,Getafe,Celta,1
+2018-02-21,Leganes,Real Madrid,2
+2018-02-23,La Coruña,Español,X
+2018-02-24,Barcelona,Girona,1
+2018-02-24,Celta,Eibar,1
+2018-02-24,Leganes,Las Palmas,X
+2018-02-24,Real Madrid,Alaves,1
+2018-02-25,Ath Bilbao,Malaga,1
+2018-02-25,Sevilla,Ath Madrid,2
+2018-02-25,Valencia,Sociedad,1
+2018-02-25,Villarreal,Getafe,1
+2018-02-26,Levante,Betis,2
+2018-02-27,Español,Real Madrid,1
+2018-02-27,Girona,Celta,1
+2018-02-28,Ath Bilbao,Valencia,X
+2018-02-28,Ath Madrid,Leganes,1
+2018-02-28,Eibar,Villarreal,1
+2018-02-28,Getafe,La Coruña,1
+2018-02-28,Malaga,Sevilla,2
+2018-03-01,Alaves,Levante,1
+2018-03-01,Betis,Sociedad,X
+2018-03-01,Las Palmas,Barcelona,X
+2018-03-03,La Coruña,Eibar,X
+2018-03-03,Leganes,Malaga,1
+2018-03-03,Real Madrid,Getafe,1
+2018-03-03,Sevilla,Ath Bilbao,1
+2018-03-03,Villarreal,Girona,2
+2018-03-04,Barcelona,Ath Madrid,1
+2018-03-04,Levante,Español,X
+2018-03-04,Sociedad,Alaves,1
+2018-03-04,Valencia,Betis,1
+2018-03-05,Celta,Las Palmas,1
+2018-03-09,Girona,La Coruña,1
+2018-03-10,Eibar,Real Madrid,2
+2018-03-10,Getafe,Levante,2
+2018-03-10,Malaga,Barcelona,2
+2018-03-10,Sevilla,Valencia,2
+2018-03-11,Ath Bilbao,Leganes,1
+2018-03-11,Ath Madrid,Celta,1
+2018-03-11,Español,Sociedad,1
+2018-03-11,Las Palmas,Villarreal,2
+2018-03-12,Alaves,Betis,2
+2018-03-16,Levante,Eibar,1
+2018-03-17,Betis,Español,1
+2018-03-17,La Coruña,Las Palmas,X
+2018-03-17,Sociedad,Getafe,2
+2018-03-17,Valencia,Alaves,1
+2018-03-18,Barcelona,Ath Bilbao,1
+2018-03-18,Celta,Malaga,X
+2018-03-18,Leganes,Sevilla,1
+2018-03-18,Real Madrid,Girona,1
+2018-03-18,Villarreal,Ath Madrid,1
+2018-03-31,Ath Bilbao,Celta,X
+2018-03-31,Girona,Levante,X
+2018-03-31,Las Palmas,Real Madrid,2
+2018-03-31,Sevilla,Barcelona,X
+2018-04-01,Ath Madrid,La Coruña,1
+2018-04-01,Eibar,Sociedad,X
+2018-04-01,Español,Alaves,X
+2018-04-01,Leganes,Valencia,2
+2018-04-01,Malaga,Villarreal,1
+2018-04-02,Getafe,Betis,2
+2018-04-06,La Coruña,Malaga,1
+2018-04-07,Alaves,Getafe,1
+2018-04-07,Barcelona,Leganes,1
+2018-04-07,Betis,Eibar,1
+2018-04-07,Celta,Sevilla,1
+2018-04-08,Levante,Las Palmas,1
+2018-04-08,Real Madrid,Ath Madrid,X
+2018-04-08,Sociedad,Girona,1
+2018-04-08,Valencia,Español,1
+2018-04-09,Villarreal,Ath Bilbao,2
+2018-04-13,Girona,Betis,2
+2018-04-14,Ath Bilbao,La Coruña,2
+2018-04-14,Barcelona,Valencia,1
+2018-04-14,Las Palmas,Sociedad,2
+2018-04-14,Leganes,Celta,1
+2018-04-14,Sevilla,Villarreal,X
+2018-04-15,Ath Madrid,Levante,1
+2018-04-15,Eibar,Alaves,2
+2018-04-15,Getafe,Español,1
+2018-04-15,Malaga,Real Madrid,2
+2018-04-17,Celta,Barcelona,X
+2018-04-17,La Coruña,Sevilla,X
+2018-04-17,Villarreal,Leganes,1
+2018-04-18,Español,Eibar,2
+2018-04-18,Real Madrid,Ath Bilbao,X
+2018-04-18,Valencia,Getafe,2
+2018-04-19,Alaves,Girona,2
+2018-04-19,Betis,Las Palmas,1
+2018-04-19,Levante,Malaga,1
+2018-04-19,Sociedad,Ath Madrid,1
+2018-04-20,Leganes,La Coruña,X
+2018-04-21,Celta,Valencia,X
+2018-04-21,Eibar,Getafe,2
+2018-04-22,Ath Madrid,Betis,X
+2018-04-22,Girona,Español,2
+2018-04-22,Las Palmas,Alaves,2
+2018-04-22,Malaga,Sociedad,1
+2018-04-23,Ath Bilbao,Levante,2
+2018-04-27,Levante,Sevilla,1
+2018-04-28,Español,Las Palmas,X
+2018-04-28,Real Madrid,Leganes,1
+2018-04-28,Sociedad,Ath Bilbao,1
+2018-04-28,Villarreal,Celta,1
+2018-04-29,Alaves,Ath Madrid,2
+2018-04-29,Getafe,Girona,X
+2018-04-29,La Coruña,Barcelona,2
+2018-04-29,Valencia,Eibar,X
+2018-04-30,Betis,Malaga,1
+2018-05-04,Sevilla,Sociedad,1
+2018-05-05,Ath Bilbao,Betis,1
+2018-05-05,Celta,La Coruña,X
+2018-05-05,Girona,Eibar,2
+2018-05-05,Villarreal,Valencia,1
+2018-05-06,Ath Madrid,Español,2
+2018-05-06,Barcelona,Real Madrid,X
+2018-05-06,Las Palmas,Getafe,2
+2018-05-06,Malaga,Alaves,2
+2018-05-07,Leganes,Levante,2
+2018-05-09,Barcelona,Villarreal,1
+2018-05-09,Sevilla,Real Madrid,1
+2018-05-12,Alaves,Ath Bilbao,1
+2018-05-12,Betis,Sevilla,X
+2018-05-12,Eibar,Las Palmas,1
+2018-05-12,Getafe,Ath Madrid,2
+2018-05-12,Girona,Valencia,2
+2018-05-12,La Coruña,Villarreal,2
+2018-05-12,Real Madrid,Celta,1
+2018-05-12,Sociedad,Leganes,1
+2018-05-13,Español,Malaga,1
+2018-05-13,Levante,Barcelona,1
+2018-05-19,Celta,Levante,1
+2018-05-19,Las Palmas,Girona,2
+2018-05-19,Leganes,Betis,1
+2018-05-19,Malaga,Getafe,2
+2018-05-19,Sevilla,Alaves,1
+2018-05-19,Villarreal,Real Madrid,X
+2018-05-20,Ath Bilbao,Español,2
+2018-05-20,Ath Madrid,Eibar,X
+2018-05-20,Barcelona,Sociedad,1
+2018-05-20,Valencia,La Coruña,1

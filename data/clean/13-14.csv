@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2013-08-17,Sociedad,Getafe,1
+2013-08-17,Valencia,Malaga,1
+2013-08-17,Valladolid,Ath Bilbao,2
+2013-08-18,Barcelona,Levante,1
+2013-08-18,Osasuna,Granada,2
+2013-08-18,Real Madrid,Betis,1
+2013-08-18,Sevilla,Ath Madrid,2
+2013-08-19,Almeria,Villarreal,2
+2013-08-19,Celta,Español,X
+2013-08-19,Vallecano,Elche,1
+2013-08-23,Ath Bilbao,Osasuna,1
+2013-08-23,Getafe,Almeria,X
+2013-08-24,Elche,Sociedad,X
+2013-08-24,Español,Valencia,1
+2013-08-24,Villarreal,Valladolid,1
+2013-08-25,Ath Madrid,Vallecano,1
+2013-08-25,Betis,Celta,2
+2013-08-25,Levante,Sevilla,X
+2013-08-25,Malaga,Barcelona,2
+2013-08-26,Granada,Real Madrid,2
+2013-08-30,Almeria,Elche,X
+2013-08-30,Vallecano,Levante,2
+2013-08-31,Celta,Granada,X
+2013-08-31,Osasuna,Villarreal,2
+2013-08-31,Valladolid,Getafe,1
+2013-09-01,Español,Betis,X
+2013-09-01,Real Madrid,Ath Bilbao,1
+2013-09-01,Sevilla,Malaga,X
+2013-09-01,Sociedad,Ath Madrid,2
+2013-09-01,Valencia,Barcelona,2
+2013-09-14,Ath Madrid,Almeria,1
+2013-09-14,Barcelona,Sevilla,1
+2013-09-14,Levante,Sociedad,X
+2013-09-14,Villarreal,Real Madrid,X
+2013-09-15,Betis,Valencia,1
+2013-09-15,Getafe,Osasuna,1
+2013-09-15,Granada,Español,2
+2013-09-15,Malaga,Vallecano,1
+2013-09-16,Ath Bilbao,Celta,1
+2013-09-16,Elche,Valladolid,X
+2013-09-20,Osasuna,Elche,1
+2013-09-21,Almeria,Levante,X
+2013-09-21,Sociedad,Malaga,X
+2013-09-21,Valladolid,Ath Madrid,2
+2013-09-21,Vallecano,Barcelona,2
+2013-09-22,Betis,Granada,X
+2013-09-22,Celta,Villarreal,X
+2013-09-22,Real Madrid,Getafe,1
+2013-09-22,Valencia,Sevilla,1
+2013-09-23,Español,Ath Bilbao,1
+2013-09-24,Ath Madrid,Osasuna,1
+2013-09-24,Barcelona,Sociedad,1
+2013-09-24,Levante,Valladolid,X
+2013-09-24,Malaga,Almeria,1
+2013-09-25,Elche,Real Madrid,2
+2013-09-25,Granada,Valencia,2
+2013-09-25,Sevilla,Vallecano,1
+2013-09-26,Ath Bilbao,Betis,1
+2013-09-26,Getafe,Celta,1
+2013-09-26,Villarreal,Español,1
+2013-09-27,Valladolid,Malaga,X
+2013-09-28,Almeria,Barcelona,2
+2013-09-28,Real Madrid,Ath Madrid,2
+2013-09-28,Sociedad,Sevilla,X
+2013-09-28,Valencia,Vallecano,1
+2013-09-29,Betis,Villarreal,1
+2013-09-29,Celta,Elche,2
+2013-09-29,Español,Getafe,2
+2013-09-29,Osasuna,Levante,2
+2013-09-30,Granada,Ath Bilbao,1
+2013-10-04,Malaga,Osasuna,2
+2013-10-04,Villarreal,Granada,1
+2013-10-05,Barcelona,Valladolid,1
+2013-10-05,Elche,Español,1
+2013-10-05,Levante,Real Madrid,2
+2013-10-05,Vallecano,Sociedad,1
+2013-10-06,Ath Bilbao,Valencia,X
+2013-10-06,Ath Madrid,Celta,1
+2013-10-06,Getafe,Betis,1
+2013-10-06,Sevilla,Almeria,1
+2013-10-19,Español,Ath Madrid,1
+2013-10-19,Osasuna,Barcelona,X
+2013-10-19,Real Madrid,Malaga,1
+2013-10-19,Valencia,Sociedad,2
+2013-10-20,Almeria,Vallecano,2
+2013-10-20,Betis,Elche,2
+2013-10-20,Granada,Getafe,2
+2013-10-20,Valladolid,Sevilla,X
+2013-10-21,Ath Bilbao,Villarreal,1
+2013-10-21,Celta,Levante,2
+2013-10-25,Vallecano,Valladolid,2
+2013-10-26,Barcelona,Real Madrid,1
+2013-10-26,Elche,Granada,2
+2013-10-26,Levante,Español,1
+2013-10-26,Malaga,Celta,2
+2013-10-27,Ath Madrid,Betis,1
+2013-10-27,Sevilla,Osasuna,1
+2013-10-27,Sociedad,Almeria,1
+2013-10-27,Villarreal,Valencia,1
+2013-10-28,Getafe,Ath Bilbao,2
+2013-10-29,Celta,Barcelona,2
+2013-10-29,Español,Malaga,X
+2013-10-30,Osasuna,Vallecano,1
+2013-10-30,Real Madrid,Sevilla,1
+2013-10-30,Valencia,Almeria,2
+2013-10-30,Valladolid,Sociedad,X
+2013-10-31,Ath Bilbao,Elche,X
+2013-10-31,Betis,Levante,X
+2013-10-31,Granada,Ath Madrid,2
+2013-10-31,Villarreal,Getafe,2
+2013-11-01,Barcelona,Español,1
+2013-11-02,Almeria,Valladolid,1
+2013-11-02,Sevilla,Celta,2
+2013-11-02,Sociedad,Osasuna,1
+2013-11-02,Vallecano,Real Madrid,2
+2013-11-03,Ath Madrid,Ath Bilbao,1
+2013-11-03,Getafe,Valencia,2
+2013-11-03,Levante,Granada,2
+2013-11-03,Malaga,Betis,1
+2013-11-04,Elche,Villarreal,2
+2013-11-08,Granada,Malaga,1
+2013-11-08,Osasuna,Almeria,2
+2013-11-09,Ath Bilbao,Levante,1
+2013-11-09,Celta,Vallecano,2
+2013-11-09,Getafe,Elche,X
+2013-11-09,Real Madrid,Sociedad,1
+2013-11-10,Betis,Barcelona,2
+2013-11-10,Español,Sevilla,2
+2013-11-10,Valencia,Valladolid,X
+2013-11-10,Villarreal,Ath Madrid,X
+2013-11-22,Valladolid,Osasuna,2
+2013-11-23,Almeria,Real Madrid,2
+2013-11-23,Ath Madrid,Getafe,1
+2013-11-23,Barcelona,Granada,1
+2013-11-23,Sociedad,Celta,1
+2013-11-24,Elche,Valencia,1
+2013-11-24,Levante,Villarreal,2
+2013-11-24,Sevilla,Betis,1
+2013-11-24,Vallecano,Español,2
+2013-11-25,Malaga,Ath Bilbao,2
+2013-11-29,Getafe,Levante,1
+2013-11-29,Villarreal,Malaga,X
+2013-11-30,Celta,Almeria,1
+2013-11-30,Elche,Ath Madrid,2
+2013-11-30,Español,Sociedad,2
+2013-11-30,Real Madrid,Valladolid,1
+2013-12-01,Ath Bilbao,Barcelona,1
+2013-12-01,Betis,Vallecano,X
+2013-12-01,Granada,Sevilla,2
+2013-12-01,Valencia,Osasuna,1
+2013-12-13,Levante,Elche,1
+2013-12-14,Barcelona,Villarreal,1
+2013-12-14,Malaga,Getafe,1
+2013-12-14,Osasuna,Real Madrid,X
+2013-12-14,Vallecano,Granada,2
+2013-12-15,Almeria,Español,X
+2013-12-15,Ath Madrid,Valencia,1
+2013-12-15,Sevilla,Ath Bilbao,X
+2013-12-15,Sociedad,Betis,1
+2013-12-16,Valladolid,Celta,1
+2013-12-20,Elche,Malaga,2
+2013-12-21,Ath Madrid,Levante,1
+2013-12-21,Betis,Almeria,2
+2013-12-21,Granada,Sociedad,2
+2013-12-21,Villarreal,Sevilla,2
+2013-12-22,Ath Bilbao,Vallecano,1
+2013-12-22,Celta,Osasuna,X
+2013-12-22,Español,Valladolid,1
+2013-12-22,Getafe,Barcelona,2
+2013-12-22,Valencia,Real Madrid,2
+2014-01-04,Almeria,Granada,1
+2014-01-04,Malaga,Ath Madrid,2
+2014-01-04,Valencia,Levante,1
+2014-01-04,Valladolid,Betis,X
+2014-01-05,Barcelona,Elche,1
+2014-01-05,Osasuna,Español,1
+2014-01-05,Sevilla,Getafe,1
+2014-01-05,Sociedad,Ath Bilbao,1
+2014-01-06,Real Madrid,Celta,1
+2014-01-06,Vallecano,Villarreal,2
+2014-01-10,Granada,Valladolid,1
+2014-01-11,Ath Bilbao,Almeria,1
+2014-01-11,Ath Madrid,Barcelona,X
+2014-01-11,Celta,Valencia,1
+2014-01-11,Elche,Sevilla,X
+2014-01-12,Betis,Osasuna,2
+2014-01-12,Español,Real Madrid,2
+2014-01-12,Getafe,Vallecano,2
+2014-01-12,Levante,Malaga,1
+2014-01-13,Villarreal,Sociedad,1
+2014-01-17,Malaga,Valencia,X
+2014-01-18,Betis,Real Madrid,2
+2014-01-18,Elche,Vallecano,1
+2014-01-18,Español,Celta,1
+2014-01-18,Granada,Osasuna,X
+2014-01-19,Ath Madrid,Sevilla,X
+2014-01-19,Getafe,Sociedad,X
+2014-01-19,Levante,Barcelona,X
+2014-01-19,Villarreal,Almeria,1
+2014-01-20,Ath Bilbao,Valladolid,1
+2014-01-24,Celta,Betis,1
+2014-01-25,Real Madrid,Granada,1
+2014-01-25,Sevilla,Levante,2
+2014-01-25,Valencia,Español,X
+2014-01-25,Valladolid,Villarreal,1
+2014-01-26,Almeria,Getafe,1
+2014-01-26,Barcelona,Malaga,1
+2014-01-26,Osasuna,Ath Bilbao,2
+2014-01-26,Vallecano,Ath Madrid,2
+2014-01-27,Sociedad,Elche,1
+2014-01-31,Granada,Celta,2
+2014-02-01,Barcelona,Valencia,2
+2014-02-01,Getafe,Valladolid,X
+2014-02-01,Levante,Vallecano,X
+2014-02-01,Malaga,Sevilla,1
+2014-02-02,Ath Bilbao,Real Madrid,X
+2014-02-02,Ath Madrid,Sociedad,1
+2014-02-02,Betis,Español,1
+2014-02-02,Elche,Almeria,1
+2014-02-03,Villarreal,Osasuna,1
+2014-02-07,Español,Granada,1
+2014-02-08,Almeria,Ath Madrid,1
+2014-02-08,Real Madrid,Villarreal,1
+2014-02-08,Valencia,Betis,1
+2014-02-08,Vallecano,Malaga,1
+2014-02-09,Osasuna,Getafe,1
+2014-02-09,Sevilla,Barcelona,2
+2014-02-09,Sociedad,Levante,X
+2014-02-09,Valladolid,Elche,X
+2014-02-10,Celta,Ath Bilbao,X
+2014-02-14,Elche,Osasuna,X
+2014-02-15,Ath Madrid,Valladolid,1
+2014-02-15,Barcelona,Vallecano,1
+2014-02-15,Levante,Almeria,1
+2014-02-15,Villarreal,Celta,2
+2014-02-16,Ath Bilbao,Español,2
+2014-02-16,Getafe,Real Madrid,2
+2014-02-16,Granada,Betis,1
+2014-02-16,Sevilla,Valencia,X
+2014-02-17,Malaga,Sociedad,2
+2014-02-21,Valladolid,Levante,X
+2014-02-22,Almeria,Malaga,X
+2014-02-22,Celta,Getafe,X
+2014-02-22,Real Madrid,Elche,1
+2014-02-22,Sociedad,Barcelona,1
+2014-02-23,Betis,Ath Bilbao,2
+2014-02-23,Osasuna,Ath Madrid,1
+2014-02-23,Valencia,Granada,1
+2014-02-23,Vallecano,Sevilla,2
+2014-02-24,Español,Villarreal,2
+2014-02-28,Ath Bilbao,Granada,1
+2014-03-01,Elche,Celta,1
+2014-03-01,Getafe,Español,X
+2014-03-01,Levante,Osasuna,1
+2014-03-01,Malaga,Valladolid,X
+2014-03-02,Ath Madrid,Real Madrid,X
+2014-03-02,Barcelona,Almeria,1
+2014-03-02,Sevilla,Sociedad,1
+2014-03-02,Vallecano,Valencia,1
+2014-03-02,Villarreal,Betis,X
+2014-03-08,Betis,Getafe,1
+2014-03-08,Celta,Ath Madrid,2
+2014-03-08,Granada,Villarreal,1
+2014-03-08,Valladolid,Barcelona,1
+2014-03-09,Almeria,Sevilla,2
+2014-03-09,Español,Elche,1
+2014-03-09,Real Madrid,Levante,1
+2014-03-09,Valencia,Ath Bilbao,X
+2014-03-10,Osasuna,Malaga,2
+2014-03-10,Sociedad,Vallecano,2
+2014-03-14,Getafe,Granada,X
+2014-03-15,Ath Madrid,Español,1
+2014-03-15,Levante,Celta,2
+2014-03-15,Malaga,Real Madrid,2
+2014-03-15,Vallecano,Almeria,1
+2014-03-16,Barcelona,Osasuna,1
+2014-03-16,Elche,Betis,X
+2014-03-16,Sevilla,Valladolid,1
+2014-03-16,Sociedad,Valencia,1
+2014-03-17,Villarreal,Ath Bilbao,X
+2014-03-21,Celta,Malaga,2
+2014-03-22,Ath Bilbao,Getafe,1
+2014-03-22,Español,Levante,X
+2014-03-22,Granada,Elche,1
+2014-03-22,Valladolid,Vallecano,X
+2014-03-23,Betis,Ath Madrid,2
+2014-03-23,Osasuna,Sevilla,2
+2014-03-23,Real Madrid,Barcelona,2
+2014-03-23,Valencia,Villarreal,1
+2014-03-24,Almeria,Sociedad,1
+2014-03-25,Elche,Ath Bilbao,X
+2014-03-25,Malaga,Español,2
+2014-03-26,Ath Madrid,Granada,1
+2014-03-26,Barcelona,Celta,1
+2014-03-26,Sevilla,Real Madrid,1
+2014-03-26,Vallecano,Osasuna,1
+2014-03-27,Almeria,Valencia,X
+2014-03-27,Getafe,Villarreal,2
+2014-03-27,Levante,Betis,2
+2014-03-27,Sociedad,Valladolid,1
+2014-03-29,Ath Bilbao,Ath Madrid,2
+2014-03-29,Celta,Sevilla,1
+2014-03-29,Español,Barcelona,2
+2014-03-29,Real Madrid,Vallecano,1
+2014-03-30,Osasuna,Sociedad,X
+2014-03-30,Valencia,Getafe,2
+2014-03-30,Valladolid,Almeria,1
+2014-03-30,Villarreal,Elche,X
+2014-03-31,Betis,Malaga,2
+2014-03-31,Granada,Levante,2
+2014-04-04,Almeria,Osasuna,2
+2014-04-05,Ath Madrid,Villarreal,1
+2014-04-05,Barcelona,Betis,1
+2014-04-05,Sociedad,Real Madrid,2
+2014-04-05,Vallecano,Celta,1
+2014-04-06,Elche,Getafe,1
+2014-04-06,Malaga,Granada,1
+2014-04-06,Sevilla,Español,1
+2014-04-06,Valladolid,Valencia,X
+2014-04-07,Levante,Ath Bilbao,2
+2014-04-11,Osasuna,Valladolid,X
+2014-04-12,Celta,Sociedad,X
+2014-04-12,Granada,Barcelona,1
+2014-04-12,Real Madrid,Almeria,1
+2014-04-12,Villarreal,Levante,1
+2014-04-13,Betis,Sevilla,2
+2014-04-13,Español,Vallecano,X
+2014-04-13,Getafe,Ath Madrid,2
+2014-04-13,Valencia,Elche,1
+2014-04-14,Ath Bilbao,Malaga,1
+2014-04-18,Ath Madrid,Elche,1
+2014-04-19,Levante,Getafe,X
+2014-04-19,Osasuna,Valencia,X
+2014-04-19,Sociedad,Español,1
+2014-04-20,Almeria,Celta,2
+2014-04-20,Barcelona,Ath Bilbao,1
+2014-04-20,Sevilla,Granada,1
+2014-04-20,Vallecano,Betis,1
+2014-04-21,Malaga,Villarreal,1
+2014-04-25,Elche,Levante,X
+2014-04-26,Betis,Sociedad,2
+2014-04-26,Getafe,Malaga,1
+2014-04-26,Granada,Vallecano,2
+2014-04-26,Real Madrid,Osasuna,1
+2014-04-27,Ath Bilbao,Sevilla,1
+2014-04-27,Español,Almeria,2
+2014-04-27,Valencia,Ath Madrid,2
+2014-04-27,Villarreal,Barcelona,2
+2014-04-28,Celta,Valladolid,1
+2014-05-02,Vallecano,Ath Bilbao,2
+2014-05-03,Barcelona,Getafe,X
+2014-05-03,Malaga,Elche,2
+2014-05-03,Osasuna,Celta,2
+2014-05-03,Valladolid,Español,1
+2014-05-04,Almeria,Betis,1
+2014-05-04,Levante,Ath Madrid,1
+2014-05-04,Real Madrid,Valencia,X
+2014-05-04,Sevilla,Villarreal,X
+2014-05-05,Sociedad,Granada,X
+2014-05-07,Valladolid,Real Madrid,X
+2014-05-10,Levante,Valencia,1
+2014-05-10,Villarreal,Vallecano,1
+2014-05-11,Ath Bilbao,Sociedad,X
+2014-05-11,Ath Madrid,Malaga,X
+2014-05-11,Betis,Valladolid,1
+2014-05-11,Celta,Real Madrid,1
+2014-05-11,Elche,Barcelona,X
+2014-05-11,Español,Osasuna,X
+2014-05-11,Getafe,Sevilla,1
+2014-05-11,Granada,Almeria,2
+2014-05-16,Malaga,Levante,1
+2014-05-17,Barcelona,Ath Madrid,X
+2014-05-17,Real Madrid,Español,1
+2014-05-17,Valencia,Celta,1
+2014-05-18,Almeria,Ath Bilbao,X
+2014-05-18,Osasuna,Betis,1
+2014-05-18,Sevilla,Elche,1
+2014-05-18,Sociedad,Villarreal,2
+2014-05-18,Valladolid,Granada,2
+2014-05-18,Vallecano,Getafe,2

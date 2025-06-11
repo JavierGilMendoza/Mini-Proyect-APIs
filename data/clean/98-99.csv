@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+1998-08-29,Alaves,Betis,X
+1998-08-29,Valencia,Ath Madrid,1
+1998-08-30,Celta,La Coruña,X
+1998-08-30,Español,Tenerife,1
+1998-08-30,Extremadura,Valladolid,X
+1998-08-30,Salamanca,Mallorca,X
+1998-08-30,Santander,Barcelona,X
+1998-08-30,Sociedad,Oviedo,X
+1998-08-30,Zaragoza,Ath Bilbao,1
+1998-08-31,Real Madrid,Villarreal,1
+1998-09-12,Ath Bilbao,Santander,1
+1998-09-12,Ath Madrid,Salamanca,1
+1998-09-12,Barcelona,Extremadura,1
+1998-09-12,Betis,Zaragoza,2
+1998-09-12,La Coruña,Valencia,1
+1998-09-12,Tenerife,Sociedad,X
+1998-09-12,Valladolid,Real Madrid,2
+1998-09-12,Villarreal,Celta,X
+1998-09-13,Mallorca,Español,1
+1998-09-13,Oviedo,Alaves,1
+1998-09-19,Real Madrid,Barcelona,X
+1998-09-20,Alaves,Zaragoza,1
+1998-09-20,Celta,Valladolid,X
+1998-09-20,Español,Ath Madrid,X
+1998-09-20,Extremadura,Ath Bilbao,2
+1998-09-20,Oviedo,Tenerife,2
+1998-09-20,Salamanca,La Coruña,1
+1998-09-20,Santander,Betis,1
+1998-09-20,Sociedad,Mallorca,2
+1998-09-20,Valencia,Villarreal,1
+1998-09-26,Ath Bilbao,Real Madrid,2
+1998-09-26,Ath Madrid,Sociedad,1
+1998-09-26,Barcelona,Celta,X
+1998-09-26,Betis,Extremadura,X
+1998-09-26,Valladolid,Valencia,1
+1998-09-27,La Coruña,Español,1
+1998-09-27,Mallorca,Oviedo,X
+1998-09-27,Tenerife,Alaves,2
+1998-09-27,Villarreal,Salamanca,1
+1998-09-27,Zaragoza,Santander,1
+1998-10-03,Valencia,Barcelona,2
+1998-10-04,Alaves,Santander,2
+1998-10-04,Celta,Ath Bilbao,1
+1998-10-04,Español,Villarreal,X
+1998-10-04,Extremadura,Zaragoza,2
+1998-10-04,Oviedo,Ath Madrid,1
+1998-10-04,Real Madrid,Betis,2
+1998-10-04,Salamanca,Valladolid,1
+1998-10-04,Sociedad,La Coruña,1
+1998-10-04,Tenerife,Mallorca,X
+1998-10-17,Ath Bilbao,Valencia,1
+1998-10-17,Ath Madrid,Tenerife,1
+1998-10-17,Barcelona,Salamanca,X
+1998-10-17,Betis,Celta,2
+1998-10-17,Villarreal,Sociedad,X
+1998-10-17,Zaragoza,Real Madrid,2
+1998-10-18,La Coruña,Oviedo,1
+1998-10-18,Mallorca,Alaves,1
+1998-10-18,Santander,Extremadura,1
+1998-10-18,Valladolid,Español,1
+1998-10-24,Celta,Zaragoza,1
+1998-10-25,Alaves,Extremadura,2
+1998-10-25,Español,Barcelona,2
+1998-10-25,Mallorca,Ath Madrid,1
+1998-10-25,Oviedo,Villarreal,X
+1998-10-25,Real Madrid,Santander,X
+1998-10-25,Salamanca,Ath Bilbao,1
+1998-10-25,Sociedad,Valladolid,1
+1998-10-25,Tenerife,La Coruña,X
+1998-10-25,Valencia,Betis,1
+1998-10-31,Ath Bilbao,Español,X
+1998-10-31,Ath Madrid,Alaves,1
+1998-10-31,Barcelona,Sociedad,1
+1998-10-31,Betis,Salamanca,1
+1998-10-31,Extremadura,Real Madrid,2
+1998-10-31,Santander,Celta,X
+1998-10-31,Zaragoza,Valencia,2
+1998-11-01,La Coruña,Mallorca,X
+1998-11-01,Valladolid,Oviedo,1
+1998-11-01,Villarreal,Tenerife,2
+1998-11-07,Español,Betis,1
+1998-11-08,Alaves,Real Madrid,X
+1998-11-08,Ath Madrid,La Coruña,X
+1998-11-08,Celta,Extremadura,1
+1998-11-08,Mallorca,Villarreal,1
+1998-11-08,Oviedo,Barcelona,1
+1998-11-08,Salamanca,Zaragoza,2
+1998-11-08,Sociedad,Ath Bilbao,1
+1998-11-08,Tenerife,Valladolid,X
+1998-11-08,Valencia,Santander,1
+1998-11-14,Real Madrid,Celta,2
+1998-11-15,Ath Bilbao,Oviedo,2
+1998-11-15,Barcelona,Tenerife,1
+1998-11-15,Betis,Sociedad,1
+1998-11-15,Extremadura,Valencia,1
+1998-11-15,La Coruña,Alaves,X
+1998-11-15,Santander,Salamanca,1
+1998-11-15,Valladolid,Mallorca,1
+1998-11-15,Villarreal,Ath Madrid,1
+1998-11-15,Zaragoza,Español,2
+1998-11-20,Tenerife,Ath Bilbao,2
+1998-11-21,Alaves,Celta,1
+1998-11-21,Ath Madrid,Valladolid,1
+1998-11-21,Mallorca,Barcelona,1
+1998-11-21,Oviedo,Betis,2
+1998-11-21,Sociedad,Zaragoza,X
+1998-11-21,Valencia,Real Madrid,1
+1998-11-22,Español,Santander,X
+1998-11-22,La Coruña,Villarreal,1
+1998-11-22,Salamanca,Extremadura,1
+1998-11-28,Barcelona,Ath Madrid,2
+1998-11-29,Ath Bilbao,Mallorca,1
+1998-11-29,Betis,Tenerife,1
+1998-11-29,Celta,Valencia,X
+1998-11-29,Extremadura,Español,1
+1998-11-29,Santander,Sociedad,2
+1998-11-29,Valladolid,La Coruña,2
+1998-11-29,Villarreal,Alaves,1
+1998-11-29,Zaragoza,Oviedo,1
+1998-12-05,Ath Madrid,Ath Bilbao,X
+1998-12-05,Español,Real Madrid,X
+1998-12-05,La Coruña,Barcelona,1
+1998-12-05,Mallorca,Betis,1
+1998-12-05,Salamanca,Celta,X
+1998-12-05,Sociedad,Extremadura,1
+1998-12-06,Alaves,Valencia,2
+1998-12-06,Oviedo,Santander,1
+1998-12-06,Tenerife,Zaragoza,X
+1998-12-06,Villarreal,Valladolid,1
+1998-12-12,Betis,Ath Madrid,X
+1998-12-13,Ath Bilbao,La Coruña,1
+1998-12-13,Barcelona,Villarreal,2
+1998-12-13,Celta,Español,1
+1998-12-13,Extremadura,Oviedo,2
+1998-12-13,Real Madrid,Sociedad,1
+1998-12-13,Santander,Tenerife,X
+1998-12-13,Valencia,Salamanca,1
+1998-12-13,Valladolid,Alaves,1
+1998-12-13,Zaragoza,Mallorca,2
+1998-12-19,La Coruña,Betis,X
+1998-12-20,Alaves,Salamanca,1
+1998-12-20,Ath Madrid,Zaragoza,X
+1998-12-20,Español,Valencia,1
+1998-12-20,Mallorca,Santander,X
+1998-12-20,Oviedo,Real Madrid,1
+1998-12-20,Sociedad,Celta,1
+1998-12-20,Tenerife,Extremadura,X
+1998-12-20,Valladolid,Barcelona,2
+1998-12-20,Villarreal,Ath Bilbao,2
+1999-01-02,Valencia,Sociedad,1
+1999-01-03,Ath Bilbao,Valladolid,1
+1999-01-03,Barcelona,Alaves,1
+1999-01-03,Betis,Villarreal,1
+1999-01-03,Celta,Oviedo,1
+1999-01-03,Extremadura,Mallorca,1
+1999-01-03,Real Madrid,Tenerife,1
+1999-01-03,Salamanca,Español,2
+1999-01-03,Santander,Ath Madrid,2
+1999-01-03,Zaragoza,La Coruña,1
+1999-01-06,Real Madrid,Salamanca,1
+1999-01-09,Barcelona,Ath Bilbao,1
+1999-01-10,Alaves,Español,X
+1999-01-10,Ath Madrid,Extremadura,1
+1999-01-10,La Coruña,Santander,2
+1999-01-10,Mallorca,Real Madrid,1
+1999-01-10,Oviedo,Valencia,X
+1999-01-10,Sociedad,Salamanca,1
+1999-01-10,Tenerife,Celta,2
+1999-01-10,Valladolid,Betis,2
+1999-01-10,Villarreal,Zaragoza,X
+1999-01-16,Celta,Mallorca,1
+1999-01-17,Alaves,Ath Bilbao,2
+1999-01-17,Betis,Barcelona,2
+1999-01-17,Español,Sociedad,X
+1999-01-17,Extremadura,La Coruña,2
+1999-01-17,Real Madrid,Ath Madrid,1
+1999-01-17,Salamanca,Oviedo,X
+1999-01-17,Santander,Villarreal,2
+1999-01-17,Valencia,Tenerife,X
+1999-01-17,Zaragoza,Valladolid,1
+1999-01-23,Ath Bilbao,Betis,X
+1999-01-24,Ath Madrid,Celta,1
+1999-01-24,Barcelona,Zaragoza,1
+1999-01-24,La Coruña,Real Madrid,1
+1999-01-24,Mallorca,Valencia,2
+1999-01-24,Oviedo,Español,X
+1999-01-24,Sociedad,Alaves,1
+1999-01-24,Tenerife,Salamanca,1
+1999-01-24,Valladolid,Santander,X
+1999-01-24,Villarreal,Extremadura,X
+1999-01-30,Ath Bilbao,Zaragoza,1
+1999-01-30,Ath Madrid,Valencia,2
+1999-01-30,Betis,Alaves,1
+1999-01-30,Mallorca,Salamanca,1
+1999-01-30,Oviedo,Sociedad,1
+1999-01-30,Villarreal,Real Madrid,2
+1999-01-31,Barcelona,Santander,1
+1999-01-31,La Coruña,Celta,1
+1999-01-31,Tenerife,Español,X
+1999-01-31,Valladolid,Extremadura,X
+1999-02-06,Valencia,La Coruña,X
+1999-02-07,Alaves,Oviedo,X
+1999-02-07,Celta,Villarreal,1
+1999-02-07,Español,Mallorca,1
+1999-02-07,Extremadura,Barcelona,2
+1999-02-07,Real Madrid,Valladolid,1
+1999-02-07,Salamanca,Ath Madrid,1
+1999-02-07,Santander,Ath Bilbao,1
+1999-02-07,Sociedad,Tenerife,X
+1999-02-07,Zaragoza,Betis,X
+1999-02-13,Ath Madrid,Español,2
+1999-02-13,La Coruña,Salamanca,1
+1999-02-13,Mallorca,Sociedad,1
+1999-02-14,Ath Bilbao,Extremadura,X
+1999-02-14,Barcelona,Real Madrid,1
+1999-02-14,Betis,Santander,X
+1999-02-14,Tenerife,Oviedo,2
+1999-02-14,Valladolid,Celta,1
+1999-02-14,Villarreal,Valencia,1
+1999-02-14,Zaragoza,Alaves,X
+1999-02-20,Extremadura,Betis,1
+1999-02-20,Real Madrid,Ath Bilbao,2
+1999-02-20,Santander,Zaragoza,2
+1999-02-21,Alaves,Tenerife,1
+1999-02-21,Celta,Barcelona,X
+1999-02-21,Español,La Coruña,X
+1999-02-21,Oviedo,Mallorca,2
+1999-02-21,Salamanca,Villarreal,1
+1999-02-21,Sociedad,Ath Madrid,1
+1999-02-21,Valencia,Valladolid,2
+1999-02-27,Ath Bilbao,Celta,X
+1999-02-27,Ath Madrid,Oviedo,X
+1999-02-27,Barcelona,Valencia,2
+1999-02-27,Betis,Real Madrid,1
+1999-02-28,La Coruña,Sociedad,2
+1999-02-28,Mallorca,Tenerife,X
+1999-02-28,Santander,Alaves,1
+1999-02-28,Valladolid,Salamanca,1
+1999-02-28,Villarreal,Español,X
+1999-02-28,Zaragoza,Extremadura,1
+1999-03-06,Oviedo,La Coruña,2
+1999-03-07,Alaves,Mallorca,1
+1999-03-07,Celta,Betis,1
+1999-03-07,Español,Valladolid,2
+1999-03-07,Extremadura,Santander,2
+1999-03-07,Real Madrid,Zaragoza,1
+1999-03-07,Salamanca,Barcelona,2
+1999-03-07,Sociedad,Villarreal,X
+1999-03-07,Tenerife,Ath Madrid,1
+1999-03-07,Valencia,Ath Bilbao,1
+1999-03-13,Ath Madrid,Mallorca,2
+1999-03-13,Betis,Valencia,2
+1999-03-13,Santander,Real Madrid,2
+1999-03-13,Zaragoza,Celta,2
+1999-03-14,Ath Bilbao,Salamanca,1
+1999-03-14,Barcelona,Español,1
+1999-03-14,Extremadura,Alaves,1
+1999-03-14,La Coruña,Tenerife,1
+1999-03-14,Valladolid,Sociedad,X
+1999-03-14,Villarreal,Oviedo,X
+1999-03-20,Español,Ath Bilbao,X
+1999-03-21,Alaves,Ath Madrid,1
+1999-03-21,Celta,Santander,1
+1999-03-21,Mallorca,La Coruña,2
+1999-03-21,Oviedo,Valladolid,X
+1999-03-21,Real Madrid,Extremadura,1
+1999-03-21,Salamanca,Betis,2
+1999-03-21,Sociedad,Barcelona,2
+1999-03-21,Tenerife,Villarreal,X
+1999-03-21,Valencia,Zaragoza,X
+1999-04-03,La Coruña,Ath Madrid,X
+1999-04-03,Santander,Valencia,2
+1999-04-04,Ath Bilbao,Sociedad,X
+1999-04-04,Barcelona,Oviedo,1
+1999-04-04,Betis,Español,2
+1999-04-04,Extremadura,Celta,X
+1999-04-04,Real Madrid,Alaves,1
+1999-04-04,Valladolid,Tenerife,1
+1999-04-04,Villarreal,Mallorca,2
+1999-04-04,Zaragoza,Salamanca,1
+1999-04-10,Tenerife,Barcelona,2
+1999-04-11,Alaves,La Coruña,1
+1999-04-11,Ath Madrid,Villarreal,X
+1999-04-11,Celta,Real Madrid,1
+1999-04-11,Español,Zaragoza,1
+1999-04-11,Mallorca,Valladolid,1
+1999-04-11,Oviedo,Ath Bilbao,X
+1999-04-11,Salamanca,Santander,2
+1999-04-11,Sociedad,Betis,1
+1999-04-11,Valencia,Extremadura,X
+1999-04-17,Barcelona,Mallorca,1
+1999-04-17,Valladolid,Ath Madrid,1
+1999-04-18,Ath Bilbao,Tenerife,1
+1999-04-18,Betis,Oviedo,1
+1999-04-18,Celta,Alaves,X
+1999-04-18,Extremadura,Salamanca,X
+1999-04-18,Real Madrid,Valencia,1
+1999-04-18,Santander,Español,2
+1999-04-18,Villarreal,La Coruña,2
+1999-04-18,Zaragoza,Sociedad,X
+1999-04-24,Valencia,Celta,X
+1999-04-25,Alaves,Villarreal,1
+1999-04-25,Ath Madrid,Barcelona,X
+1999-04-25,Español,Extremadura,X
+1999-04-25,La Coruña,Valladolid,1
+1999-04-25,Mallorca,Ath Bilbao,1
+1999-04-25,Oviedo,Zaragoza,2
+1999-04-25,Salamanca,Real Madrid,X
+1999-04-25,Sociedad,Santander,1
+1999-04-25,Tenerife,Betis,1
+1999-05-01,Real Madrid,Español,1
+1999-05-01,Valencia,Alaves,1
+1999-05-02,Ath Bilbao,Ath Madrid,2
+1999-05-02,Barcelona,La Coruña,1
+1999-05-02,Betis,Mallorca,2
+1999-05-02,Celta,Salamanca,1
+1999-05-02,Extremadura,Sociedad,1
+1999-05-02,Santander,Oviedo,X
+1999-05-02,Valladolid,Villarreal,1
+1999-05-02,Zaragoza,Tenerife,1
+1999-05-08,Sociedad,Real Madrid,1
+1999-05-09,Alaves,Valladolid,1
+1999-05-09,Ath Madrid,Betis,2
+1999-05-09,Español,Celta,1
+1999-05-09,La Coruña,Ath Bilbao,X
+1999-05-09,Mallorca,Zaragoza,1
+1999-05-09,Oviedo,Extremadura,1
+1999-05-09,Salamanca,Valencia,2
+1999-05-09,Tenerife,Santander,X
+1999-05-09,Villarreal,Barcelona,2
+1999-05-14,Santander,Mallorca,1
+1999-05-15,Barcelona,Valladolid,X
+1999-05-16,Ath Bilbao,Villarreal,1
+1999-05-16,Betis,La Coruña,2
+1999-05-16,Celta,Sociedad,X
+1999-05-16,Extremadura,Tenerife,1
+1999-05-16,Real Madrid,Oviedo,1
+1999-05-16,Salamanca,Alaves,1
+1999-05-16,Valencia,Español,2
+1999-05-16,Zaragoza,Ath Madrid,1
+1999-05-22,Alaves,Barcelona,2
+1999-05-23,Ath Madrid,Santander,X
+1999-05-23,Español,Salamanca,1
+1999-05-23,La Coruña,Zaragoza,1
+1999-05-23,Mallorca,Extremadura,1
+1999-05-23,Oviedo,Celta,2
+1999-05-23,Sociedad,Valencia,X
+1999-05-23,Tenerife,Real Madrid,2
+1999-05-23,Valladolid,Ath Bilbao,2
+1999-05-23,Villarreal,Betis,2
+1999-05-29,Ath Bilbao,Barcelona,2
+1999-05-29,Valencia,Oviedo,1
+1999-05-30,Betis,Valladolid,1
+1999-05-30,Celta,Tenerife,1
+1999-05-30,Español,Alaves,1
+1999-05-30,Extremadura,Ath Madrid,1
+1999-05-30,Real Madrid,Mallorca,1
+1999-05-30,Salamanca,Sociedad,2
+1999-05-30,Santander,La Coruña,X
+1999-05-30,Zaragoza,Villarreal,1
+1999-06-12,Ath Madrid,Real Madrid,1
+1999-06-12,La Coruña,Extremadura,X
+1999-06-12,Valladolid,Zaragoza,X
+1999-06-13,Ath Bilbao,Alaves,1
+1999-06-13,Barcelona,Betis,1
+1999-06-13,Mallorca,Celta,1
+1999-06-13,Oviedo,Salamanca,1
+1999-06-13,Sociedad,Español,2
+1999-06-13,Tenerife,Valencia,1
+1999-06-13,Villarreal,Santander,1
+1999-06-19,Salamanca,Tenerife,2
+1999-06-19,Santander,Valladolid,2
+1999-06-20,Alaves,Sociedad,1
+1999-06-20,Betis,Ath Bilbao,2
+1999-06-20,Celta,Ath Madrid,2
+1999-06-20,Español,Oviedo,1
+1999-06-20,Extremadura,Villarreal,X
+1999-06-20,Real Madrid,La Coruña,1
+1999-06-20,Valencia,Mallorca,1
+1999-06-20,Zaragoza,Barcelona,1

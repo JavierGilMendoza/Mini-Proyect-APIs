@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+1999-08-21,Ath Bilbao,Betis,1
+1999-08-21,Mallorca,Real Madrid,2
+1999-08-21,Valencia,Santander,2
+1999-08-22,Ath Madrid,Vallecano,2
+1999-08-22,Barcelona,Zaragoza,1
+1999-08-22,La Coruña,Alaves,1
+1999-08-22,Malaga,Español,1
+1999-08-22,Numancia,Valladolid,1
+1999-08-22,Oviedo,Celta,1
+1999-08-22,Sevilla,Sociedad,X
+1999-08-28,Sociedad,Ath Madrid,1
+1999-08-29,Alaves,Malaga,1
+1999-08-29,Betis,La Coruña,X
+1999-08-29,Celta,Sevilla,1
+1999-08-29,Español,Valencia,1
+1999-08-29,Real Madrid,Numancia,1
+1999-08-29,Santander,Barcelona,2
+1999-08-29,Valladolid,Ath Bilbao,1
+1999-08-29,Vallecano,Mallorca,1
+1999-08-29,Zaragoza,Oviedo,1
+1999-09-11,Barcelona,Español,1
+1999-09-11,La Coruña,Valladolid,1
+1999-09-11,Valencia,Alaves,2
+1999-09-12,Ath Bilbao,Real Madrid,X
+1999-09-12,Ath Madrid,Celta,2
+1999-09-12,Malaga,Betis,1
+1999-09-12,Mallorca,Numancia,1
+1999-09-12,Oviedo,Santander,2
+1999-09-12,Sevilla,Zaragoza,X
+1999-09-12,Vallecano,Sociedad,1
+1999-09-18,Alaves,Barcelona,1
+1999-09-18,Betis,Valencia,1
+1999-09-18,Español,Oviedo,1
+1999-09-18,Real Madrid,La Coruña,X
+1999-09-18,Valladolid,Malaga,1
+1999-09-19,Celta,Vallecano,2
+1999-09-19,Numancia,Ath Bilbao,X
+1999-09-19,Santander,Sevilla,X
+1999-09-19,Sociedad,Mallorca,1
+1999-09-19,Zaragoza,Ath Madrid,X
+1999-09-25,Barcelona,Betis,1
+1999-09-25,Malaga,Real Madrid,X
+1999-09-25,Sociedad,Celta,2
+1999-09-25,Valencia,Valladolid,X
+1999-09-26,Ath Madrid,Santander,1
+1999-09-26,La Coruña,Numancia,2
+1999-09-26,Mallorca,Ath Bilbao,1
+1999-09-26,Oviedo,Alaves,1
+1999-09-26,Sevilla,Español,2
+1999-09-26,Vallecano,Zaragoza,2
+1999-10-02,Numancia,Malaga,X
+1999-10-02,Valladolid,Barcelona,2
+1999-10-03,Alaves,Sevilla,X
+1999-10-03,Ath Bilbao,La Coruña,2
+1999-10-03,Betis,Oviedo,1
+1999-10-03,Celta,Mallorca,1
+1999-10-03,Español,Ath Madrid,1
+1999-10-03,Real Madrid,Valencia,2
+1999-10-03,Santander,Vallecano,X
+1999-10-03,Zaragoza,Sociedad,1
+1999-10-11,Ath Madrid,Alaves,1
+1999-10-12,Malaga,Ath Bilbao,2
+1999-10-12,Mallorca,La Coruña,X
+1999-10-12,Sevilla,Betis,1
+1999-10-13,Barcelona,Real Madrid,X
+1999-10-13,Celta,Zaragoza,1
+1999-10-13,Oviedo,Valladolid,X
+1999-10-13,Sociedad,Santander,2
+1999-10-13,Valencia,Numancia,1
+1999-10-13,Vallecano,Español,1
+1999-10-16,Ath Bilbao,Valencia,1
+1999-10-16,La Coruña,Malaga,1
+1999-10-16,Numancia,Barcelona,X
+1999-10-16,Real Madrid,Oviedo,X
+1999-10-16,Santander,Celta,1
+1999-10-17,Alaves,Vallecano,2
+1999-10-17,Betis,Ath Madrid,1
+1999-10-17,Español,Sociedad,X
+1999-10-17,Valladolid,Sevilla,1
+1999-10-17,Zaragoza,Mallorca,1
+1999-10-23,Barcelona,Ath Bilbao,1
+1999-10-23,Sevilla,Real Madrid,X
+1999-10-23,Valencia,La Coruña,1
+1999-10-24,Ath Madrid,Valladolid,1
+1999-10-24,Celta,Español,1
+1999-10-24,Mallorca,Malaga,1
+1999-10-24,Oviedo,Numancia,1
+1999-10-24,Sociedad,Alaves,X
+1999-10-24,Vallecano,Betis,2
+1999-10-24,Zaragoza,Santander,1
+1999-10-30,La Coruña,Barcelona,1
+1999-10-30,Malaga,Valencia,X
+1999-10-30,Real Madrid,Ath Madrid,2
+1999-10-31,Alaves,Celta,1
+1999-10-31,Ath Bilbao,Oviedo,X
+1999-10-31,Betis,Sociedad,1
+1999-10-31,Español,Zaragoza,X
+1999-10-31,Numancia,Sevilla,1
+1999-10-31,Santander,Mallorca,X
+1999-10-31,Valladolid,Vallecano,2
+1999-11-06,Vallecano,Real Madrid,2
+1999-11-07,Ath Madrid,Numancia,X
+1999-11-07,Barcelona,Malaga,2
+1999-11-07,Celta,Betis,1
+1999-11-07,Mallorca,Valencia,1
+1999-11-07,Oviedo,La Coruña,2
+1999-11-07,Santander,Español,X
+1999-11-07,Sevilla,Ath Bilbao,X
+1999-11-07,Sociedad,Valladolid,1
+1999-11-07,Zaragoza,Alaves,1
+1999-11-20,Ath Bilbao,Ath Madrid,1
+1999-11-20,Valencia,Barcelona,1
+1999-11-21,Betis,Zaragoza,1
+1999-11-21,Español,Mallorca,2
+1999-11-21,Malaga,Oviedo,1
+1999-11-21,Numancia,Vallecano,1
+1999-11-21,Real Madrid,Sociedad,X
+1999-11-21,Valladolid,Celta,2
+1999-11-22,La Coruña,Sevilla,1
+1999-11-27,Sevilla,Malaga,X
+1999-11-28,Ath Madrid,La Coruña,2
+1999-11-28,Celta,Real Madrid,1
+1999-11-28,Español,Alaves,2
+1999-11-28,Mallorca,Barcelona,1
+1999-11-28,Oviedo,Valencia,X
+1999-11-28,Santander,Betis,X
+1999-11-28,Sociedad,Numancia,1
+1999-11-28,Vallecano,Ath Bilbao,2
+1999-11-28,Zaragoza,Valladolid,X
+1999-12-04,Ath Bilbao,Sociedad,X
+1999-12-04,Barcelona,Oviedo,1
+1999-12-04,Real Madrid,Zaragoza,2
+1999-12-04,Valencia,Sevilla,1
+1999-12-05,Alaves,Mallorca,X
+1999-12-05,Betis,Español,2
+1999-12-05,La Coruña,Vallecano,1
+1999-12-05,Malaga,Ath Madrid,2
+1999-12-05,Numancia,Celta,1
+1999-12-05,Valladolid,Santander,1
+1999-12-08,Alaves,Santander,1
+1999-12-11,Sevilla,Barcelona,1
+1999-12-12,Alaves,Betis,1
+1999-12-12,Ath Madrid,Valencia,2
+1999-12-12,Celta,Ath Bilbao,X
+1999-12-12,Español,Valladolid,X
+1999-12-12,Mallorca,Oviedo,X
+1999-12-12,Santander,Real Madrid,X
+1999-12-12,Sociedad,La Coruña,2
+1999-12-12,Vallecano,Malaga,1
+1999-12-12,Zaragoza,Numancia,X
+1999-12-18,La Coruña,Celta,1
+1999-12-18,Real Madrid,Español,1
+1999-12-18,Valladolid,Alaves,X
+1999-12-19,Ath Bilbao,Zaragoza,X
+1999-12-19,Barcelona,Ath Madrid,1
+1999-12-19,Betis,Mallorca,1
+1999-12-19,Malaga,Sociedad,X
+1999-12-19,Numancia,Santander,1
+1999-12-19,Oviedo,Sevilla,1
+1999-12-19,Valencia,Vallecano,1
+1999-12-21,Alaves,Real Madrid,2
+1999-12-22,Ath Madrid,Oviedo,1
+1999-12-22,Betis,Valladolid,2
+1999-12-22,Celta,Malaga,2
+1999-12-22,Español,Numancia,1
+1999-12-22,Mallorca,Sevilla,1
+1999-12-22,Santander,Ath Bilbao,X
+1999-12-22,Sociedad,Valencia,X
+1999-12-22,Vallecano,Barcelona,X
+1999-12-22,Zaragoza,La Coruña,1
+2000-01-04,Valencia,Celta,X
+2000-01-05,Ath Bilbao,Español,1
+2000-01-05,Barcelona,Sociedad,1
+2000-01-05,La Coruña,Santander,2
+2000-01-05,Malaga,Zaragoza,X
+2000-01-05,Mallorca,Valladolid,X
+2000-01-05,Numancia,Alaves,X
+2000-01-05,Oviedo,Vallecano,1
+2000-01-05,Sevilla,Ath Madrid,1
+2000-01-08,Español,La Coruña,X
+2000-01-09,Alaves,Ath Bilbao,2
+2000-01-09,Ath Madrid,Mallorca,1
+2000-01-09,Betis,Numancia,2
+2000-01-09,Celta,Barcelona,2
+2000-01-09,Santander,Malaga,2
+2000-01-09,Sociedad,Oviedo,X
+2000-01-09,Vallecano,Sevilla,1
+2000-01-09,Zaragoza,Valencia,1
+2000-01-15,Vallecano,Ath Madrid,X
+2000-01-16,Alaves,La Coruña,1
+2000-01-16,Betis,Ath Bilbao,1
+2000-01-16,Celta,Oviedo,1
+2000-01-16,Español,Malaga,2
+2000-01-16,Santander,Valencia,X
+2000-01-16,Sociedad,Sevilla,X
+2000-01-16,Valladolid,Numancia,1
+2000-01-16,Zaragoza,Barcelona,X
+2000-01-17,Real Madrid,Mallorca,1
+2000-01-22,La Coruña,Betis,1
+2000-01-23,Ath Bilbao,Valladolid,1
+2000-01-23,Ath Madrid,Sociedad,X
+2000-01-23,Barcelona,Santander,1
+2000-01-23,Malaga,Alaves,2
+2000-01-23,Mallorca,Vallecano,1
+2000-01-23,Numancia,Real Madrid,X
+2000-01-23,Oviedo,Zaragoza,1
+2000-01-23,Sevilla,Celta,2
+2000-01-23,Valencia,Español,2
+2000-01-26,Real Madrid,Betis,1
+2000-01-29,Celta,Ath Madrid,2
+2000-01-29,Español,Barcelona,X
+2000-01-30,Alaves,Valencia,2
+2000-01-30,Betis,Malaga,X
+2000-01-30,Numancia,Mallorca,1
+2000-01-30,Real Madrid,Ath Bilbao,1
+2000-01-30,Santander,Oviedo,1
+2000-01-30,Sociedad,Vallecano,1
+2000-01-30,Valladolid,La Coruña,1
+2000-01-30,Zaragoza,Sevilla,1
+2000-02-05,Valencia,Betis,1
+2000-02-06,Ath Bilbao,Numancia,1
+2000-02-06,Ath Madrid,Zaragoza,X
+2000-02-06,Barcelona,Alaves,2
+2000-02-06,La Coruña,Real Madrid,1
+2000-02-06,Malaga,Valladolid,X
+2000-02-06,Mallorca,Sociedad,1
+2000-02-06,Oviedo,Español,1
+2000-02-06,Sevilla,Santander,1
+2000-02-06,Vallecano,Celta,1
+2000-02-12,Ath Bilbao,Mallorca,X
+2000-02-12,Real Madrid,Malaga,1
+2000-02-12,Valladolid,Valencia,X
+2000-02-13,Alaves,Oviedo,1
+2000-02-13,Betis,Barcelona,1
+2000-02-13,Celta,Sociedad,1
+2000-02-13,Español,Sevilla,X
+2000-02-13,Numancia,La Coruña,1
+2000-02-13,Santander,Ath Madrid,1
+2000-02-13,Zaragoza,Vallecano,X
+2000-02-15,Valladolid,Real Madrid,2
+2000-02-19,La Coruña,Ath Bilbao,1
+2000-02-20,Ath Madrid,Español,X
+2000-02-20,Barcelona,Valladolid,1
+2000-02-20,Malaga,Numancia,1
+2000-02-20,Mallorca,Celta,1
+2000-02-20,Oviedo,Betis,X
+2000-02-20,Sevilla,Alaves,X
+2000-02-20,Sociedad,Zaragoza,1
+2000-02-20,Valencia,Real Madrid,X
+2000-02-20,Vallecano,Santander,2
+2000-02-26,Numancia,Valencia,2
+2000-02-26,Real Madrid,Barcelona,1
+2000-02-27,Alaves,Ath Madrid,1
+2000-02-27,Ath Bilbao,Malaga,X
+2000-02-27,Betis,Sevilla,X
+2000-02-27,Español,Vallecano,1
+2000-02-27,La Coruña,Mallorca,1
+2000-02-27,Santander,Sociedad,X
+2000-02-27,Valladolid,Oviedo,1
+2000-02-27,Zaragoza,Celta,1
+2000-03-04,Barcelona,Numancia,1
+2000-03-04,Oviedo,Real Madrid,X
+2000-03-04,Valencia,Ath Bilbao,1
+2000-03-05,Ath Madrid,Betis,X
+2000-03-05,Celta,Santander,1
+2000-03-05,Malaga,La Coruña,1
+2000-03-05,Mallorca,Zaragoza,X
+2000-03-05,Sevilla,Valladolid,2
+2000-03-05,Sociedad,Español,1
+2000-03-05,Vallecano,Alaves,2
+2000-03-11,Ath Bilbao,Barcelona,2
+2000-03-11,Betis,Vallecano,X
+2000-03-11,Real Madrid,Sevilla,1
+2000-03-12,Alaves,Sociedad,1
+2000-03-12,Español,Celta,1
+2000-03-12,La Coruña,Valencia,1
+2000-03-12,Malaga,Mallorca,X
+2000-03-12,Numancia,Oviedo,X
+2000-03-12,Santander,Zaragoza,2
+2000-03-12,Valladolid,Ath Madrid,1
+2000-03-18,Ath Madrid,Real Madrid,X
+2000-03-18,Barcelona,La Coruña,1
+2000-03-18,Valencia,Malaga,X
+2000-03-19,Celta,Alaves,X
+2000-03-19,Mallorca,Santander,2
+2000-03-19,Oviedo,Ath Bilbao,1
+2000-03-19,Sevilla,Numancia,1
+2000-03-19,Sociedad,Betis,1
+2000-03-19,Vallecano,Valladolid,1
+2000-03-19,Zaragoza,Español,X
+2000-03-25,Alaves,Zaragoza,2
+2000-03-25,Ath Bilbao,Sevilla,X
+2000-03-25,Español,Santander,1
+2000-03-25,Malaga,Barcelona,2
+2000-03-25,Numancia,Ath Madrid,1
+2000-03-25,Real Madrid,Vallecano,X
+2000-03-25,Valencia,Mallorca,1
+2000-03-25,Valladolid,Sociedad,1
+2000-03-26,Betis,Celta,X
+2000-03-26,La Coruña,Oviedo,1
+2000-04-01,Sociedad,Real Madrid,X
+2000-04-02,Ath Madrid,Ath Bilbao,2
+2000-04-02,Barcelona,Valencia,1
+2000-04-02,Celta,Valladolid,X
+2000-04-02,Mallorca,Español,2
+2000-04-02,Oviedo,Malaga,X
+2000-04-02,Santander,Alaves,X
+2000-04-02,Sevilla,La Coruña,2
+2000-04-02,Vallecano,Numancia,X
+2000-04-02,Zaragoza,Betis,1
+2000-04-08,La Coruña,Ath Madrid,1
+2000-04-09,Alaves,Español,X
+2000-04-09,Ath Bilbao,Vallecano,2
+2000-04-09,Barcelona,Mallorca,2
+2000-04-09,Betis,Santander,X
+2000-04-09,Malaga,Sevilla,1
+2000-04-09,Numancia,Sociedad,2
+2000-04-09,Real Madrid,Celta,1
+2000-04-09,Valencia,Oviedo,1
+2000-04-09,Valladolid,Zaragoza,X
+2000-04-15,Oviedo,Barcelona,1
+2000-04-15,Sevilla,Valencia,2
+2000-04-15,Zaragoza,Real Madrid,2
+2000-04-16,Ath Madrid,Malaga,X
+2000-04-16,Celta,Numancia,X
+2000-04-16,Español,Betis,1
+2000-04-16,Mallorca,Alaves,1
+2000-04-16,Santander,Valladolid,X
+2000-04-16,Sociedad,Ath Bilbao,1
+2000-04-16,Vallecano,La Coruña,1
+2000-04-22,Ath Bilbao,Celta,1
+2000-04-22,Barcelona,Sevilla,1
+2000-04-22,Malaga,Vallecano,1
+2000-04-22,Numancia,Zaragoza,2
+2000-04-22,Real Madrid,Santander,2
+2000-04-22,Valencia,Ath Madrid,1
+2000-04-22,Valladolid,Español,1
+2000-04-23,Betis,Alaves,2
+2000-04-23,La Coruña,Sociedad,1
+2000-04-23,Oviedo,Mallorca,X
+2000-04-29,Ath Madrid,Barcelona,2
+2000-04-29,Español,Real Madrid,2
+2000-04-29,Vallecano,Valencia,2
+2000-04-30,Alaves,Valladolid,1
+2000-04-30,Celta,La Coruña,1
+2000-04-30,Mallorca,Betis,1
+2000-04-30,Santander,Numancia,X
+2000-04-30,Sevilla,Oviedo,2
+2000-04-30,Sociedad,Malaga,X
+2000-04-30,Zaragoza,Ath Bilbao,X
+2000-05-06,Barcelona,Vallecano,2
+2000-05-06,Numancia,Español,1
+2000-05-06,Real Madrid,Alaves,2
+2000-05-06,Valencia,Sociedad,1
+2000-05-07,Ath Bilbao,Santander,X
+2000-05-07,La Coruña,Zaragoza,X
+2000-05-07,Malaga,Celta,2
+2000-05-07,Oviedo,Ath Madrid,X
+2000-05-07,Sevilla,Mallorca,2
+2000-05-07,Valladolid,Betis,2
+2000-05-13,Ath Madrid,Sevilla,X
+2000-05-14,Alaves,Numancia,X
+2000-05-14,Betis,Real Madrid,2
+2000-05-14,Celta,Valencia,X
+2000-05-14,Español,Ath Bilbao,X
+2000-05-14,Santander,La Coruña,X
+2000-05-14,Sociedad,Barcelona,X
+2000-05-14,Valladolid,Mallorca,1
+2000-05-14,Vallecano,Oviedo,2
+2000-05-14,Zaragoza,Malaga,1
+2000-05-19,Ath Bilbao,Alaves,1
+2000-05-19,Barcelona,Celta,X
+2000-05-19,La Coruña,Español,1
+2000-05-19,Mallorca,Ath Madrid,2
+2000-05-19,Real Madrid,Valladolid,2
+2000-05-19,Sevilla,Vallecano,2
+2000-05-19,Valencia,Zaragoza,1
+2000-05-20,Malaga,Santander,X
+2000-05-20,Numancia,Betis,2
+2000-05-20,Oviedo,Sociedad,2

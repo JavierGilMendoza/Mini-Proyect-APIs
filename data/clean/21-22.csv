@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2021-08-13,Valencia,Getafe,1
+2021-08-14,Cadiz,Levante,X
+2021-08-14,Mallorca,Betis,X
+2021-08-14,Alaves,Real Madrid,2
+2021-08-14,Osasuna,Español,X
+2021-08-15,Celta,Ath Madrid,2
+2021-08-15,Barcelona,Sociedad,1
+2021-08-15,Sevilla,Vallecano,1
+2021-08-16,Villarreal,Granada,X
+2021-08-16,Elche,Ath Bilbao,X
+2021-08-20,Betis,Cadiz,X
+2021-08-21,Alaves,Mallorca,2
+2021-08-21,Español,Villarreal,X
+2021-08-21,Granada,Valencia,X
+2021-08-21,Ath Bilbao,Barcelona,X
+2021-08-22,Sociedad,Vallecano,1
+2021-08-22,Ath Madrid,Elche,1
+2021-08-22,Levante,Real Madrid,X
+2021-08-23,Getafe,Sevilla,2
+2021-08-23,Osasuna,Celta,X
+2021-08-27,Mallorca,Español,1
+2021-08-27,Valencia,Alaves,1
+2021-08-28,Celta,Ath Bilbao,2
+2021-08-28,Elche,Sevilla,X
+2021-08-28,Sociedad,Levante,1
+2021-08-28,Betis,Real Madrid,2
+2021-08-29,Barcelona,Getafe,1
+2021-08-29,Cadiz,Osasuna,2
+2021-08-29,Vallecano,Granada,1
+2021-08-29,Ath Madrid,Villarreal,X
+2021-09-11,Levante,Vallecano,X
+2021-09-11,Ath Bilbao,Mallorca,1
+2021-09-12,Español,Ath Madrid,2
+2021-09-12,Osasuna,Valencia,2
+2021-09-12,Cadiz,Sociedad,2
+2021-09-12,Real Madrid,Celta,1
+2021-09-13,Getafe,Elche,2
+2021-09-13,Granada,Betis,2
+2021-09-17,Celta,Cadiz,2
+2021-09-18,Vallecano,Getafe,1
+2021-09-18,Ath Madrid,Ath Bilbao,X
+2021-09-18,Elche,Levante,X
+2021-09-18,Alaves,Osasuna,2
+2021-09-19,Mallorca,Villarreal,X
+2021-09-19,Sociedad,Sevilla,X
+2021-09-19,Betis,Español,X
+2021-09-19,Valencia,Real Madrid,2
+2021-09-20,Barcelona,Granada,X
+2021-09-21,Getafe,Ath Madrid,2
+2021-09-21,Ath Bilbao,Vallecano,2
+2021-09-21,Levante,Celta,2
+2021-09-22,Español,Alaves,1
+2021-09-22,Sevilla,Valencia,1
+2021-09-22,Real Madrid,Mallorca,1
+2021-09-22,Villarreal,Elche,1
+2021-09-23,Granada,Sociedad,2
+2021-09-23,Osasuna,Betis,2
+2021-09-23,Cadiz,Barcelona,X
+2021-09-25,Alaves,Ath Madrid,1
+2021-09-25,Valencia,Ath Bilbao,X
+2021-09-25,Sevilla,Español,1
+2021-09-25,Real Madrid,Villarreal,X
+2021-09-26,Mallorca,Osasuna,2
+2021-09-26,Barcelona,Levante,1
+2021-09-26,Sociedad,Elche,1
+2021-09-26,Vallecano,Cadiz,1
+2021-09-26,Betis,Getafe,1
+2021-09-27,Celta,Granada,1
+2021-10-01,Ath Bilbao,Alaves,1
+2021-10-02,Osasuna,Vallecano,1
+2021-10-02,Mallorca,Levante,1
+2021-10-02,Cadiz,Valencia,X
+2021-10-02,Ath Madrid,Barcelona,1
+2021-10-03,Elche,Celta,1
+2021-10-03,Español,Real Madrid,1
+2021-10-03,Getafe,Sociedad,X
+2021-10-03,Villarreal,Betis,1
+2021-10-03,Granada,Sevilla,1
+2021-10-16,Levante,Getafe,X
+2021-10-16,Sociedad,Mallorca,1
+2021-10-17,Vallecano,Elche,1
+2021-10-17,Celta,Sevilla,2
+2021-10-17,Villarreal,Osasuna,2
+2021-10-17,Barcelona,Valencia,1
+2021-10-18,Alaves,Betis,2
+2021-10-18,Español,Cadiz,1
+2021-10-22,Osasuna,Granada,X
+2021-10-23,Valencia,Mallorca,X
+2021-10-23,Cadiz,Alaves,2
+2021-10-23,Elche,Español,X
+2021-10-23,Ath Bilbao,Villarreal,1
+2021-10-24,Sevilla,Levante,1
+2021-10-24,Barcelona,Real Madrid,2
+2021-10-24,Betis,Vallecano,1
+2021-10-24,Ath Madrid,Sociedad,X
+2021-10-25,Getafe,Celta,2
+2021-10-26,Alaves,Elche,1
+2021-10-26,Español,Ath Bilbao,X
+2021-10-26,Villarreal,Cadiz,X
+2021-10-27,Mallorca,Sevilla,X
+2021-10-27,Vallecano,Barcelona,1
+2021-10-27,Betis,Valencia,1
+2021-10-27,Real Madrid,Osasuna,X
+2021-10-28,Celta,Sociedad,2
+2021-10-28,Granada,Getafe,X
+2021-10-28,Levante,Ath Madrid,X
+2021-10-30,Elche,Real Madrid,2
+2021-10-30,Sevilla,Osasuna,1
+2021-10-30,Valencia,Villarreal,1
+2021-10-30,Barcelona,Alaves,X
+2021-10-31,Cadiz,Mallorca,X
+2021-10-31,Ath Madrid,Betis,1
+2021-10-31,Getafe,Español,1
+2021-10-31,Sociedad,Ath Bilbao,X
+2021-11-01,Vallecano,Celta,X
+2021-11-01,Levante,Granada,2
+2021-11-05,Ath Bilbao,Cadiz,2
+2021-11-06,Español,Granada,1
+2021-11-06,Celta,Barcelona,X
+2021-11-06,Alaves,Levante,1
+2021-11-06,Real Madrid,Vallecano,1
+2021-11-07,Villarreal,Getafe,1
+2021-11-07,Valencia,Ath Madrid,X
+2021-11-07,Mallorca,Elche,X
+2021-11-07,Osasuna,Sociedad,2
+2021-11-07,Betis,Sevilla,2
+2021-11-19,Levante,Ath Bilbao,X
+2021-11-20,Celta,Villarreal,X
+2021-11-20,Sevilla,Alaves,X
+2021-11-20,Ath Madrid,Osasuna,1
+2021-11-20,Barcelona,Español,1
+2021-11-21,Getafe,Cadiz,1
+2021-11-21,Granada,Real Madrid,2
+2021-11-21,Elche,Betis,2
+2021-11-21,Sociedad,Valencia,X
+2021-11-22,Vallecano,Mallorca,1
+2021-11-26,Ath Bilbao,Granada,X
+2021-11-27,Alaves,Celta,2
+2021-11-27,Valencia,Vallecano,X
+2021-11-27,Mallorca,Getafe,X
+2021-11-27,Villarreal,Barcelona,2
+2021-11-28,Betis,Levante,1
+2021-11-28,Español,Sociedad,1
+2021-11-28,Cadiz,Ath Madrid,2
+2021-11-28,Real Madrid,Sevilla,1
+2021-11-29,Osasuna,Elche,X
+2021-12-01,Real Madrid,Ath Bilbao,1
+2021-12-03,Granada,Alaves,1
+2021-12-04,Sevilla,Villarreal,1
+2021-12-04,Barcelona,Betis,2
+2021-12-04,Ath Madrid,Mallorca,2
+2021-12-04,Sociedad,Real Madrid,2
+2021-12-05,Vallecano,Español,1
+2021-12-05,Elche,Cadiz,1
+2021-12-05,Levante,Osasuna,X
+2021-12-05,Celta,Valencia,2
+2021-12-06,Getafe,Ath Bilbao,X
+2021-12-10,Mallorca,Celta,X
+2021-12-11,Español,Levante,1
+2021-12-11,Alaves,Getafe,X
+2021-12-11,Valencia,Elche,1
+2021-12-11,Ath Bilbao,Sevilla,2
+2021-12-12,Villarreal,Vallecano,1
+2021-12-12,Osasuna,Barcelona,X
+2021-12-12,Betis,Sociedad,1
+2021-12-12,Real Madrid,Ath Madrid,1
+2021-12-13,Cadiz,Granada,X
+2021-12-17,Celta,Español,1
+2021-12-18,Vallecano,Alaves,1
+2021-12-18,Sociedad,Villarreal,2
+2021-12-18,Barcelona,Elche,1
+2021-12-18,Sevilla,Ath Madrid,1
+2021-12-19,Granada,Mallorca,1
+2021-12-19,Ath Bilbao,Betis,1
+2021-12-19,Getafe,Osasuna,1
+2021-12-19,Real Madrid,Cadiz,X
+2021-12-20,Levante,Valencia,2
+2021-12-21,Villarreal,Alaves,1
+2021-12-21,Sevilla,Barcelona,X
+2021-12-22,Granada,Ath Madrid,1
+2021-12-22,Ath Bilbao,Real Madrid,2
+2021-12-31,Valencia,Español,2
+2022-01-02,Getafe,Real Madrid,1
+2022-01-02,Ath Madrid,Vallecano,1
+2022-01-02,Elche,Granada,X
+2022-01-02,Alaves,Sociedad,X
+2022-01-02,Betis,Celta,2
+2022-01-02,Mallorca,Barcelona,2
+2022-01-03,Villarreal,Levante,1
+2022-01-03,Osasuna,Ath Bilbao,2
+2022-01-03,Cadiz,Sevilla,2
+2022-01-08,Levante,Mallorca,1
+2022-01-08,Sociedad,Celta,1
+2022-01-08,Granada,Barcelona,X
+2022-01-08,Real Madrid,Valencia,1
+2022-01-09,Vallecano,Betis,X
+2022-01-09,Sevilla,Getafe,1
+2022-01-09,Alaves,Ath Bilbao,X
+2022-01-09,Osasuna,Cadiz,1
+2022-01-09,Villarreal,Ath Madrid,X
+2022-01-10,Español,Elche,2
+2022-01-16,Elche,Villarreal,1
+2022-01-18,Betis,Alaves,1
+2022-01-18,Cadiz,Español,X
+2022-01-19,Celta,Osasuna,1
+2022-01-19,Valencia,Sevilla,X
+2022-01-20,Getafe,Granada,1
+2022-01-21,Español,Betis,2
+2022-01-22,Levante,Cadiz,2
+2022-01-22,Villarreal,Mallorca,1
+2022-01-22,Sevilla,Celta,X
+2022-01-22,Ath Madrid,Valencia,1
+2022-01-23,Granada,Osasuna,2
+2022-01-23,Real Madrid,Elche,X
+2022-01-23,Sociedad,Getafe,X
+2022-01-23,Vallecano,Ath Bilbao,2
+2022-01-23,Alaves,Barcelona,2
+2022-02-04,Getafe,Levante,1
+2022-02-05,Elche,Alaves,1
+2022-02-05,Mallorca,Cadiz,1
+2022-02-05,Celta,Vallecano,1
+2022-02-05,Osasuna,Sevilla,X
+2022-02-06,Valencia,Sociedad,X
+2022-02-06,Barcelona,Ath Madrid,1
+2022-02-06,Betis,Villarreal,2
+2022-02-06,Real Madrid,Granada,1
+2022-02-07,Ath Bilbao,Español,1
+2022-02-11,Sevilla,Elche,1
+2022-02-12,Cadiz,Celta,X
+2022-02-12,Villarreal,Real Madrid,X
+2022-02-12,Vallecano,Osasuna,2
+2022-02-12,Ath Madrid,Getafe,1
+2022-02-13,Alaves,Valencia,1
+2022-02-13,Levante,Betis,2
+2022-02-13,Sociedad,Granada,1
+2022-02-13,Español,Barcelona,X
+2022-02-14,Mallorca,Ath Bilbao,1
+2022-02-16,Ath Madrid,Levante,2
+2022-02-18,Elche,Vallecano,1
+2022-02-19,Granada,Villarreal,2
+2022-02-19,Osasuna,Ath Madrid,2
+2022-02-19,Cadiz,Getafe,X
+2022-02-19,Real Madrid,Alaves,1
+2022-02-20,Español,Sevilla,X
+2022-02-20,Valencia,Barcelona,2
+2022-02-20,Betis,Mallorca,1
+2022-02-20,Ath Bilbao,Sociedad,1
+2022-02-21,Celta,Levante,X
+2022-02-25,Levante,Elche,1
+2022-02-26,Mallorca,Valencia,2
+2022-02-26,Getafe,Alaves,X
+2022-02-26,Vallecano,Real Madrid,2
+2022-02-26,Ath Madrid,Celta,1
+2022-02-27,Villarreal,Español,1
+2022-02-27,Sevilla,Betis,1
+2022-02-27,Sociedad,Osasuna,1
+2022-02-27,Barcelona,Ath Bilbao,1
+2022-02-28,Granada,Cadiz,X
+2022-03-02,Mallorca,Sociedad,2
+2022-03-04,Alaves,Sevilla,X
+2022-03-05,Osasuna,Villarreal,1
+2022-03-05,Español,Getafe,1
+2022-03-05,Valencia,Granada,1
+2022-03-05,Real Madrid,Sociedad,1
+2022-03-06,Cadiz,Vallecano,1
+2022-03-06,Elche,Barcelona,2
+2022-03-06,Celta,Mallorca,1
+2022-03-06,Betis,Ath Madrid,2
+2022-03-07,Ath Bilbao,Levante,1
+2022-03-11,Ath Madrid,Cadiz,1
+2022-03-12,Levante,Español,X
+2022-03-12,Granada,Elche,2
+2022-03-12,Villarreal,Celta,1
+2022-03-12,Getafe,Valencia,X
+2022-03-13,Vallecano,Sevilla,X
+2022-03-13,Betis,Ath Bilbao,1
+2022-03-13,Sociedad,Alaves,1
+2022-03-13,Barcelona,Osasuna,1
+2022-03-14,Mallorca,Real Madrid,2
+2022-03-18,Ath Bilbao,Getafe,X
+2022-03-19,Alaves,Granada,2
+2022-03-19,Elche,Valencia,2
+2022-03-19,Osasuna,Levante,1
+2022-03-19,Vallecano,Ath Madrid,2
+2022-03-20,Español,Mallorca,1
+2022-03-20,Cadiz,Villarreal,1
+2022-03-20,Celta,Betis,X
+2022-03-20,Sevilla,Sociedad,X
+2022-03-20,Real Madrid,Barcelona,2
+2022-04-02,Getafe,Mallorca,1
+2022-04-02,Levante,Villarreal,1
+2022-04-02,Celta,Real Madrid,2
+2022-04-02,Ath Madrid,Alaves,1
+2022-04-03,Ath Bilbao,Elche,1
+2022-04-03,Betis,Osasuna,1
+2022-04-03,Granada,Vallecano,X
+2022-04-03,Valencia,Cadiz,X
+2022-04-03,Barcelona,Sevilla,1
+2022-04-04,Sociedad,Español,1
+2022-04-08,Sevilla,Granada,1
+2022-04-09,Cadiz,Betis,2
+2022-04-09,Mallorca,Ath Madrid,1
+2022-04-09,Villarreal,Ath Bilbao,X
+2022-04-09,Real Madrid,Getafe,1
+2022-04-10,Osasuna,Alaves,1
+2022-04-10,Español,Celta,1
+2022-04-10,Elche,Sociedad,2
+2022-04-10,Levante,Barcelona,2
+2022-04-11,Vallecano,Valencia,X
+2022-04-15,Sociedad,Betis,X
+2022-04-16,Elche,Mallorca,1
+2022-04-16,Alaves,Vallecano,1
+2022-04-16,Valencia,Osasuna,2
+2022-04-16,Getafe,Villarreal,2
+2022-04-17,Granada,Levante,2
+2022-04-17,Ath Madrid,Español,1
+2022-04-17,Ath Bilbao,Celta,2
+2022-04-17,Sevilla,Real Madrid,2
+2022-04-18,Barcelona,Cadiz,2
+2022-04-19,Mallorca,Alaves,1
+2022-04-19,Betis,Elche,2
+2022-04-19,Villarreal,Valencia,1
+2022-04-20,Ath Madrid,Granada,X
+2022-04-20,Celta,Getafe,2
+2022-04-20,Osasuna,Real Madrid,2
+2022-04-21,Español,Vallecano,2
+2022-04-21,Levante,Sevilla,2
+2022-04-21,Cadiz,Ath Bilbao,2
+2022-04-21,Sociedad,Barcelona,2
+2022-04-24,Barcelona,Vallecano,2
+2022-04-29,Sevilla,Cadiz,X
+2022-04-30,Alaves,Villarreal,1
+2022-04-30,Real Madrid,Español,1
+2022-04-30,Valencia,Levante,X
+2022-04-30,Ath Bilbao,Ath Madrid,1
+2022-05-01,Elche,Osasuna,X
+2022-05-01,Granada,Celta,X
+2022-05-01,Vallecano,Sociedad,X
+2022-05-01,Barcelona,Mallorca,1
+2022-05-02,Getafe,Betis,X
+2022-05-06,Levante,Sociedad,1
+2022-05-07,Mallorca,Granada,2
+2022-05-07,Ath Bilbao,Valencia,X
+2022-05-07,Cadiz,Elche,1
+2022-05-07,Celta,Alaves,1
+2022-05-07,Betis,Barcelona,2
+2022-05-08,Getafe,Vallecano,X
+2022-05-08,Villarreal,Sevilla,X
+2022-05-08,Español,Osasuna,X
+2022-05-08,Ath Madrid,Real Madrid,1
+2022-05-10,Valencia,Betis,2
+2022-05-10,Granada,Ath Bilbao,1
+2022-05-10,Barcelona,Celta,1
+2022-05-11,Alaves,Español,1
+2022-05-11,Osasuna,Getafe,X
+2022-05-11,Sevilla,Mallorca,X
+2022-05-11,Elche,Ath Madrid,2
+2022-05-12,Sociedad,Cadiz,1
+2022-05-12,Vallecano,Villarreal,2
+2022-05-12,Real Madrid,Levante,1
+2022-05-14,Español,Valencia,X
+2022-05-15,Ath Bilbao,Osasuna,1
+2022-05-15,Ath Madrid,Sevilla,X
+2022-05-15,Betis,Granada,1
+2022-05-15,Cadiz,Real Madrid,X
+2022-05-15,Celta,Elche,1
+2022-05-15,Getafe,Barcelona,X
+2022-05-15,Levante,Alaves,1
+2022-05-15,Mallorca,Vallecano,1
+2022-05-15,Villarreal,Sociedad,2
+2022-05-20,Real Madrid,Betis,X
+2022-05-20,Vallecano,Levante,2
+2022-05-21,Valencia,Celta,1
+2022-05-22,Elche,Getafe,1
+2022-05-22,Alaves,Cadiz,2
+2022-05-22,Granada,Español,X
+2022-05-22,Osasuna,Mallorca,2
+2022-05-22,Barcelona,Villarreal,2
+2022-05-22,Sevilla,Ath Bilbao,1
+2022-05-22,Sociedad,Ath Madrid,2

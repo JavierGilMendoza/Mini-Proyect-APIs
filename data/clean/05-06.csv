@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2005-08-27,Alaves,Barcelona,X
+2005-08-27,Ath Bilbao,Sociedad,1
+2005-08-27,Valencia,Betis,1
+2005-08-28,Ath Madrid,Zaragoza,X
+2005-08-28,Cadiz,Real Madrid,2
+2005-08-28,Celta,Malaga,1
+2005-08-28,Español,Getafe,2
+2005-08-28,Mallorca,La Coruña,2
+2005-08-28,Osasuna,Villarreal,1
+2005-08-28,Sevilla,Santander,1
+2005-09-10,Betis,Osasuna,1
+2005-09-10,La Coruña,Ath Madrid,1
+2005-09-10,Real Madrid,Celta,2
+2005-09-11,Barcelona,Mallorca,1
+2005-09-11,Getafe,Ath Bilbao,X
+2005-09-11,Malaga,Español,2
+2005-09-11,Santander,Cadiz,2
+2005-09-11,Sociedad,Alaves,1
+2005-09-11,Villarreal,Sevilla,X
+2005-09-11,Zaragoza,Valencia,X
+2005-09-17,Mallorca,Sociedad,1
+2005-09-17,Valencia,La Coruña,X
+2005-09-18,Alaves,Getafe,2
+2005-09-18,Ath Bilbao,Malaga,2
+2005-09-18,Ath Madrid,Barcelona,1
+2005-09-18,Betis,Zaragoza,X
+2005-09-18,Cadiz,Villarreal,X
+2005-09-18,Celta,Santander,2
+2005-09-18,Español,Real Madrid,1
+2005-09-18,Osasuna,Sevilla,1
+2005-09-21,Barcelona,Valencia,X
+2005-09-21,Getafe,Mallorca,X
+2005-09-21,La Coruña,Betis,X
+2005-09-21,Malaga,Alaves,X
+2005-09-21,Santander,Español,1
+2005-09-21,Sevilla,Cadiz,X
+2005-09-21,Sociedad,Ath Madrid,1
+2005-09-21,Villarreal,Celta,2
+2005-09-21,Zaragoza,Osasuna,1
+2005-09-22,Real Madrid,Ath Bilbao,1
+2005-09-24,Ath Madrid,Getafe,2
+2005-09-24,Betis,Barcelona,2
+2005-09-24,Español,Villarreal,2
+2005-09-24,Valencia,Sociedad,1
+2005-09-24,Zaragoza,La Coruña,X
+2005-09-25,Alaves,Real Madrid,2
+2005-09-25,Ath Bilbao,Santander,X
+2005-09-25,Celta,Sevilla,1
+2005-09-25,Mallorca,Malaga,2
+2005-09-25,Osasuna,Cadiz,1
+2005-10-01,Barcelona,Zaragoza,X
+2005-10-01,Getafe,Valencia,1
+2005-10-02,Cadiz,Celta,X
+2005-10-02,La Coruña,Osasuna,2
+2005-10-02,Malaga,Ath Madrid,2
+2005-10-02,Real Madrid,Mallorca,1
+2005-10-02,Santander,Alaves,2
+2005-10-02,Sevilla,Español,X
+2005-10-02,Sociedad,Betis,X
+2005-10-02,Villarreal,Ath Bilbao,1
+2005-10-15,Alaves,Villarreal,X
+2005-10-15,Ath Madrid,Real Madrid,2
+2005-10-15,La Coruña,Barcelona,X
+2005-10-16,Ath Bilbao,Sevilla,2
+2005-10-16,Betis,Getafe,1
+2005-10-16,Español,Cadiz,2
+2005-10-16,Mallorca,Santander,X
+2005-10-16,Osasuna,Celta,1
+2005-10-16,Valencia,Malaga,1
+2005-10-16,Zaragoza,Sociedad,2
+2005-10-22,Barcelona,Osasuna,1
+2005-10-22,Sevilla,Alaves,1
+2005-10-23,Cadiz,Ath Bilbao,1
+2005-10-23,Celta,Español,1
+2005-10-23,Getafe,Zaragoza,1
+2005-10-23,Malaga,Betis,1
+2005-10-23,Real Madrid,Valencia,2
+2005-10-23,Santander,Ath Madrid,2
+2005-10-23,Sociedad,La Coruña,1
+2005-10-23,Villarreal,Mallorca,1
+2005-10-26,Barcelona,Malaga,1
+2005-10-26,Betis,Villarreal,2
+2005-10-26,La Coruña,Real Madrid,1
+2005-10-26,Mallorca,Celta,1
+2005-10-26,Osasuna,Ath Bilbao,1
+2005-10-27,Alaves,Español,X
+2005-10-27,Ath Madrid,Cadiz,1
+2005-10-27,Sociedad,Getafe,1
+2005-10-27,Valencia,Sevilla,2
+2005-10-27,Zaragoza,Santander,X
+2005-10-29,Ath Bilbao,Celta,X
+2005-10-29,Betis,Real Madrid,2
+2005-10-30,Alaves,Cadiz,X
+2005-10-30,Ath Madrid,Villarreal,X
+2005-10-30,Barcelona,Sociedad,1
+2005-10-30,La Coruña,Getafe,1
+2005-10-30,Mallorca,Sevilla,X
+2005-10-30,Osasuna,Español,1
+2005-10-30,Valencia,Santander,X
+2005-10-30,Zaragoza,Malaga,X
+2005-11-05,Español,Ath Bilbao,X
+2005-11-05,Sociedad,Osasuna,2
+2005-11-05,Villarreal,Valencia,1
+2005-11-06,Cadiz,Mallorca,2
+2005-11-06,Celta,Alaves,1
+2005-11-06,Getafe,Barcelona,2
+2005-11-06,Malaga,La Coruña,X
+2005-11-06,Real Madrid,Zaragoza,1
+2005-11-06,Santander,Betis,X
+2005-11-06,Sevilla,Ath Madrid,X
+2005-11-19,Getafe,Osasuna,X
+2005-11-19,Real Madrid,Barcelona,2
+2005-11-19,Sevilla,Betis,1
+2005-11-19,Villarreal,Zaragoza,X
+2005-11-20,Ath Bilbao,Alaves,2
+2005-11-20,Cadiz,Valencia,2
+2005-11-20,Celta,Ath Madrid,1
+2005-11-20,Español,Mallorca,1
+2005-11-20,Malaga,Sociedad,1
+2005-11-20,Santander,La Coruña,2
+2005-11-26,Mallorca,Ath Bilbao,2
+2005-11-26,Valencia,Celta,1
+2005-11-27,Ath Madrid,Español,X
+2005-11-27,Barcelona,Santander,1
+2005-11-27,Betis,Cadiz,X
+2005-11-27,Getafe,Malaga,1
+2005-11-27,La Coruña,Villarreal,2
+2005-11-27,Osasuna,Alaves,1
+2005-11-27,Sociedad,Real Madrid,X
+2005-11-27,Zaragoza,Sevilla,2
+2005-12-03,Ath Bilbao,Ath Madrid,X
+2005-12-03,Celta,Betis,1
+2005-12-03,Real Madrid,Getafe,1
+2005-12-04,Alaves,Mallorca,2
+2005-12-04,Cadiz,Zaragoza,2
+2005-12-04,Español,Valencia,2
+2005-12-04,Malaga,Osasuna,2
+2005-12-04,Santander,Sociedad,X
+2005-12-04,Sevilla,La Coruña,2
+2005-12-04,Villarreal,Barcelona,2
+2005-12-10,Sociedad,Villarreal,2
+2005-12-10,Valencia,Ath Bilbao,X
+2005-12-11,Ath Madrid,Alaves,X
+2005-12-11,Barcelona,Sevilla,1
+2005-12-11,Betis,Español,X
+2005-12-11,Getafe,Santander,2
+2005-12-11,La Coruña,Cadiz,1
+2005-12-11,Malaga,Real Madrid,2
+2005-12-11,Osasuna,Mallorca,1
+2005-12-11,Zaragoza,Celta,1
+2005-12-17,Ath Bilbao,Betis,1
+2005-12-17,Cadiz,Barcelona,2
+2005-12-17,Celta,La Coruña,2
+2005-12-18,Alaves,Valencia,2
+2005-12-18,Español,Zaragoza,X
+2005-12-18,Mallorca,Ath Madrid,X
+2005-12-18,Real Madrid,Osasuna,X
+2005-12-18,Santander,Malaga,X
+2005-12-18,Sevilla,Sociedad,1
+2005-12-18,Villarreal,Getafe,1
+2005-12-20,Barcelona,Celta,1
+2005-12-21,Betis,Alaves,1
+2005-12-21,Getafe,Sevilla,1
+2005-12-21,La Coruña,Español,2
+2005-12-21,Malaga,Villarreal,X
+2005-12-21,Real Madrid,Santander,2
+2005-12-21,Sociedad,Cadiz,1
+2005-12-21,Valencia,Mallorca,1
+2005-12-21,Zaragoza,Ath Bilbao,1
+2005-12-22,Osasuna,Ath Madrid,1
+2006-01-07,Ath Bilbao,La Coruña,2
+2006-01-07,Español,Barcelona,2
+2006-01-08,Alaves,Zaragoza,2
+2006-01-08,Ath Madrid,Valencia,X
+2006-01-08,Cadiz,Getafe,1
+2006-01-08,Celta,Sociedad,1
+2006-01-08,Mallorca,Betis,X
+2006-01-08,Osasuna,Santander,X
+2006-01-08,Sevilla,Malaga,1
+2006-01-08,Villarreal,Real Madrid,X
+2006-01-14,Betis,Ath Madrid,1
+2006-01-14,Valencia,Osasuna,1
+2006-01-15,Barcelona,Ath Bilbao,1
+2006-01-15,Getafe,Celta,X
+2006-01-15,La Coruña,Alaves,2
+2006-01-15,Malaga,Cadiz,2
+2006-01-15,Real Madrid,Sevilla,1
+2006-01-15,Santander,Villarreal,1
+2006-01-15,Sociedad,Español,2
+2006-01-15,Zaragoza,Mallorca,1
+2006-01-21,Real Madrid,Cadiz,1
+2006-01-21,Zaragoza,Ath Madrid,2
+2006-01-22,Barcelona,Alaves,1
+2006-01-22,Betis,Valencia,2
+2006-01-22,Getafe,Español,1
+2006-01-22,La Coruña,Mallorca,X
+2006-01-22,Malaga,Celta,2
+2006-01-22,Santander,Sevilla,2
+2006-01-22,Sociedad,Ath Bilbao,X
+2006-01-22,Villarreal,Osasuna,1
+2006-01-28,Ath Bilbao,Getafe,1
+2006-01-28,Ath Madrid,La Coruña,1
+2006-01-28,Cadiz,Santander,X
+2006-01-29,Alaves,Sociedad,1
+2006-01-29,Celta,Real Madrid,2
+2006-01-29,Español,Malaga,1
+2006-01-29,Mallorca,Barcelona,2
+2006-01-29,Osasuna,Betis,2
+2006-01-29,Sevilla,Villarreal,1
+2006-01-29,Valencia,Zaragoza,X
+2006-02-04,La Coruña,Valencia,2
+2006-02-04,Malaga,Ath Bilbao,1
+2006-02-04,Real Madrid,Español,1
+2006-02-05,Barcelona,Ath Madrid,2
+2006-02-05,Getafe,Alaves,X
+2006-02-05,Santander,Celta,2
+2006-02-05,Sevilla,Osasuna,2
+2006-02-05,Sociedad,Mallorca,1
+2006-02-05,Villarreal,Cadiz,X
+2006-02-05,Zaragoza,Betis,1
+2006-02-11,Ath Bilbao,Real Madrid,2
+2006-02-11,Cadiz,Sevilla,2
+2006-02-11,Osasuna,Zaragoza,X
+2006-02-12,Alaves,Malaga,1
+2006-02-12,Ath Madrid,Sociedad,1
+2006-02-12,Betis,La Coruña,2
+2006-02-12,Celta,Villarreal,1
+2006-02-12,Español,Santander,2
+2006-02-12,Mallorca,Getafe,X
+2006-02-12,Valencia,Barcelona,1
+2006-02-18,Barcelona,Betis,1
+2006-02-18,Real Madrid,Alaves,1
+2006-02-18,Sevilla,Celta,1
+2006-02-18,Villarreal,Español,1
+2006-02-19,Cadiz,Osasuna,2
+2006-02-19,Getafe,Ath Madrid,2
+2006-02-19,La Coruña,Zaragoza,X
+2006-02-19,Malaga,Mallorca,2
+2006-02-19,Santander,Ath Bilbao,2
+2006-02-19,Sociedad,Valencia,2
+2006-02-25,Ath Madrid,Malaga,1
+2006-02-25,Zaragoza,Barcelona,2
+2006-02-26,Alaves,Santander,X
+2006-02-26,Ath Bilbao,Villarreal,X
+2006-02-26,Betis,Sociedad,1
+2006-02-26,Celta,Cadiz,1
+2006-02-26,Español,Sevilla,1
+2006-02-26,Mallorca,Real Madrid,1
+2006-02-26,Osasuna,La Coruña,2
+2006-02-26,Valencia,Getafe,X
+2006-03-04,Barcelona,La Coruña,1
+2006-03-04,Cadiz,Español,1
+2006-03-04,Real Madrid,Ath Madrid,1
+2006-03-04,Villarreal,Alaves,1
+2006-03-05,Celta,Osasuna,1
+2006-03-05,Getafe,Betis,1
+2006-03-05,Malaga,Valencia,X
+2006-03-05,Santander,Mallorca,X
+2006-03-05,Sevilla,Ath Bilbao,1
+2006-03-05,Sociedad,Zaragoza,2
+2006-03-11,Español,Celta,1
+2006-03-11,La Coruña,Sociedad,2
+2006-03-11,Valencia,Real Madrid,X
+2006-03-12,Alaves,Sevilla,1
+2006-03-12,Ath Bilbao,Cadiz,1
+2006-03-12,Ath Madrid,Santander,1
+2006-03-12,Betis,Malaga,X
+2006-03-12,Mallorca,Villarreal,X
+2006-03-12,Osasuna,Barcelona,1
+2006-03-12,Zaragoza,Getafe,2
+2006-03-18,Getafe,La Coruña,2
+2006-03-18,Sociedad,Barcelona,2
+2006-03-18,Villarreal,Ath Madrid,X
+2006-03-19,Cadiz,Alaves,X
+2006-03-19,Celta,Ath Bilbao,2
+2006-03-19,Español,Osasuna,2
+2006-03-19,Malaga,Zaragoza,2
+2006-03-19,Real Madrid,Betis,X
+2006-03-19,Santander,Valencia,1
+2006-03-19,Sevilla,Mallorca,X
+2006-03-21,Barcelona,Getafe,1
+2006-03-22,Alaves,Celta,1
+2006-03-22,Ath Bilbao,Español,X
+2006-03-22,Betis,Santander,1
+2006-03-22,La Coruña,Malaga,1
+2006-03-22,Mallorca,Cadiz,1
+2006-03-22,Osasuna,Sociedad,1
+2006-03-22,Valencia,Villarreal,X
+2006-03-22,Zaragoza,Real Madrid,X
+2006-03-23,Ath Madrid,Sevilla,2
+2006-03-25,Ath Bilbao,Osasuna,1
+2006-03-25,Malaga,Barcelona,X
+2006-03-25,Villarreal,Betis,2
+2006-03-26,Cadiz,Ath Madrid,X
+2006-03-26,Celta,Mallorca,1
+2006-03-26,Español,Alaves,X
+2006-03-26,Getafe,Sociedad,1
+2006-03-26,Real Madrid,La Coruña,1
+2006-03-26,Santander,Zaragoza,X
+2006-03-26,Sevilla,Valencia,1
+2006-04-01,Barcelona,Real Madrid,X
+2006-04-01,Sociedad,Malaga,1
+2006-04-01,Zaragoza,Villarreal,2
+2006-04-02,Alaves,Ath Bilbao,X
+2006-04-02,Ath Madrid,Celta,2
+2006-04-02,Betis,Sevilla,1
+2006-04-02,La Coruña,Santander,1
+2006-04-02,Mallorca,Español,X
+2006-04-02,Osasuna,Getafe,2
+2006-04-02,Valencia,Cadiz,1
+2006-04-08,Cadiz,Betis,X
+2006-04-08,Celta,Valencia,2
+2006-04-08,Malaga,Getafe,2
+2006-04-08,Real Madrid,Sociedad,X
+2006-04-09,Alaves,Osasuna,2
+2006-04-09,Ath Bilbao,Mallorca,X
+2006-04-09,Español,Ath Madrid,X
+2006-04-09,Santander,Barcelona,X
+2006-04-09,Sevilla,Zaragoza,X
+2006-04-09,Villarreal,La Coruña,X
+2006-04-14,Barcelona,Villarreal,1
+2006-04-15,La Coruña,Sevilla,X
+2006-04-15,Mallorca,Alaves,X
+2006-04-15,Sociedad,Santander,1
+2006-04-16,Ath Madrid,Ath Bilbao,1
+2006-04-16,Betis,Celta,2
+2006-04-16,Getafe,Real Madrid,X
+2006-04-16,Osasuna,Malaga,X
+2006-04-16,Valencia,Español,1
+2006-04-16,Zaragoza,Cadiz,2
+2006-04-22,Alaves,Ath Madrid,2
+2006-04-22,Celta,Zaragoza,1
+2006-04-22,Villarreal,Sociedad,2
+2006-04-23,Ath Bilbao,Valencia,2
+2006-04-23,Cadiz,La Coruña,X
+2006-04-23,Español,Betis,1
+2006-04-23,Mallorca,Osasuna,2
+2006-04-23,Real Madrid,Malaga,1
+2006-04-23,Santander,Getafe,2
+2006-04-29,Barcelona,Cadiz,1
+2006-04-29,Betis,Ath Bilbao,X
+2006-04-29,La Coruña,Celta,2
+2006-04-30,Ath Madrid,Mallorca,2
+2006-04-30,Getafe,Villarreal,X
+2006-04-30,Malaga,Santander,2
+2006-04-30,Osasuna,Real Madrid,2
+2006-04-30,Sociedad,Sevilla,2
+2006-04-30,Valencia,Alaves,1
+2006-04-30,Zaragoza,Español,X
+2006-05-03,Alaves,Betis,1
+2006-05-03,Ath Bilbao,Zaragoza,1
+2006-05-03,Ath Madrid,Osasuna,2
+2006-05-03,Cadiz,Sociedad,X
+2006-05-03,Celta,Barcelona,2
+2006-05-03,Español,La Coruña,2
+2006-05-03,Mallorca,Valencia,1
+2006-05-03,Sevilla,Getafe,1
+2006-05-03,Villarreal,Malaga,1
+2006-05-04,Santander,Real Madrid,2
+2006-05-06,Barcelona,Español,1
+2006-05-06,Malaga,Sevilla,2
+2006-05-06,Valencia,Ath Madrid,X
+2006-05-07,Betis,Mallorca,1
+2006-05-07,Getafe,Cadiz,1
+2006-05-07,La Coruña,Ath Bilbao,2
+2006-05-07,Real Madrid,Villarreal,X
+2006-05-07,Santander,Osasuna,1
+2006-05-07,Sociedad,Celta,X
+2006-05-07,Zaragoza,Alaves,1
+2006-05-13,Alaves,La Coruña,1
+2006-05-13,Ath Madrid,Betis,X
+2006-05-13,Cadiz,Malaga,1
+2006-05-13,Celta,Getafe,1
+2006-05-13,Español,Sociedad,1
+2006-05-13,Mallorca,Zaragoza,1
+2006-05-13,Sevilla,Barcelona,1
+2006-05-13,Villarreal,Santander,1
+2006-05-16,Osasuna,Valencia,1
+2006-05-16,Sevilla,Real Madrid,1
+2006-05-20,Ath Bilbao,Barcelona,1

@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+1994-09-03,Sevilla,Real Madrid,2
+1994-09-04,Albacete,Celta,X
+1994-09-04,Ath Bilbao,La Coruña,2
+1994-09-04,Ath Madrid,Valencia,2
+1994-09-04,Compostela,Sociedad,2
+1994-09-04,Español,Oviedo,1
+1994-09-04,Logroñes,Betis,X
+1994-09-04,Santander,Valladolid,X
+1994-09-04,Sp Gijon,Barcelona,1
+1994-09-04,Zaragoza,Tenerife,X
+1994-09-10,Barcelona,Santander,1
+1994-09-10,Celta,Ath Bilbao,X
+1994-09-10,La Coruña,Sp Gijon,1
+1994-09-10,Real Madrid,Logroñes,1
+1994-09-10,Tenerife,Ath Madrid,1
+1994-09-11,Betis,Albacete,1
+1994-09-11,Oviedo,Compostela,X
+1994-09-11,Sociedad,Zaragoza,2
+1994-09-11,Valencia,Sevilla,2
+1994-09-11,Valladolid,Español,2
+1994-09-18,Albacete,Real Madrid,X
+1994-09-18,Ath Bilbao,Betis,1
+1994-09-18,Ath Madrid,Sociedad,1
+1994-09-18,Compostela,Valladolid,1
+1994-09-18,Español,Barcelona,X
+1994-09-18,Santander,La Coruña,2
+1994-09-18,Sevilla,Logroñes,1
+1994-09-18,Sp Gijon,Celta,X
+1994-09-18,Valencia,Tenerife,1
+1994-09-18,Zaragoza,Oviedo,1
+1994-09-24,Barcelona,Compostela,1
+1994-09-24,La Coruña,Español,X
+1994-09-24,Real Madrid,Ath Bilbao,1
+1994-09-24,Valladolid,Zaragoza,1
+1994-09-25,Betis,Sp Gijon,1
+1994-09-25,Celta,Santander,1
+1994-09-25,Logroñes,Albacete,X
+1994-09-25,Oviedo,Ath Madrid,1
+1994-09-25,Sociedad,Valencia,2
+1994-09-25,Tenerife,Sevilla,X
+1994-10-01,Compostela,La Coruña,2
+1994-10-01,Valencia,Oviedo,1
+1994-10-02,Ath Bilbao,Logroñes,1
+1994-10-02,Ath Madrid,Valladolid,1
+1994-10-02,Español,Celta,X
+1994-10-02,Santander,Betis,X
+1994-10-02,Sevilla,Albacete,2
+1994-10-02,Sp Gijon,Real Madrid,1
+1994-10-02,Tenerife,Sociedad,1
+1994-10-02,Zaragoza,Barcelona,1
+1994-10-08,Barcelona,Ath Madrid,1
+1994-10-09,Albacete,Ath Bilbao,2
+1994-10-09,Betis,Español,1
+1994-10-09,Celta,Compostela,2
+1994-10-09,La Coruña,Zaragoza,X
+1994-10-09,Logroñes,Sp Gijon,2
+1994-10-09,Oviedo,Tenerife,2
+1994-10-09,Real Madrid,Santander,1
+1994-10-09,Sociedad,Sevilla,X
+1994-10-09,Valladolid,Valencia,1
+1994-10-15,Ath Madrid,La Coruña,X
+1994-10-15,Español,Real Madrid,2
+1994-10-15,Sevilla,Ath Bilbao,X
+1994-10-15,Valencia,Barcelona,2
+1994-10-16,Compostela,Betis,X
+1994-10-16,Santander,Logroñes,1
+1994-10-16,Sociedad,Oviedo,1
+1994-10-16,Sp Gijon,Albacete,1
+1994-10-16,Tenerife,Valladolid,X
+1994-10-16,Zaragoza,Celta,1
+1994-10-22,Celta,Ath Madrid,1
+1994-10-23,Albacete,Santander,1
+1994-10-23,Ath Bilbao,Sp Gijon,1
+1994-10-23,Barcelona,Tenerife,1
+1994-10-23,Betis,Zaragoza,2
+1994-10-23,La Coruña,Valencia,1
+1994-10-23,Logroñes,Español,X
+1994-10-23,Oviedo,Sevilla,1
+1994-10-23,Real Madrid,Compostela,X
+1994-10-23,Valladolid,Sociedad,X
+1994-10-29,Sociedad,Barcelona,X
+1994-10-29,Tenerife,La Coruña,X
+1994-10-29,Valencia,Celta,1
+1994-10-29,Zaragoza,Real Madrid,1
+1994-10-30,Ath Madrid,Betis,2
+1994-10-30,Compostela,Logroñes,1
+1994-10-30,Español,Albacete,1
+1994-10-30,Oviedo,Valladolid,1
+1994-10-30,Sevilla,Sp Gijon,1
+1994-10-31,Santander,Ath Bilbao,2
+1994-11-05,Real Madrid,Ath Madrid,1
+1994-11-06,Albacete,Compostela,2
+1994-11-06,Ath Bilbao,Español,2
+1994-11-06,Barcelona,Oviedo,1
+1994-11-06,Betis,Valencia,X
+1994-11-06,Celta,Tenerife,1
+1994-11-06,La Coruña,Sociedad,1
+1994-11-06,Logroñes,Zaragoza,X
+1994-11-06,Sp Gijon,Santander,2
+1994-11-06,Valladolid,Sevilla,2
+1994-11-19,Compostela,Ath Bilbao,2
+1994-11-19,Oviedo,La Coruña,1
+1994-11-19,Valencia,Real Madrid,2
+1994-11-19,Valladolid,Barcelona,2
+1994-11-20,Ath Madrid,Logroñes,1
+1994-11-20,Español,Sp Gijon,X
+1994-11-20,Sevilla,Santander,2
+1994-11-20,Sociedad,Celta,2
+1994-11-20,Tenerife,Betis,2
+1994-11-20,Zaragoza,Albacete,1
+1994-11-27,Albacete,Ath Madrid,X
+1994-11-27,Ath Bilbao,Zaragoza,1
+1994-11-27,Barcelona,Sevilla,2
+1994-11-27,Betis,Sociedad,X
+1994-11-27,Celta,Oviedo,X
+1994-11-27,La Coruña,Valladolid,1
+1994-11-27,Logroñes,Valencia,X
+1994-11-27,Real Madrid,Tenerife,1
+1994-11-27,Santander,Español,X
+1994-11-27,Sp Gijon,Compostela,X
+1994-12-03,Ath Madrid,Ath Bilbao,1
+1994-12-03,Barcelona,La Coruña,X
+1994-12-03,Sociedad,Real Madrid,X
+1994-12-03,Valencia,Albacete,X
+1994-12-04,Compostela,Santander,1
+1994-12-04,Oviedo,Betis,X
+1994-12-04,Sevilla,Español,1
+1994-12-04,Tenerife,Logroñes,1
+1994-12-04,Valladolid,Celta,X
+1994-12-04,Zaragoza,Sp Gijon,1
+1994-12-10,Ath Bilbao,Valencia,1
+1994-12-11,Albacete,Tenerife,1
+1994-12-11,Betis,Valladolid,2
+1994-12-11,Celta,Barcelona,2
+1994-12-11,Español,Compostela,1
+1994-12-11,La Coruña,Sevilla,1
+1994-12-11,Logroñes,Sociedad,2
+1994-12-11,Real Madrid,Oviedo,1
+1994-12-11,Santander,Zaragoza,2
+1994-12-11,Sp Gijon,Ath Madrid,2
+1994-12-21,Ath Madrid,Santander,2
+1994-12-21,Barcelona,Betis,X
+1994-12-21,La Coruña,Celta,2
+1994-12-21,Oviedo,Logroñes,1
+1994-12-21,Sevilla,Compostela,1
+1994-12-21,Sociedad,Albacete,1
+1994-12-21,Tenerife,Ath Bilbao,1
+1994-12-21,Valencia,Sp Gijon,X
+1994-12-21,Zaragoza,Español,1
+1994-12-22,Valladolid,Real Madrid,2
+1995-01-07,Real Madrid,Barcelona,1
+1995-01-08,Albacete,Oviedo,1
+1995-01-08,Ath Bilbao,Sociedad,X
+1995-01-08,Betis,La Coruña,X
+1995-01-08,Celta,Sevilla,X
+1995-01-08,Compostela,Zaragoza,1
+1995-01-08,Español,Ath Madrid,1
+1995-01-08,Logroñes,Valladolid,X
+1995-01-08,Santander,Valencia,1
+1995-01-08,Sp Gijon,Tenerife,X
+1995-01-14,La Coruña,Real Madrid,X
+1995-01-15,Ath Madrid,Compostela,X
+1995-01-15,Barcelona,Logroñes,1
+1995-01-15,Celta,Betis,2
+1995-01-15,Oviedo,Ath Bilbao,X
+1995-01-15,Sevilla,Zaragoza,1
+1995-01-15,Sociedad,Sp Gijon,X
+1995-01-15,Tenerife,Santander,1
+1995-01-15,Valencia,Español,X
+1995-01-15,Valladolid,Albacete,X
+1995-01-21,Logroñes,La Coruña,2
+1995-01-22,Albacete,Barcelona,X
+1995-01-22,Ath Bilbao,Valladolid,X
+1995-01-22,Compostela,Valencia,X
+1995-01-22,Español,Tenerife,X
+1995-01-22,Real Madrid,Celta,1
+1995-01-22,Santander,Sociedad,X
+1995-01-22,Sevilla,Betis,2
+1995-01-22,Sp Gijon,Oviedo,X
+1995-01-22,Zaragoza,Ath Madrid,1
+1995-01-28,Barcelona,Ath Bilbao,1
+1995-01-29,Ath Madrid,Sevilla,X
+1995-01-29,Betis,Real Madrid,X
+1995-01-29,Celta,Logroñes,2
+1995-01-29,La Coruña,Albacete,1
+1995-01-29,Oviedo,Santander,1
+1995-01-29,Sociedad,Español,1
+1995-01-29,Tenerife,Compostela,1
+1995-01-29,Valencia,Zaragoza,1
+1995-01-29,Valladolid,Sp Gijon,1
+1995-02-04,La Coruña,Ath Bilbao,X
+1995-02-05,Barcelona,Sp Gijon,1
+1995-02-05,Betis,Logroñes,1
+1995-02-05,Celta,Albacete,X
+1995-02-05,Oviedo,Español,1
+1995-02-05,Real Madrid,Sevilla,1
+1995-02-05,Sociedad,Compostela,X
+1995-02-05,Tenerife,Zaragoza,1
+1995-02-05,Valencia,Ath Madrid,X
+1995-02-05,Valladolid,Santander,X
+1995-02-11,Ath Madrid,Tenerife,1
+1995-02-11,Santander,Barcelona,1
+1995-02-12,Albacete,Betis,1
+1995-02-12,Ath Bilbao,Celta,X
+1995-02-12,Compostela,Oviedo,X
+1995-02-12,Español,Valladolid,1
+1995-02-12,Logroñes,Real Madrid,2
+1995-02-12,Sevilla,Valencia,X
+1995-02-12,Sp Gijon,La Coruña,1
+1995-02-12,Zaragoza,Sociedad,X
+1995-02-18,Barcelona,Español,1
+1995-02-19,Betis,Ath Bilbao,X
+1995-02-19,Celta,Sp Gijon,1
+1995-02-19,La Coruña,Santander,1
+1995-02-19,Logroñes,Sevilla,2
+1995-02-19,Oviedo,Zaragoza,1
+1995-02-19,Real Madrid,Albacete,X
+1995-02-19,Sociedad,Ath Madrid,1
+1995-02-19,Tenerife,Valencia,2
+1995-02-19,Valladolid,Compostela,1
+1995-02-25,Compostela,Barcelona,2
+1995-02-25,Sp Gijon,Betis,X
+1995-02-25,Zaragoza,Valladolid,1
+1995-02-26,Albacete,Logroñes,X
+1995-02-26,Ath Bilbao,Real Madrid,X
+1995-02-26,Ath Madrid,Oviedo,X
+1995-02-26,Español,La Coruña,1
+1995-02-26,Santander,Celta,1
+1995-02-26,Sevilla,Tenerife,2
+1995-02-26,Valencia,Sociedad,1
+1995-03-04,Oviedo,Valencia,1
+1995-03-05,Albacete,Sevilla,X
+1995-03-05,Barcelona,Zaragoza,1
+1995-03-05,Betis,Santander,1
+1995-03-05,Celta,Español,2
+1995-03-05,La Coruña,Compostela,1
+1995-03-05,Logroñes,Ath Bilbao,2
+1995-03-05,Real Madrid,Sp Gijon,1
+1995-03-05,Sociedad,Tenerife,1
+1995-03-05,Valladolid,Ath Madrid,2
+1995-03-11,Ath Madrid,Barcelona,1
+1995-03-12,Ath Bilbao,Albacete,2
+1995-03-12,Compostela,Celta,1
+1995-03-12,Español,Betis,X
+1995-03-12,Santander,Real Madrid,1
+1995-03-12,Sevilla,Sociedad,1
+1995-03-12,Sp Gijon,Logroñes,X
+1995-03-12,Tenerife,Oviedo,X
+1995-03-12,Valencia,Valladolid,1
+1995-03-12,Zaragoza,La Coruña,1
+1995-03-18,Ath Bilbao,Sevilla,2
+1995-03-18,La Coruña,Ath Madrid,2
+1995-03-19,Albacete,Sp Gijon,2
+1995-03-19,Barcelona,Valencia,X
+1995-03-19,Betis,Compostela,1
+1995-03-19,Celta,Zaragoza,X
+1995-03-19,Logroñes,Santander,2
+1995-03-19,Oviedo,Sociedad,1
+1995-03-19,Real Madrid,Español,1
+1995-03-19,Valladolid,Tenerife,2
+1995-04-01,Valencia,La Coruña,2
+1995-04-01,Zaragoza,Betis,1
+1995-04-02,Ath Madrid,Celta,2
+1995-04-02,Compostela,Real Madrid,X
+1995-04-02,Español,Logroñes,1
+1995-04-02,Santander,Albacete,1
+1995-04-02,Sevilla,Oviedo,X
+1995-04-02,Sociedad,Valladolid,1
+1995-04-02,Sp Gijon,Ath Bilbao,X
+1995-04-02,Tenerife,Barcelona,1
+1995-04-08,Betis,Ath Madrid,1
+1995-04-09,Albacete,Español,X
+1995-04-09,Ath Bilbao,Santander,1
+1995-04-09,Barcelona,Sociedad,X
+1995-04-09,Celta,Valencia,X
+1995-04-09,La Coruña,Tenerife,1
+1995-04-09,Logroñes,Compostela,2
+1995-04-09,Real Madrid,Zaragoza,1
+1995-04-09,Sp Gijon,Sevilla,1
+1995-04-09,Valladolid,Oviedo,1
+1995-04-15,Ath Madrid,Real Madrid,2
+1995-04-15,Zaragoza,Logroñes,1
+1995-04-16,Compostela,Albacete,X
+1995-04-16,Español,Ath Bilbao,1
+1995-04-16,Oviedo,Barcelona,X
+1995-04-16,Santander,Sp Gijon,X
+1995-04-16,Sevilla,Valladolid,1
+1995-04-16,Sociedad,La Coruña,2
+1995-04-16,Tenerife,Celta,1
+1995-04-16,Valencia,Betis,1
+1995-04-22,Real Madrid,Valencia,1
+1995-04-23,Albacete,Zaragoza,2
+1995-04-23,Ath Bilbao,Compostela,1
+1995-04-23,Barcelona,Valladolid,1
+1995-04-23,Betis,Tenerife,1
+1995-04-23,Celta,Sociedad,1
+1995-04-23,La Coruña,Oviedo,X
+1995-04-23,Logroñes,Ath Madrid,X
+1995-04-23,Santander,Sevilla,2
+1995-04-23,Sp Gijon,Español,X
+1995-04-30,Ath Madrid,Albacete,1
+1995-04-30,Compostela,Sp Gijon,1
+1995-04-30,Español,Santander,1
+1995-04-30,Oviedo,Celta,X
+1995-04-30,Sevilla,Barcelona,1
+1995-04-30,Sociedad,Betis,X
+1995-04-30,Tenerife,Real Madrid,2
+1995-04-30,Valencia,Logroñes,1
+1995-04-30,Valladolid,La Coruña,X
+1995-04-30,Zaragoza,Ath Bilbao,2
+1995-05-06,La Coruña,Barcelona,1
+1995-05-06,Sp Gijon,Zaragoza,2
+1995-05-07,Albacete,Valencia,1
+1995-05-07,Ath Bilbao,Ath Madrid,1
+1995-05-07,Betis,Oviedo,X
+1995-05-07,Celta,Valladolid,1
+1995-05-07,Español,Sevilla,X
+1995-05-07,Logroñes,Tenerife,1
+1995-05-07,Real Madrid,Sociedad,X
+1995-05-07,Santander,Compostela,X
+1995-05-13,Sevilla,La Coruña,X
+1995-05-13,Valencia,Ath Bilbao,1
+1995-05-14,Ath Madrid,Sp Gijon,1
+1995-05-14,Barcelona,Celta,X
+1995-05-14,Compostela,Español,X
+1995-05-14,Oviedo,Real Madrid,1
+1995-05-14,Sociedad,Logroñes,1
+1995-05-14,Tenerife,Albacete,X
+1995-05-14,Valladolid,Betis,2
+1995-05-14,Zaragoza,Santander,X
+1995-05-20,Español,Zaragoza,1
+1995-05-21,Albacete,Sociedad,2
+1995-05-21,Ath Bilbao,Tenerife,1
+1995-05-21,Betis,Barcelona,X
+1995-05-21,Celta,La Coruña,2
+1995-05-21,Compostela,Sevilla,2
+1995-05-21,Logroñes,Oviedo,2
+1995-05-21,Real Madrid,Valladolid,1
+1995-05-21,Santander,Ath Madrid,X
+1995-05-21,Sp Gijon,Valencia,1
+1995-05-27,Barcelona,Real Madrid,1
+1995-05-27,La Coruña,Betis,1
+1995-05-27,Oviedo,Albacete,2
+1995-05-27,Tenerife,Sp Gijon,1
+1995-05-27,Valencia,Santander,X
+1995-05-28,Ath Madrid,Español,1
+1995-05-28,Sevilla,Celta,2
+1995-05-28,Sociedad,Ath Bilbao,1
+1995-05-28,Valladolid,Logroñes,1
+1995-05-28,Zaragoza,Compostela,1
+1995-06-03,Español,Valencia,1
+1995-06-03,Real Madrid,La Coruña,1
+1995-06-04,Albacete,Valladolid,1
+1995-06-04,Ath Bilbao,Oviedo,1
+1995-06-04,Betis,Celta,X
+1995-06-04,Compostela,Ath Madrid,1
+1995-06-04,Logroñes,Barcelona,2
+1995-06-04,Santander,Tenerife,1
+1995-06-04,Sp Gijon,Sociedad,2
+1995-06-04,Zaragoza,Sevilla,2
+1995-06-10,Barcelona,Albacete,2
+1995-06-10,Celta,Real Madrid,2
+1995-06-10,La Coruña,Logroñes,1
+1995-06-10,Valencia,Compostela,1
+1995-06-11,Ath Madrid,Zaragoza,1
+1995-06-11,Betis,Sevilla,1
+1995-06-11,Oviedo,Sp Gijon,1
+1995-06-11,Sociedad,Santander,2
+1995-06-11,Tenerife,Español,X
+1995-06-11,Valladolid,Ath Bilbao,2
+1995-06-17,Sp Gijon,Valladolid,2
+1995-06-18,Albacete,La Coruña,2
+1995-06-18,Ath Bilbao,Barcelona,2
+1995-06-18,Compostela,Tenerife,1
+1995-06-18,Español,Sociedad,X
+1995-06-18,Logroñes,Celta,2
+1995-06-18,Real Madrid,Betis,2
+1995-06-18,Santander,Oviedo,1
+1995-06-18,Sevilla,Ath Madrid,X
+1995-06-18,Zaragoza,Valencia,X

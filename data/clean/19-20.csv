@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2019-08-16,Ath Bilbao,Barcelona,1
+2019-08-17,Celta,Real Madrid,2
+2019-08-17,Valencia,Sociedad,X
+2019-08-17,Mallorca,Eibar,1
+2019-08-17,Leganes,Osasuna,2
+2019-08-17,Villarreal,Granada,X
+2019-08-18,Alaves,Levante,1
+2019-08-18,Español,Sevilla,2
+2019-08-18,Betis,Valladolid,2
+2019-08-18,Ath Madrid,Getafe,1
+2019-08-23,Granada,Sevilla,2
+2019-08-23,Levante,Villarreal,1
+2019-08-24,Osasuna,Eibar,X
+2019-08-24,Real Madrid,Valladolid,X
+2019-08-24,Celta,Valencia,1
+2019-08-24,Getafe,Ath Bilbao,X
+2019-08-25,Alaves,Español,X
+2019-08-25,Mallorca,Sociedad,2
+2019-08-25,Leganes,Ath Madrid,2
+2019-08-25,Barcelona,Betis,1
+2019-08-30,Sevilla,Celta,X
+2019-08-30,Ath Bilbao,Sociedad,1
+2019-08-31,Osasuna,Barcelona,X
+2019-08-31,Getafe,Alaves,X
+2019-08-31,Levante,Valladolid,1
+2019-08-31,Betis,Leganes,1
+2019-09-01,Valencia,Mallorca,1
+2019-09-01,Ath Madrid,Eibar,1
+2019-09-01,Español,Granada,2
+2019-09-01,Villarreal,Real Madrid,X
+2019-09-13,Mallorca,Ath Bilbao,X
+2019-09-14,Real Madrid,Levante,1
+2019-09-14,Leganes,Villarreal,2
+2019-09-14,Sociedad,Ath Madrid,1
+2019-09-14,Barcelona,Valencia,1
+2019-09-15,Eibar,Español,2
+2019-09-15,Alaves,Sevilla,2
+2019-09-15,Celta,Granada,2
+2019-09-15,Valladolid,Osasuna,X
+2019-09-15,Betis,Getafe,X
+2019-09-20,Osasuna,Betis,X
+2019-09-21,Villarreal,Valladolid,1
+2019-09-21,Levante,Eibar,X
+2019-09-21,Ath Madrid,Celta,X
+2019-09-21,Granada,Barcelona,1
+2019-09-22,Getafe,Mallorca,1
+2019-09-22,Español,Sociedad,2
+2019-09-22,Valencia,Leganes,X
+2019-09-22,Ath Bilbao,Alaves,1
+2019-09-22,Sevilla,Real Madrid,2
+2019-09-24,Valladolid,Granada,X
+2019-09-24,Betis,Levante,1
+2019-09-24,Barcelona,Villarreal,1
+2019-09-25,Leganes,Ath Bilbao,X
+2019-09-25,Mallorca,Ath Madrid,2
+2019-09-25,Valencia,Getafe,X
+2019-09-25,Real Madrid,Osasuna,1
+2019-09-26,Eibar,Sevilla,1
+2019-09-26,Celta,Español,X
+2019-09-26,Sociedad,Alaves,1
+2019-09-27,Villarreal,Betis,1
+2019-09-28,Ath Bilbao,Valencia,2
+2019-09-28,Getafe,Barcelona,2
+2019-09-28,Granada,Leganes,1
+2019-09-28,Ath Madrid,Real Madrid,X
+2019-09-29,Español,Valladolid,2
+2019-09-29,Eibar,Celta,1
+2019-09-29,Alaves,Mallorca,1
+2019-09-29,Levante,Osasuna,X
+2019-09-29,Sevilla,Sociedad,1
+2019-10-04,Betis,Eibar,X
+2019-10-05,Leganes,Levante,2
+2019-10-05,Real Madrid,Granada,1
+2019-10-05,Valencia,Alaves,1
+2019-10-05,Osasuna,Villarreal,1
+2019-10-06,Mallorca,Español,1
+2019-10-06,Celta,Ath Bilbao,1
+2019-10-06,Valladolid,Ath Madrid,X
+2019-10-06,Sociedad,Getafe,2
+2019-10-06,Barcelona,Sevilla,1
+2019-10-18,Granada,Osasuna,1
+2019-10-19,Eibar,Barcelona,2
+2019-10-19,Ath Madrid,Valencia,X
+2019-10-19,Getafe,Leganes,1
+2019-10-19,Mallorca,Real Madrid,1
+2019-10-20,Alaves,Celta,1
+2019-10-20,Sociedad,Betis,1
+2019-10-20,Español,Villarreal,2
+2019-10-20,Ath Bilbao,Valladolid,X
+2019-10-20,Sevilla,Levante,1
+2019-10-25,Villarreal,Alaves,1
+2019-10-26,Leganes,Mallorca,1
+2019-10-26,Valladolid,Eibar,1
+2019-10-26,Ath Madrid,Ath Bilbao,1
+2019-10-27,Celta,Sociedad,2
+2019-10-27,Granada,Betis,1
+2019-10-27,Levante,Español,2
+2019-10-27,Sevilla,Getafe,1
+2019-10-27,Osasuna,Valencia,1
+2019-10-29,Alaves,Ath Madrid,X
+2019-10-29,Barcelona,Valladolid,1
+2019-10-30,Sociedad,Levante,2
+2019-10-30,Valencia,Sevilla,X
+2019-10-30,Ath Bilbao,Español,1
+2019-10-30,Betis,Celta,1
+2019-10-30,Real Madrid,Leganes,1
+2019-10-31,Eibar,Villarreal,1
+2019-10-31,Mallorca,Osasuna,X
+2019-10-31,Getafe,Granada,1
+2019-11-02,Español,Valencia,2
+2019-11-02,Levante,Barcelona,1
+2019-11-02,Sevilla,Ath Madrid,X
+2019-11-02,Real Madrid,Betis,X
+2019-11-03,Valladolid,Mallorca,1
+2019-11-03,Villarreal,Ath Bilbao,X
+2019-11-03,Osasuna,Alaves,1
+2019-11-03,Celta,Getafe,2
+2019-11-03,Leganes,Eibar,2
+2019-11-03,Granada,Sociedad,2
+2019-11-08,Sociedad,Leganes,X
+2019-11-09,Alaves,Valladolid,1
+2019-11-09,Valencia,Granada,1
+2019-11-09,Eibar,Real Madrid,2
+2019-11-09,Barcelona,Celta,1
+2019-11-10,Mallorca,Villarreal,1
+2019-11-10,Ath Bilbao,Levante,1
+2019-11-10,Ath Madrid,Español,1
+2019-11-10,Getafe,Osasuna,X
+2019-11-10,Betis,Sevilla,2
+2019-11-22,Levante,Mallorca,1
+2019-11-23,Leganes,Barcelona,2
+2019-11-23,Betis,Valencia,1
+2019-11-23,Granada,Ath Madrid,X
+2019-11-23,Real Madrid,Sociedad,1
+2019-11-24,Español,Getafe,X
+2019-11-24,Osasuna,Ath Bilbao,2
+2019-11-24,Eibar,Alaves,2
+2019-11-24,Villarreal,Celta,2
+2019-11-24,Valladolid,Sevilla,2
+2019-11-29,Celta,Valladolid,X
+2019-11-30,Alaves,Real Madrid,2
+2019-11-30,Sociedad,Eibar,1
+2019-11-30,Mallorca,Betis,2
+2019-11-30,Valencia,Villarreal,1
+2019-12-01,Sevilla,Leganes,1
+2019-12-01,Ath Bilbao,Granada,1
+2019-12-01,Español,Osasuna,2
+2019-12-01,Getafe,Levante,1
+2019-12-01,Ath Madrid,Barcelona,2
+2019-12-06,Villarreal,Ath Madrid,X
+2019-12-07,Real Madrid,Español,1
+2019-12-07,Granada,Alaves,1
+2019-12-07,Levante,Valencia,2
+2019-12-07,Barcelona,Mallorca,1
+2019-12-08,Eibar,Getafe,2
+2019-12-08,Betis,Ath Bilbao,1
+2019-12-08,Valladolid,Sociedad,X
+2019-12-08,Leganes,Celta,1
+2019-12-08,Osasuna,Sevilla,X
+2019-12-13,Alaves,Leganes,X
+2019-12-14,Granada,Levante,2
+2019-12-14,Sociedad,Barcelona,X
+2019-12-14,Ath Bilbao,Eibar,X
+2019-12-14,Ath Madrid,Osasuna,1
+2019-12-15,Getafe,Valladolid,1
+2019-12-15,Celta,Mallorca,X
+2019-12-15,Español,Betis,X
+2019-12-15,Sevilla,Villarreal,2
+2019-12-15,Valencia,Real Madrid,X
+2019-12-18,Barcelona,Real Madrid,X
+2019-12-20,Eibar,Granada,1
+2019-12-21,Mallorca,Sevilla,2
+2019-12-21,Barcelona,Alaves,1
+2019-12-21,Villarreal,Getafe,1
+2019-12-21,Valladolid,Valencia,X
+2019-12-22,Leganes,Español,1
+2019-12-22,Osasuna,Sociedad,2
+2019-12-22,Betis,Ath Madrid,2
+2019-12-22,Levante,Celta,1
+2019-12-22,Real Madrid,Ath Bilbao,X
+2020-01-03,Valladolid,Leganes,X
+2020-01-03,Sevilla,Ath Bilbao,X
+2020-01-04,Valencia,Eibar,1
+2020-01-04,Getafe,Real Madrid,2
+2020-01-04,Ath Madrid,Levante,1
+2020-01-04,Español,Barcelona,X
+2020-01-05,Granada,Mallorca,1
+2020-01-05,Sociedad,Villarreal,2
+2020-01-05,Alaves,Betis,X
+2020-01-05,Celta,Osasuna,X
+2020-01-17,Leganes,Getafe,2
+2020-01-18,Levante,Alaves,2
+2020-01-18,Real Madrid,Sevilla,1
+2020-01-18,Osasuna,Valladolid,X
+2020-01-18,Eibar,Ath Madrid,1
+2020-01-19,Mallorca,Valencia,1
+2020-01-19,Betis,Sociedad,1
+2020-01-19,Villarreal,Español,2
+2020-01-19,Ath Bilbao,Celta,X
+2020-01-19,Barcelona,Granada,1
+2020-01-24,Osasuna,Levante,1
+2020-01-25,Español,Ath Bilbao,X
+2020-01-25,Valencia,Barcelona,1
+2020-01-25,Alaves,Villarreal,2
+2020-01-25,Sevilla,Granada,1
+2020-01-26,Ath Madrid,Leganes,X
+2020-01-26,Celta,Eibar,X
+2020-01-26,Getafe,Betis,1
+2020-01-26,Sociedad,Mallorca,1
+2020-01-26,Valladolid,Real Madrid,2
+2020-02-01,Granada,Español,1
+2020-02-01,Real Madrid,Ath Madrid,1
+2020-02-01,Mallorca,Valladolid,2
+2020-02-01,Valencia,Celta,1
+2020-02-02,Leganes,Sociedad,1
+2020-02-02,Eibar,Betis,X
+2020-02-02,Ath Bilbao,Getafe,2
+2020-02-02,Sevilla,Alaves,X
+2020-02-02,Villarreal,Osasuna,1
+2020-02-02,Barcelona,Levante,1
+2020-02-07,Alaves,Eibar,1
+2020-02-08,Levante,Leganes,1
+2020-02-08,Getafe,Valencia,1
+2020-02-08,Valladolid,Villarreal,X
+2020-02-08,Ath Madrid,Granada,1
+2020-02-09,Español,Mallorca,1
+2020-02-09,Sociedad,Ath Bilbao,1
+2020-02-09,Osasuna,Real Madrid,2
+2020-02-09,Celta,Sevilla,1
+2020-02-09,Betis,Barcelona,2
+2020-02-14,Valencia,Ath Madrid,X
+2020-02-15,Mallorca,Alaves,1
+2020-02-15,Barcelona,Getafe,1
+2020-02-15,Villarreal,Levante,1
+2020-02-15,Granada,Valladolid,1
+2020-02-16,Sevilla,Español,X
+2020-02-16,Leganes,Betis,X
+2020-02-16,Ath Bilbao,Osasuna,2
+2020-02-16,Real Madrid,Celta,X
+2020-02-21,Betis,Mallorca,X
+2020-02-22,Celta,Leganes,1
+2020-02-22,Barcelona,Eibar,1
+2020-02-22,Sociedad,Valencia,1
+2020-02-22,Levante,Real Madrid,1
+2020-02-23,Osasuna,Granada,2
+2020-02-23,Alaves,Ath Bilbao,1
+2020-02-23,Valladolid,Español,1
+2020-02-23,Getafe,Sevilla,2
+2020-02-23,Ath Madrid,Villarreal,1
+2020-02-28,Sociedad,Valladolid,1
+2020-02-29,Eibar,Levante,1
+2020-02-29,Valencia,Betis,1
+2020-02-29,Leganes,Alaves,X
+2020-02-29,Granada,Celta,X
+2020-03-01,Sevilla,Osasuna,1
+2020-03-01,Ath Bilbao,Villarreal,1
+2020-03-01,Español,Ath Madrid,X
+2020-03-01,Mallorca,Getafe,2
+2020-03-01,Real Madrid,Barcelona,1
+2020-03-06,Alaves,Valencia,X
+2020-03-07,Eibar,Mallorca,2
+2020-03-07,Ath Madrid,Sevilla,X
+2020-03-07,Barcelona,Sociedad,1
+2020-03-07,Getafe,Celta,X
+2020-03-08,Osasuna,Español,1
+2020-03-08,Valladolid,Ath Bilbao,2
+2020-03-08,Levante,Granada,X
+2020-03-08,Villarreal,Leganes,2
+2020-03-08,Betis,Real Madrid,1
+2020-03-10,Eibar,Sociedad,2
+2020-06-11,Sevilla,Betis,1
+2020-06-12,Granada,Getafe,1
+2020-06-12,Valencia,Levante,X
+2020-06-13,Español,Alaves,1
+2020-06-13,Celta,Villarreal,2
+2020-06-13,Leganes,Valladolid,2
+2020-06-13,Mallorca,Barcelona,2
+2020-06-14,Ath Bilbao,Ath Madrid,X
+2020-06-14,Real Madrid,Eibar,1
+2020-06-14,Sociedad,Osasuna,X
+2020-06-15,Levante,Sevilla,X
+2020-06-15,Betis,Granada,X
+2020-06-16,Getafe,Español,X
+2020-06-16,Villarreal,Mallorca,1
+2020-06-16,Barcelona,Leganes,1
+2020-06-17,Eibar,Ath Bilbao,X
+2020-06-17,Valladolid,Celta,X
+2020-06-17,Osasuna,Ath Madrid,2
+2020-06-18,Alaves,Sociedad,1
+2020-06-18,Real Madrid,Valencia,1
+2020-06-19,Granada,Villarreal,2
+2020-06-19,Mallorca,Leganes,X
+2020-06-19,Sevilla,Barcelona,X
+2020-06-20,Español,Levante,2
+2020-06-20,Ath Bilbao,Betis,1
+2020-06-20,Getafe,Eibar,X
+2020-06-20,Ath Madrid,Valladolid,1
+2020-06-21,Celta,Alaves,1
+2020-06-21,Valencia,Osasuna,1
+2020-06-21,Sociedad,Real Madrid,2
+2020-06-22,Villarreal,Sevilla,X
+2020-06-22,Leganes,Granada,X
+2020-06-23,Levante,Ath Madrid,2
+2020-06-23,Valladolid,Getafe,X
+2020-06-23,Barcelona,Ath Bilbao,1
+2020-06-24,Alaves,Osasuna,2
+2020-06-24,Sociedad,Celta,2
+2020-06-24,Real Madrid,Mallorca,1
+2020-06-25,Eibar,Valencia,1
+2020-06-25,Betis,Español,1
+2020-06-26,Sevilla,Valladolid,X
+2020-06-27,Ath Bilbao,Mallorca,1
+2020-06-27,Celta,Barcelona,X
+2020-06-27,Osasuna,Leganes,1
+2020-06-27,Ath Madrid,Alaves,1
+2020-06-28,Levante,Betis,1
+2020-06-28,Villarreal,Valencia,1
+2020-06-28,Granada,Eibar,2
+2020-06-28,Español,Real Madrid,2
+2020-06-29,Getafe,Sociedad,1
+2020-06-30,Mallorca,Celta,1
+2020-06-30,Leganes,Sevilla,2
+2020-06-30,Barcelona,Ath Madrid,X
+2020-07-01,Alaves,Granada,2
+2020-07-01,Valencia,Ath Bilbao,2
+2020-07-01,Betis,Villarreal,2
+2020-07-01,Valladolid,Levante,X
+2020-07-02,Eibar,Osasuna,2
+2020-07-02,Sociedad,Español,1
+2020-07-02,Real Madrid,Getafe,1
+2020-07-03,Ath Madrid,Mallorca,1
+2020-07-04,Celta,Betis,X
+2020-07-04,Valladolid,Alaves,1
+2020-07-04,Granada,Valencia,X
+2020-07-05,Ath Bilbao,Real Madrid,2
+2020-07-05,Español,Leganes,2
+2020-07-05,Osasuna,Getafe,X
+2020-07-05,Villarreal,Barcelona,2
+2020-07-06,Levante,Sociedad,X
+2020-07-06,Sevilla,Eibar,1
+2020-07-07,Valencia,Valladolid,1
+2020-07-07,Celta,Ath Madrid,X
+2020-07-08,Betis,Osasuna,1
+2020-07-08,Getafe,Villarreal,2
+2020-07-08,Barcelona,Español,1
+2020-07-09,Eibar,Leganes,X
+2020-07-09,Mallorca,Levante,1
+2020-07-09,Ath Bilbao,Sevilla,2
+2020-07-10,Sociedad,Granada,2
+2020-07-10,Real Madrid,Alaves,1
+2020-07-11,Osasuna,Celta,1
+2020-07-11,Valladolid,Barcelona,2
+2020-07-11,Ath Madrid,Betis,1
+2020-07-12,Español,Eibar,2
+2020-07-12,Levante,Ath Bilbao,2
+2020-07-12,Leganes,Valencia,1
+2020-07-12,Sevilla,Mallorca,1
+2020-07-13,Alaves,Getafe,X
+2020-07-13,Villarreal,Sociedad,2
+2020-07-13,Granada,Real Madrid,2
+2020-07-16,Eibar,Valladolid,1
+2020-07-16,Ath Bilbao,Leganes,2
+2020-07-16,Barcelona,Osasuna,2
+2020-07-16,Betis,Alaves,2
+2020-07-16,Celta,Levante,2
+2020-07-16,Getafe,Ath Madrid,2
+2020-07-16,Mallorca,Granada,2
+2020-07-16,Real Madrid,Villarreal,1
+2020-07-16,Sociedad,Sevilla,X
+2020-07-16,Valencia,Español,1
+2020-07-19,Alaves,Barcelona,2
+2020-07-19,Valladolid,Betis,1
+2020-07-19,Villarreal,Eibar,1
+2020-07-19,Ath Madrid,Sociedad,X
+2020-07-19,Español,Celta,X
+2020-07-19,Granada,Ath Bilbao,1
+2020-07-19,Leganes,Real Madrid,X
+2020-07-19,Levante,Getafe,1
+2020-07-19,Osasuna,Mallorca,X
+2020-07-19,Sevilla,Valencia,1

@@ -1,0 +1,463 @@
+date,hometeam,awayteam,ftr
+1996-08-31,La Coruña,Real Madrid,X
+1996-09-01,Ath Madrid,Celta,1
+1996-09-01,Betis,Ath Bilbao,1
+1996-09-01,Hercules,Extremadura,1
+1996-09-01,Oviedo,Barcelona,2
+1996-09-01,Santander,Valencia,1
+1996-09-01,Sociedad,Sevilla,1
+1996-09-01,Tenerife,Compostela,1
+1996-09-01,Vallecano,Valladolid,2
+1996-09-01,Zaragoza,Logroñes,X
+1996-09-02,Español,Sp Gijon,2
+1996-09-07,Barcelona,Español,1
+1996-09-07,Compostela,Ath Madrid,1
+1996-09-07,Logroñes,Tenerife,2
+1996-09-07,Valencia,Sociedad,2
+1996-09-08,Ath Bilbao,Vallecano,1
+1996-09-08,Celta,La Coruña,X
+1996-09-08,Real Madrid,Hercules,1
+1996-09-08,Sevilla,Zaragoza,2
+1996-09-08,Sp Gijon,Santander,2
+1996-09-08,Valladolid,Oviedo,2
+1996-09-09,Extremadura,Betis,2
+1996-09-14,Zaragoza,Valencia,X
+1996-09-15,Ath Madrid,La Coruña,2
+1996-09-15,Compostela,Logroñes,2
+1996-09-15,Español,Valladolid,1
+1996-09-15,Hercules,Celta,2
+1996-09-15,Oviedo,Ath Bilbao,1
+1996-09-15,Santander,Barcelona,X
+1996-09-15,Sociedad,Sp Gijon,X
+1996-09-15,Tenerife,Sevilla,2
+1996-09-15,Vallecano,Extremadura,1
+1996-09-16,Betis,Real Madrid,X
+1996-09-21,Ath Bilbao,Español,X
+1996-09-21,Logroñes,Ath Madrid,2
+1996-09-21,Valencia,Tenerife,1
+1996-09-21,Valladolid,Santander,1
+1996-09-22,Barcelona,Sociedad,1
+1996-09-22,Celta,Betis,2
+1996-09-22,Extremadura,Oviedo,2
+1996-09-22,La Coruña,Hercules,1
+1996-09-22,Real Madrid,Vallecano,1
+1996-09-22,Sp Gijon,Zaragoza,1
+1996-09-23,Sevilla,Compostela,2
+1996-09-28,Betis,La Coruña,2
+1996-09-28,Español,Extremadura,1
+1996-09-28,Santander,Ath Bilbao,2
+1996-09-28,Sociedad,Valladolid,X
+1996-09-29,Compostela,Valencia,2
+1996-09-29,Logroñes,Sevilla,1
+1996-09-29,Oviedo,Real Madrid,2
+1996-09-29,Tenerife,Sp Gijon,1
+1996-09-29,Vallecano,Celta,1
+1996-09-29,Zaragoza,Barcelona,2
+1996-09-30,Ath Madrid,Hercules,1
+1996-10-01,Real Madrid,Español,1
+1996-10-02,Ath Bilbao,Sociedad,2
+1996-10-02,Barcelona,Tenerife,X
+1996-10-02,Celta,Oviedo,1
+1996-10-02,Extremadura,Santander,2
+1996-10-02,Hercules,Betis,2
+1996-10-02,La Coruña,Vallecano,X
+1996-10-02,Sp Gijon,Compostela,X
+1996-10-02,Valencia,Logroñes,2
+1996-10-02,Valladolid,Zaragoza,X
+1996-10-03,Sevilla,Ath Madrid,X
+1996-10-12,Ath Madrid,Betis,X
+1996-10-12,Compostela,Barcelona,2
+1996-10-12,Español,Celta,X
+1996-10-12,Sevilla,Valencia,2
+1996-10-12,Tenerife,Valladolid,2
+1996-10-12,Zaragoza,Ath Bilbao,X
+1996-10-13,Logroñes,Sp Gijon,2
+1996-10-13,Oviedo,La Coruña,2
+1996-10-13,Santander,Real Madrid,X
+1996-10-13,Sociedad,Extremadura,1
+1996-10-13,Vallecano,Hercules,1
+1996-10-19,Ath Bilbao,Tenerife,1
+1996-10-19,Extremadura,Zaragoza,1
+1996-10-19,Hercules,Oviedo,X
+1996-10-19,La Coruña,Español,1
+1996-10-19,Real Madrid,Sociedad,1
+1996-10-19,Valladolid,Compostela,1
+1996-10-20,Barcelona,Logroñes,1
+1996-10-20,Betis,Vallecano,1
+1996-10-20,Celta,Santander,X
+1996-10-20,Valencia,Ath Madrid,1
+1996-10-21,Sp Gijon,Sevilla,X
+1996-10-22,Zaragoza,Real Madrid,2
+1996-10-23,Ath Madrid,Vallecano,2
+1996-10-23,Compostela,Ath Bilbao,X
+1996-10-23,Español,Hercules,1
+1996-10-23,Logroñes,Valladolid,2
+1996-10-23,Oviedo,Betis,X
+1996-10-23,Santander,La Coruña,X
+1996-10-23,Sevilla,Barcelona,2
+1996-10-23,Sociedad,Celta,2
+1996-10-23,Tenerife,Extremadura,1
+1996-10-23,Valencia,Sp Gijon,1
+1996-10-26,Barcelona,Valencia,1
+1996-10-26,Betis,Español,2
+1996-10-26,Real Madrid,Tenerife,X
+1996-10-26,Sp Gijon,Ath Madrid,2
+1996-10-27,Ath Bilbao,Logroñes,1
+1996-10-27,Celta,Zaragoza,X
+1996-10-27,Extremadura,Compostela,X
+1996-10-27,Hercules,Santander,2
+1996-10-27,La Coruña,Sociedad,1
+1996-10-27,Vallecano,Oviedo,X
+1996-10-28,Valladolid,Sevilla,2
+1996-11-02,Santander,Betis,X
+1996-11-03,Ath Madrid,Oviedo,1
+1996-11-03,Compostela,Real Madrid,2
+1996-11-03,Español,Vallecano,X
+1996-11-03,Logroñes,Extremadura,X
+1996-11-03,Sevilla,Ath Bilbao,1
+1996-11-03,Sociedad,Hercules,1
+1996-11-03,Tenerife,Celta,X
+1996-11-03,Valencia,Valladolid,2
+1996-11-03,Zaragoza,La Coruña,2
+1996-11-04,Sp Gijon,Barcelona,X
+1996-11-09,Barcelona,Ath Madrid,X
+1996-11-10,Ath Bilbao,Valencia,1
+1996-11-10,Betis,Sociedad,1
+1996-11-10,Celta,Compostela,2
+1996-11-10,Extremadura,Sevilla,2
+1996-11-10,Hercules,Zaragoza,X
+1996-11-10,La Coruña,Tenerife,X
+1996-11-10,Oviedo,Español,1
+1996-11-10,Real Madrid,Logroñes,X
+1996-11-10,Vallecano,Santander,X
+1996-11-11,Valladolid,Sp Gijon,1
+1996-11-16,Ath Madrid,Español,1
+1996-11-16,Compostela,La Coruña,X
+1996-11-16,Tenerife,Hercules,1
+1996-11-16,Valencia,Extremadura,X
+1996-11-17,Logroñes,Celta,2
+1996-11-17,Santander,Oviedo,1
+1996-11-17,Sevilla,Real Madrid,2
+1996-11-17,Sociedad,Vallecano,1
+1996-11-17,Sp Gijon,Ath Bilbao,2
+1996-11-17,Zaragoza,Betis,X
+1996-11-18,Barcelona,Valladolid,1
+1996-11-23,Ath Bilbao,Barcelona,1
+1996-11-23,Extremadura,Sp Gijon,2
+1996-11-24,Betis,Tenerife,1
+1996-11-24,Celta,Sevilla,1
+1996-11-24,Español,Santander,X
+1996-11-24,Hercules,Compostela,1
+1996-11-24,La Coruña,Logroñes,1
+1996-11-24,Oviedo,Sociedad,X
+1996-11-24,Real Madrid,Valencia,1
+1996-11-24,Vallecano,Zaragoza,X
+1996-11-25,Valladolid,Ath Madrid,2
+1996-11-30,Ath Madrid,Santander,1
+1996-11-30,Sp Gijon,Real Madrid,2
+1996-11-30,Tenerife,Vallecano,2
+1996-11-30,Valencia,Celta,1
+1996-12-01,Compostela,Betis,2
+1996-12-01,Logroñes,Hercules,1
+1996-12-01,Sevilla,La Coruña,2
+1996-12-01,Sociedad,Español,1
+1996-12-01,Valladolid,Ath Bilbao,X
+1996-12-01,Zaragoza,Oviedo,1
+1996-12-02,Barcelona,Extremadura,1
+1996-12-07,Real Madrid,Barcelona,1
+1996-12-08,Ath Bilbao,Ath Madrid,X
+1996-12-08,Betis,Logroñes,1
+1996-12-08,Celta,Sp Gijon,1
+1996-12-08,Español,Zaragoza,1
+1996-12-08,Extremadura,Valladolid,X
+1996-12-08,La Coruña,Valencia,1
+1996-12-08,Oviedo,Tenerife,2
+1996-12-08,Santander,Sociedad,2
+1996-12-08,Vallecano,Compostela,2
+1996-12-09,Hercules,Sevilla,1
+1996-12-21,Valladolid,Real Madrid,X
+1996-12-22,Ath Bilbao,Extremadura,X
+1996-12-22,Ath Madrid,Sociedad,X
+1996-12-22,Barcelona,Celta,1
+1996-12-22,Compostela,Oviedo,2
+1996-12-22,Logroñes,Vallecano,2
+1996-12-22,Sevilla,Betis,2
+1996-12-22,Sp Gijon,La Coruña,X
+1996-12-22,Tenerife,Español,1
+1996-12-22,Zaragoza,Santander,2
+1996-12-23,Valencia,Hercules,1
+1997-01-04,Celta,Valladolid,2
+1997-01-04,La Coruña,Barcelona,2
+1997-01-05,Español,Compostela,2
+1997-01-05,Extremadura,Ath Madrid,2
+1997-01-05,Hercules,Sp Gijon,X
+1997-01-05,Oviedo,Logroñes,1
+1997-01-05,Real Madrid,Ath Bilbao,1
+1997-01-05,Santander,Tenerife,2
+1997-01-05,Sociedad,Zaragoza,1
+1997-01-06,Betis,Valencia,X
+1997-01-11,Tenerife,Sociedad,2
+1997-01-12,Ath Bilbao,Celta,X
+1997-01-12,Ath Madrid,Zaragoza,1
+1997-01-12,Compostela,Santander,X
+1997-01-12,Extremadura,Real Madrid,X
+1997-01-12,Logroñes,Español,1
+1997-01-12,Sevilla,Oviedo,1
+1997-01-12,Valencia,Vallecano,1
+1997-01-12,Valladolid,La Coruña,X
+1997-01-13,Barcelona,Hercules,2
+1997-01-18,Ath Madrid,Real Madrid,2
+1997-01-19,Betis,Barcelona,2
+1997-01-19,Celta,Extremadura,2
+1997-01-19,Hercules,Valladolid,1
+1997-01-19,La Coruña,Ath Bilbao,X
+1997-01-19,Oviedo,Valencia,1
+1997-01-19,Santander,Logroñes,1
+1997-01-19,Sociedad,Compostela,1
+1997-01-19,Vallecano,Sp Gijon,2
+1997-01-19,Zaragoza,Tenerife,X
+1997-01-20,Español,Sevilla,1
+1997-01-25,Extremadura,La Coruña,1
+1997-01-25,Valencia,Español,X
+1997-01-26,Ath Bilbao,Hercules,1
+1997-01-26,Barcelona,Vallecano,1
+1997-01-26,Compostela,Zaragoza,1
+1997-01-26,Logroñes,Sociedad,1
+1997-01-26,Real Madrid,Celta,1
+1997-01-26,Sevilla,Santander,X
+1997-01-26,Sp Gijon,Oviedo,X
+1997-01-27,Valladolid,Betis,2
+1997-02-01,Celta,Ath Madrid,X
+1997-02-02,Ath Bilbao,Betis,2
+1997-02-02,Barcelona,Oviedo,X
+1997-02-02,Compostela,Tenerife,X
+1997-02-02,Logroñes,Zaragoza,2
+1997-02-02,Real Madrid,La Coruña,1
+1997-02-02,Sevilla,Sociedad,2
+1997-02-02,Sp Gijon,Español,1
+1997-02-02,Valencia,Santander,X
+1997-02-02,Valladolid,Vallecano,1
+1997-02-03,Extremadura,Hercules,X
+1997-02-08,Sociedad,Valencia,2
+1997-02-09,Ath Madrid,Compostela,1
+1997-02-09,Betis,Extremadura,1
+1997-02-09,Español,Barcelona,1
+1997-02-09,Hercules,Real Madrid,2
+1997-02-09,La Coruña,Celta,X
+1997-02-09,Oviedo,Valladolid,X
+1997-02-09,Santander,Sp Gijon,1
+1997-02-09,Tenerife,Logroñes,1
+1997-02-09,Vallecano,Ath Bilbao,X
+1997-02-09,Zaragoza,Sevilla,1
+1997-02-15,Real Madrid,Betis,X
+1997-02-15,Sevilla,Tenerife,1
+1997-02-15,Valencia,Zaragoza,X
+1997-02-16,Ath Bilbao,Oviedo,1
+1997-02-16,Barcelona,Santander,1
+1997-02-16,Celta,Hercules,1
+1997-02-16,Extremadura,Vallecano,1
+1997-02-16,La Coruña,Ath Madrid,X
+1997-02-16,Logroñes,Compostela,X
+1997-02-16,Sp Gijon,Sociedad,X
+1997-02-16,Valladolid,Español,1
+1997-02-18,Compostela,Sevilla,1
+1997-02-19,Ath Madrid,Logroñes,1
+1997-02-19,Betis,Celta,X
+1997-02-19,Español,Ath Bilbao,2
+1997-02-19,Hercules,La Coruña,2
+1997-02-19,Oviedo,Extremadura,X
+1997-02-19,Santander,Valladolid,1
+1997-02-19,Tenerife,Valencia,1
+1997-02-19,Vallecano,Real Madrid,1
+1997-02-19,Zaragoza,Sp Gijon,1
+1997-02-20,Sociedad,Barcelona,1
+1997-02-22,Hercules,Ath Madrid,2
+1997-02-23,Ath Bilbao,Santander,X
+1997-02-23,Barcelona,Zaragoza,1
+1997-02-23,Celta,Vallecano,1
+1997-02-23,Extremadura,Español,1
+1997-02-23,La Coruña,Betis,1
+1997-02-23,Real Madrid,Oviedo,1
+1997-02-23,Sevilla,Logroñes,2
+1997-02-23,Sp Gijon,Tenerife,1
+1997-02-23,Valladolid,Sociedad,1
+1997-02-24,Valencia,Compostela,1
+1997-03-01,Ath Madrid,Sevilla,1
+1997-03-01,Logroñes,Valencia,1
+1997-03-01,Tenerife,Barcelona,1
+1997-03-01,Vallecano,La Coruña,2
+1997-03-02,Betis,Hercules,1
+1997-03-02,Compostela,Sp Gijon,1
+1997-03-02,Oviedo,Celta,1
+1997-03-02,Santander,Extremadura,2
+1997-03-02,Sociedad,Ath Bilbao,X
+1997-03-02,Zaragoza,Valladolid,1
+1997-03-03,Español,Real Madrid,2
+1997-03-05,Vallecano,Sevilla,1
+1997-03-06,Sp Gijon,Betis,2
+1997-03-08,Valencia,Sevilla,1
+1997-03-09,Ath Bilbao,Zaragoza,X
+1997-03-09,Barcelona,Compostela,1
+1997-03-09,Betis,Ath Madrid,1
+1997-03-09,Celta,Español,X
+1997-03-09,Extremadura,Sociedad,1
+1997-03-09,Hercules,Vallecano,1
+1997-03-09,La Coruña,Oviedo,1
+1997-03-09,Sp Gijon,Logroñes,1
+1997-03-09,Valladolid,Tenerife,2
+1997-03-10,Real Madrid,Santander,1
+1997-03-14,Tenerife,Ath Bilbao,X
+1997-03-15,Ath Madrid,Valencia,2
+1997-03-15,Español,La Coruña,2
+1997-03-16,Compostela,Valladolid,X
+1997-03-16,Logroñes,Barcelona,2
+1997-03-16,Oviedo,Hercules,1
+1997-03-16,Santander,Celta,1
+1997-03-16,Sevilla,Sp Gijon,1
+1997-03-16,Vallecano,Betis,2
+1997-03-16,Zaragoza,Extremadura,1
+1997-03-17,Sociedad,Real Madrid,2
+1997-03-22,Betis,Oviedo,1
+1997-03-22,Celta,Sociedad,X
+1997-03-23,Ath Bilbao,Compostela,X
+1997-03-23,Barcelona,Sevilla,1
+1997-03-23,Extremadura,Tenerife,1
+1997-03-23,Hercules,Español,2
+1997-03-23,La Coruña,Santander,1
+1997-03-23,Real Madrid,Zaragoza,1
+1997-03-23,Valladolid,Logroñes,1
+1997-03-23,Vallecano,Ath Madrid,2
+1997-03-24,Sp Gijon,Valencia,1
+1997-03-29,Sociedad,La Coruña,X
+1997-03-30,Compostela,Extremadura,1
+1997-03-30,Español,Betis,X
+1997-03-30,Logroñes,Ath Bilbao,2
+1997-03-30,Oviedo,Vallecano,2
+1997-03-30,Santander,Hercules,2
+1997-03-30,Sevilla,Valladolid,X
+1997-03-30,Tenerife,Real Madrid,X
+1997-03-30,Valencia,Barcelona,X
+1997-03-30,Zaragoza,Celta,X
+1997-03-31,Ath Madrid,Sp Gijon,1
+1997-04-05,Celta,Tenerife,1
+1997-04-05,Oviedo,Ath Madrid,1
+1997-04-06,Ath Bilbao,Sevilla,X
+1997-04-06,Barcelona,Sp Gijon,1
+1997-04-06,Betis,Santander,X
+1997-04-06,Extremadura,Logroñes,1
+1997-04-06,Hercules,Sociedad,1
+1997-04-06,La Coruña,Zaragoza,1
+1997-04-06,Valladolid,Valencia,1
+1997-04-06,Vallecano,Español,2
+1997-04-07,Real Madrid,Compostela,X
+1997-04-12,Sevilla,Extremadura,X
+1997-04-12,Tenerife,La Coruña,1
+1997-04-12,Valencia,Ath Bilbao,1
+1997-04-13,Ath Madrid,Barcelona,2
+1997-04-13,Compostela,Celta,1
+1997-04-13,Logroñes,Real Madrid,2
+1997-04-13,Santander,Vallecano,2
+1997-04-13,Sociedad,Betis,2
+1997-04-13,Sp Gijon,Valladolid,2
+1997-04-13,Zaragoza,Hercules,1
+1997-04-14,Español,Oviedo,1
+1997-04-15,Extremadura,Valencia,1
+1997-04-16,Ath Bilbao,Sp Gijon,1
+1997-04-16,Betis,Zaragoza,X
+1997-04-16,Celta,Logroñes,1
+1997-04-16,Hercules,Tenerife,1
+1997-04-16,La Coruña,Compostela,1
+1997-04-16,Real Madrid,Sevilla,1
+1997-04-16,Valladolid,Barcelona,1
+1997-04-16,Vallecano,Sociedad,1
+1997-04-17,Español,Ath Madrid,X
+1997-04-17,Oviedo,Santander,2
+1997-04-19,Tenerife,Betis,2
+1997-04-20,Ath Madrid,Valladolid,1
+1997-04-20,Barcelona,Ath Bilbao,1
+1997-04-20,Compostela,Hercules,X
+1997-04-20,Logroñes,La Coruña,2
+1997-04-20,Santander,Español,X
+1997-04-20,Sevilla,Celta,1
+1997-04-20,Sociedad,Oviedo,1
+1997-04-20,Sp Gijon,Extremadura,X
+1997-04-20,Zaragoza,Vallecano,1
+1997-04-21,Valencia,Real Madrid,X
+1997-05-03,La Coruña,Sevilla,1
+1997-05-04,Ath Bilbao,Valladolid,X
+1997-05-04,Betis,Compostela,X
+1997-05-04,Celta,Valencia,X
+1997-05-04,Español,Sociedad,1
+1997-05-04,Hercules,Logroñes,1
+1997-05-04,Oviedo,Zaragoza,1
+1997-05-04,Real Madrid,Sp Gijon,1
+1997-05-04,Santander,Ath Madrid,X
+1997-05-04,Vallecano,Tenerife,2
+1997-05-05,Extremadura,Barcelona,2
+1997-05-10,Barcelona,Real Madrid,1
+1997-05-10,Valladolid,Extremadura,1
+1997-05-11,Ath Madrid,Ath Bilbao,1
+1997-05-11,Compostela,Vallecano,1
+1997-05-11,Logroñes,Betis,1
+1997-05-11,Sevilla,Hercules,1
+1997-05-11,Sociedad,Santander,1
+1997-05-11,Sp Gijon,Celta,1
+1997-05-11,Tenerife,Oviedo,X
+1997-05-11,Zaragoza,Español,1
+1997-05-12,Valencia,La Coruña,X
+1997-05-15,Tenerife,Ath Madrid,2
+1997-05-17,Betis,Sevilla,X
+1997-05-18,Español,Tenerife,1
+1997-05-18,Extremadura,Ath Bilbao,2
+1997-05-18,Hercules,Valencia,2
+1997-05-18,La Coruña,Sp Gijon,X
+1997-05-18,Oviedo,Compostela,X
+1997-05-18,Real Madrid,Valladolid,1
+1997-05-18,Santander,Zaragoza,2
+1997-05-18,Sociedad,Ath Madrid,X
+1997-05-18,Vallecano,Logroñes,1
+1997-05-19,Celta,Barcelona,2
+1997-05-24,Barcelona,La Coruña,1
+1997-05-25,Ath Bilbao,Real Madrid,1
+1997-05-25,Ath Madrid,Extremadura,X
+1997-05-25,Compostela,Español,1
+1997-05-25,Logroñes,Oviedo,X
+1997-05-25,Sevilla,Vallecano,1
+1997-05-25,Sp Gijon,Hercules,1
+1997-05-25,Tenerife,Santander,X
+1997-05-25,Valladolid,Celta,2
+1997-05-25,Zaragoza,Sociedad,1
+1997-05-26,Valencia,Betis,X
+1997-05-31,Betis,Sp Gijon,2
+1997-05-31,Vallecano,Valencia,1
+1997-06-01,Celta,Ath Bilbao,2
+1997-06-01,Español,Logroñes,1
+1997-06-01,Hercules,Barcelona,1
+1997-06-01,La Coruña,Valladolid,2
+1997-06-01,Oviedo,Sevilla,1
+1997-06-01,Real Madrid,Extremadura,1
+1997-06-01,Santander,Compostela,X
+1997-06-02,Sociedad,Tenerife,1
+1997-06-02,Zaragoza,Ath Madrid,2
+1997-06-14,Real Madrid,Ath Madrid,1
+1997-06-15,Barcelona,Betis,1
+1997-06-15,Compostela,Sociedad,2
+1997-06-15,Extremadura,Celta,1
+1997-06-15,Logroñes,Santander,X
+1997-06-15,Sevilla,Español,1
+1997-06-15,Sp Gijon,Vallecano,1
+1997-06-15,Tenerife,Zaragoza,X
+1997-06-15,Valencia,Oviedo,1
+1997-06-15,Valladolid,Hercules,1
+1997-06-16,Ath Bilbao,La Coruña,1
+1997-06-21,Betis,Valladolid,1
+1997-06-21,Español,Valencia,1
+1997-06-22,Celta,Real Madrid,1
+1997-06-22,Hercules,Ath Bilbao,1
+1997-06-22,La Coruña,Extremadura,1
+1997-06-22,Oviedo,Sp Gijon,X
+1997-06-22,Santander,Sevilla,2
+1997-06-22,Sociedad,Logroñes,1
+1997-06-22,Vallecano,Barcelona,2
+1997-06-22,Zaragoza,Compostela,2
+1997-06-23,Ath Madrid,Tenerife,2

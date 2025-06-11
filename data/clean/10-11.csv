@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2010-08-28,Hercules,Ath Bilbao,2
+2010-08-28,Levante,Sevilla,2
+2010-08-28,Malaga,Valencia,2
+2010-08-29,Español,Getafe,1
+2010-08-29,La Coruña,Zaragoza,X
+2010-08-29,Mallorca,Real Madrid,X
+2010-08-29,Osasuna,Almeria,X
+2010-08-29,Santander,Barcelona,2
+2010-08-29,Sociedad,Villarreal,1
+2010-08-30,Ath Madrid,Sp Gijon,1
+2010-09-11,Ath Bilbao,Ath Madrid,2
+2010-09-11,Barcelona,Hercules,2
+2010-09-11,Real Madrid,Osasuna,1
+2010-09-11,Valencia,Santander,1
+2010-09-12,Getafe,Levante,1
+2010-09-12,Sevilla,La Coruña,X
+2010-09-12,Sp Gijon,Mallorca,1
+2010-09-12,Villarreal,Español,1
+2010-09-12,Zaragoza,Malaga,2
+2010-09-13,Almeria,Sociedad,X
+2010-09-18,Español,Almeria,1
+2010-09-18,Mallorca,Osasuna,1
+2010-09-18,Sociedad,Real Madrid,2
+2010-09-18,Sp Gijon,Ath Bilbao,X
+2010-09-19,Ath Madrid,Barcelona,2
+2010-09-19,Hercules,Valencia,2
+2010-09-19,Levante,Villarreal,2
+2010-09-19,Malaga,Sevilla,2
+2010-09-19,Santander,Zaragoza,1
+2010-09-20,La Coruña,Getafe,X
+2010-09-21,Ath Bilbao,Mallorca,1
+2010-09-21,Osasuna,Sociedad,1
+2010-09-21,Real Madrid,Español,1
+2010-09-22,Almeria,Levante,2
+2010-09-22,Barcelona,Sp Gijon,1
+2010-09-22,Valencia,Ath Madrid,X
+2010-09-22,Zaragoza,Hercules,X
+2010-09-23,Getafe,Malaga,2
+2010-09-23,Sevilla,Santander,X
+2010-09-23,Villarreal,La Coruña,1
+2010-09-25,Ath Bilbao,Barcelona,2
+2010-09-25,Levante,Real Madrid,X
+2010-09-25,Sp Gijon,Valencia,2
+2010-09-26,Ath Madrid,Zaragoza,1
+2010-09-26,Español,Osasuna,1
+2010-09-26,Hercules,Sevilla,1
+2010-09-26,La Coruña,Almeria,2
+2010-09-26,Mallorca,Sociedad,1
+2010-09-26,Santander,Getafe,2
+2010-09-27,Malaga,Villarreal,2
+2010-10-02,Sociedad,Español,1
+2010-10-02,Valencia,Ath Bilbao,1
+2010-10-02,Zaragoza,Sp Gijon,X
+2010-10-03,Almeria,Malaga,X
+2010-10-03,Barcelona,Mallorca,X
+2010-10-03,Getafe,Hercules,1
+2010-10-03,Osasuna,Levante,X
+2010-10-03,Real Madrid,La Coruña,1
+2010-10-03,Sevilla,Ath Madrid,1
+2010-10-03,Villarreal,Santander,1
+2010-10-16,Ath Madrid,Getafe,1
+2010-10-16,Barcelona,Valencia,1
+2010-10-16,Malaga,Real Madrid,2
+2010-10-17,Ath Bilbao,Zaragoza,1
+2010-10-17,La Coruña,Osasuna,X
+2010-10-17,Levante,Sociedad,1
+2010-10-17,Mallorca,Español,2
+2010-10-17,Santander,Almeria,1
+2010-10-17,Sp Gijon,Sevilla,1
+2010-10-18,Hercules,Villarreal,X
+2010-10-23,Real Madrid,Santander,1
+2010-10-23,Valencia,Mallorca,2
+2010-10-23,Zaragoza,Barcelona,2
+2010-10-24,Almeria,Hercules,X
+2010-10-24,Español,Levante,1
+2010-10-24,Getafe,Sp Gijon,1
+2010-10-24,Osasuna,Malaga,1
+2010-10-24,Sevilla,Ath Bilbao,1
+2010-10-24,Villarreal,Ath Madrid,1
+2010-10-25,Sociedad,La Coruña,1
+2010-10-30,Barcelona,Sevilla,1
+2010-10-30,Hercules,Real Madrid,2
+2010-10-30,Valencia,Zaragoza,X
+2010-10-31,Ath Bilbao,Getafe,1
+2010-10-31,Ath Madrid,Almeria,X
+2010-10-31,La Coruña,Español,1
+2010-10-31,Malaga,Sociedad,2
+2010-10-31,Santander,Osasuna,1
+2010-10-31,Sp Gijon,Villarreal,X
+2010-11-01,Mallorca,Levante,1
+2010-11-06,Español,Malaga,1
+2010-11-06,Sociedad,Santander,1
+2010-11-07,Almeria,Sp Gijon,X
+2010-11-07,Getafe,Barcelona,2
+2010-11-07,Levante,La Coruña,2
+2010-11-07,Osasuna,Hercules,1
+2010-11-07,Real Madrid,Ath Madrid,1
+2010-11-07,Villarreal,Ath Bilbao,1
+2010-11-07,Zaragoza,Mallorca,1
+2010-11-08,Sevilla,Valencia,1
+2010-11-13,Ath Bilbao,Almeria,1
+2010-11-13,Ath Madrid,Osasuna,1
+2010-11-13,Barcelona,Villarreal,1
+2010-11-14,Hercules,Sociedad,1
+2010-11-14,Malaga,Levante,1
+2010-11-14,Mallorca,La Coruña,X
+2010-11-14,Santander,Español,X
+2010-11-14,Sp Gijon,Real Madrid,2
+2010-11-14,Valencia,Getafe,1
+2010-11-14,Zaragoza,Sevilla,2
+2010-11-20,Almeria,Barcelona,2
+2010-11-20,Real Madrid,Ath Bilbao,1
+2010-11-20,Villarreal,Valencia,X
+2010-11-21,Español,Hercules,1
+2010-11-21,La Coruña,Malaga,1
+2010-11-21,Levante,Santander,1
+2010-11-21,Osasuna,Sp Gijon,1
+2010-11-21,Sevilla,Mallorca,2
+2010-11-21,Sociedad,Ath Madrid,2
+2010-11-22,Getafe,Zaragoza,X
+2010-11-27,Ath Madrid,Español,2
+2010-11-27,Sevilla,Getafe,2
+2010-11-27,Zaragoza,Villarreal,2
+2010-11-28,Ath Bilbao,Osasuna,1
+2010-11-28,Hercules,Levante,1
+2010-11-28,Mallorca,Malaga,1
+2010-11-28,Santander,La Coruña,1
+2010-11-28,Sp Gijon,Sociedad,2
+2010-11-28,Valencia,Almeria,1
+2010-11-29,Barcelona,Real Madrid,1
+2010-12-04,Levante,Ath Madrid,1
+2010-12-04,Osasuna,Barcelona,2
+2010-12-04,Real Madrid,Valencia,1
+2010-12-05,Almeria,Zaragoza,X
+2010-12-05,Español,Sp Gijon,1
+2010-12-05,Getafe,Mallorca,1
+2010-12-05,Malaga,Santander,1
+2010-12-05,Sociedad,Ath Bilbao,1
+2010-12-05,Villarreal,Sevilla,1
+2010-12-06,La Coruña,Hercules,1
+2010-12-11,Ath Madrid,La Coruña,1
+2010-12-11,Getafe,Villarreal,1
+2010-12-11,Sevilla,Almeria,2
+2010-12-12,Ath Bilbao,Español,1
+2010-12-12,Barcelona,Sociedad,1
+2010-12-12,Hercules,Malaga,1
+2010-12-12,Mallorca,Santander,2
+2010-12-12,Sp Gijon,Levante,X
+2010-12-12,Zaragoza,Real Madrid,2
+2010-12-13,Valencia,Osasuna,X
+2010-12-18,Español,Barcelona,2
+2010-12-18,La Coruña,Sp Gijon,X
+2010-12-18,Levante,Ath Bilbao,2
+2010-12-18,Sociedad,Valencia,2
+2010-12-18,Villarreal,Mallorca,1
+2010-12-19,Almeria,Getafe,2
+2010-12-19,Malaga,Ath Madrid,2
+2010-12-19,Osasuna,Zaragoza,X
+2010-12-19,Real Madrid,Sevilla,1
+2010-12-20,Santander,Hercules,X
+2011-01-02,Ath Bilbao,La Coruña,2
+2011-01-02,Barcelona,Levante,1
+2011-01-02,Sevilla,Osasuna,1
+2011-01-02,Sp Gijon,Malaga,2
+2011-01-02,Valencia,Español,1
+2011-01-03,Ath Madrid,Santander,X
+2011-01-03,Getafe,Real Madrid,2
+2011-01-03,Mallorca,Hercules,1
+2011-01-03,Villarreal,Almeria,1
+2011-01-03,Zaragoza,Sociedad,1
+2011-01-08,La Coruña,Barcelona,2
+2011-01-08,Malaga,Ath Bilbao,X
+2011-01-08,Sociedad,Sevilla,2
+2011-01-09,Español,Zaragoza,1
+2011-01-09,Levante,Valencia,2
+2011-01-09,Mallorca,Almeria,1
+2011-01-09,Osasuna,Getafe,X
+2011-01-09,Real Madrid,Villarreal,1
+2011-01-09,Santander,Sp Gijon,X
+2011-01-10,Hercules,Ath Madrid,1
+2011-01-15,Ath Bilbao,Santander,1
+2011-01-15,Getafe,Sociedad,2
+2011-01-15,Sevilla,Español,2
+2011-01-15,Sp Gijon,Hercules,1
+2011-01-15,Villarreal,Osasuna,1
+2011-01-15,Zaragoza,Levante,1
+2011-01-16,Almeria,Real Madrid,X
+2011-01-16,Barcelona,Malaga,1
+2011-01-16,Valencia,La Coruña,1
+2011-01-17,Ath Madrid,Mallorca,1
+2011-01-22,Barcelona,Santander,1
+2011-01-22,Sevilla,Levante,1
+2011-01-22,Valencia,Malaga,1
+2011-01-23,Almeria,Osasuna,1
+2011-01-23,Getafe,Español,2
+2011-01-23,Real Madrid,Mallorca,1
+2011-01-23,Sp Gijon,Ath Madrid,1
+2011-01-23,Villarreal,Sociedad,1
+2011-01-23,Zaragoza,La Coruña,1
+2011-01-24,Ath Bilbao,Hercules,1
+2011-01-29,Hercules,Barcelona,2
+2011-01-29,La Coruña,Sevilla,X
+2011-01-29,Levante,Getafe,1
+2011-01-29,Malaga,Zaragoza,2
+2011-01-29,Mallorca,Sp Gijon,2
+2011-01-29,Sociedad,Almeria,1
+2011-01-30,Ath Madrid,Ath Bilbao,2
+2011-01-30,Español,Villarreal,2
+2011-01-30,Osasuna,Real Madrid,1
+2011-01-31,Santander,Valencia,X
+2011-02-05,Almeria,Español,1
+2011-02-05,Ath Bilbao,Sp Gijon,1
+2011-02-05,Barcelona,Ath Madrid,1
+2011-02-05,Getafe,La Coruña,1
+2011-02-05,Osasuna,Mallorca,X
+2011-02-05,Villarreal,Levante,2
+2011-02-05,Zaragoza,Santander,X
+2011-02-06,Real Madrid,Sociedad,1
+2011-02-06,Sevilla,Malaga,X
+2011-02-06,Valencia,Hercules,1
+2011-02-12,Ath Madrid,Valencia,2
+2011-02-12,Santander,Sevilla,1
+2011-02-12,Sp Gijon,Barcelona,X
+2011-02-13,Español,Real Madrid,2
+2011-02-13,Hercules,Zaragoza,1
+2011-02-13,La Coruña,Villarreal,1
+2011-02-13,Levante,Almeria,1
+2011-02-13,Malaga,Getafe,X
+2011-02-13,Sociedad,Osasuna,1
+2011-02-14,Mallorca,Ath Bilbao,1
+2011-02-19,Real Madrid,Levante,1
+2011-02-19,Valencia,Sp Gijon,X
+2011-02-19,Zaragoza,Ath Madrid,2
+2011-02-20,Almeria,La Coruña,X
+2011-02-20,Barcelona,Ath Bilbao,1
+2011-02-20,Getafe,Santander,2
+2011-02-20,Osasuna,Español,1
+2011-02-20,Sevilla,Hercules,1
+2011-02-20,Villarreal,Malaga,X
+2011-02-21,Sociedad,Mallorca,1
+2011-02-26,Ath Madrid,Sevilla,X
+2011-02-26,Español,Sociedad,1
+2011-02-26,La Coruña,Real Madrid,X
+2011-02-26,Mallorca,Barcelona,2
+2011-02-26,Sp Gijon,Zaragoza,X
+2011-02-27,Ath Bilbao,Valencia,2
+2011-02-27,Hercules,Getafe,X
+2011-02-27,Levante,Osasuna,1
+2011-02-27,Santander,Villarreal,X
+2011-02-28,Malaga,Almeria,1
+2011-03-01,Español,Mallorca,2
+2011-03-01,Sevilla,Sp Gijon,1
+2011-03-02,Getafe,Ath Madrid,X
+2011-03-02,Osasuna,La Coruña,X
+2011-03-02,Sociedad,Levante,X
+2011-03-02,Valencia,Barcelona,2
+2011-03-02,Villarreal,Hercules,1
+2011-03-02,Zaragoza,Ath Bilbao,1
+2011-03-03,Almeria,Santander,X
+2011-03-03,Real Madrid,Malaga,1
+2011-03-05,Ath Madrid,Villarreal,1
+2011-03-05,Barcelona,Zaragoza,1
+2011-03-05,Mallorca,Valencia,2
+2011-03-06,Ath Bilbao,Sevilla,1
+2011-03-06,Hercules,Almeria,2
+2011-03-06,Levante,Español,1
+2011-03-06,Malaga,Osasuna,2
+2011-03-06,Santander,Real Madrid,2
+2011-03-06,Sp Gijon,Getafe,1
+2011-03-07,La Coruña,Sociedad,1
+2011-03-12,Almeria,Ath Madrid,X
+2011-03-12,Real Madrid,Hercules,1
+2011-03-12,Zaragoza,Valencia,1
+2011-03-13,Español,La Coruña,1
+2011-03-13,Levante,Mallorca,X
+2011-03-13,Osasuna,Santander,1
+2011-03-13,Sevilla,Barcelona,X
+2011-03-13,Sociedad,Malaga,2
+2011-03-13,Villarreal,Sp Gijon,X
+2011-03-14,Getafe,Ath Bilbao,X
+2011-03-19,Ath Madrid,Real Madrid,2
+2011-03-19,Barcelona,Getafe,1
+2011-03-19,Mallorca,Zaragoza,1
+2011-03-20,Ath Bilbao,Villarreal,2
+2011-03-20,Hercules,Osasuna,2
+2011-03-20,La Coruña,Levante,2
+2011-03-20,Malaga,Español,1
+2011-03-20,Santander,Sociedad,1
+2011-03-20,Sp Gijon,Almeria,1
+2011-03-20,Valencia,Sevilla,2
+2011-04-02,Getafe,Valencia,2
+2011-04-02,Real Madrid,Sp Gijon,2
+2011-04-02,Villarreal,Barcelona,2
+2011-04-03,Español,Santander,2
+2011-04-03,La Coruña,Mallorca,1
+2011-04-03,Levante,Malaga,1
+2011-04-03,Osasuna,Ath Madrid,2
+2011-04-03,Sevilla,Zaragoza,1
+2011-04-03,Sociedad,Hercules,2
+2011-04-04,Almeria,Ath Bilbao,2
+2011-04-09,Ath Bilbao,Real Madrid,2
+2011-04-09,Barcelona,Almeria,1
+2011-04-09,Mallorca,Sevilla,X
+2011-04-10,Ath Madrid,Sociedad,1
+2011-04-10,Hercules,Español,X
+2011-04-10,Malaga,La Coruña,X
+2011-04-10,Santander,Levante,X
+2011-04-10,Sp Gijon,Osasuna,1
+2011-04-10,Valencia,Villarreal,1
+2011-04-11,Zaragoza,Getafe,1
+2011-04-16,Almeria,Valencia,2
+2011-04-16,Getafe,Sevilla,1
+2011-04-16,Malaga,Mallorca,1
+2011-04-16,Real Madrid,Barcelona,X
+2011-04-17,Español,Ath Madrid,X
+2011-04-17,La Coruña,Santander,1
+2011-04-17,Levante,Hercules,1
+2011-04-17,Osasuna,Ath Bilbao,2
+2011-04-17,Sociedad,Sp Gijon,1
+2011-04-18,Villarreal,Zaragoza,1
+2011-04-23,Ath Bilbao,Sociedad,1
+2011-04-23,Barcelona,Osasuna,1
+2011-04-23,Valencia,Real Madrid,2
+2011-04-24,Ath Madrid,Levante,1
+2011-04-24,Hercules,La Coruña,1
+2011-04-24,Mallorca,Getafe,1
+2011-04-24,Santander,Malaga,2
+2011-04-24,Sevilla,Villarreal,1
+2011-04-24,Sp Gijon,Español,1
+2011-04-25,Zaragoza,Almeria,1
+2011-04-30,La Coruña,Ath Madrid,2
+2011-04-30,Real Madrid,Zaragoza,2
+2011-04-30,Sociedad,Barcelona,1
+2011-05-01,Almeria,Sevilla,2
+2011-05-01,Levante,Sp Gijon,X
+2011-05-01,Malaga,Hercules,1
+2011-05-01,Osasuna,Valencia,1
+2011-05-01,Santander,Mallorca,1
+2011-05-01,Villarreal,Getafe,1
+2011-05-02,Español,Ath Bilbao,1
+2011-05-07,Ath Bilbao,Levante,1
+2011-05-07,Ath Madrid,Malaga,2
+2011-05-07,Getafe,Almeria,1
+2011-05-07,Hercules,Santander,2
+2011-05-07,Sevilla,Real Madrid,2
+2011-05-07,Sp Gijon,La Coruña,X
+2011-05-07,Valencia,Sociedad,1
+2011-05-08,Barcelona,Español,1
+2011-05-08,Mallorca,Villarreal,X
+2011-05-08,Zaragoza,Osasuna,2
+2011-05-10,La Coruña,Ath Bilbao,1
+2011-05-10,Malaga,Sp Gijon,1
+2011-05-10,Real Madrid,Getafe,1
+2011-05-10,Santander,Ath Madrid,1
+2011-05-11,Almeria,Villarreal,X
+2011-05-11,Español,Valencia,X
+2011-05-11,Hercules,Mallorca,X
+2011-05-11,Levante,Barcelona,X
+2011-05-11,Osasuna,Sevilla,1
+2011-05-11,Sociedad,Zaragoza,1
+2011-05-15,Almeria,Mallorca,1
+2011-05-15,Ath Bilbao,Malaga,X
+2011-05-15,Ath Madrid,Hercules,1
+2011-05-15,Barcelona,La Coruña,X
+2011-05-15,Getafe,Osasuna,1
+2011-05-15,Sevilla,Sociedad,1
+2011-05-15,Sp Gijon,Santander,1
+2011-05-15,Valencia,Levante,X
+2011-05-15,Villarreal,Real Madrid,2
+2011-05-15,Zaragoza,Español,1
+2011-05-21,Español,Sevilla,2
+2011-05-21,Hercules,Sp Gijon,X
+2011-05-21,La Coruña,Valencia,2
+2011-05-21,Levante,Zaragoza,2
+2011-05-21,Malaga,Barcelona,2
+2011-05-21,Mallorca,Ath Madrid,2
+2011-05-21,Osasuna,Villarreal,1
+2011-05-21,Real Madrid,Almeria,1
+2011-05-21,Santander,Ath Bilbao,2
+2011-05-21,Sociedad,Getafe,X

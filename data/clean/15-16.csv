@@ -1,0 +1,381 @@
+date,hometeam,awayteam,ftr
+2015-08-21,Malaga,Sevilla,X
+2015-08-22,Ath Madrid,Las Palmas,1
+2015-08-22,Español,Getafe,1
+2015-08-22,La Coruña,Sociedad,X
+2015-08-22,Vallecano,Valencia,X
+2015-08-23,Ath Bilbao,Barcelona,2
+2015-08-23,Betis,Villarreal,X
+2015-08-23,Levante,Celta,2
+2015-08-23,Sp Gijon,Real Madrid,X
+2015-08-24,Granada,Eibar,2
+2015-08-28,Villarreal,Español,1
+2015-08-29,Barcelona,Malaga,1
+2015-08-29,Celta,Vallecano,1
+2015-08-29,Real Madrid,Betis,1
+2015-08-29,Sociedad,Sp Gijon,X
+2015-08-30,Eibar,Ath Bilbao,1
+2015-08-30,Getafe,Granada,2
+2015-08-30,Las Palmas,Levante,X
+2015-08-30,Sevilla,Ath Madrid,2
+2015-08-30,Valencia,La Coruña,X
+2015-09-11,Levante,Sevilla,X
+2015-09-12,Ath Madrid,Barcelona,2
+2015-09-12,Betis,Sociedad,1
+2015-09-12,Español,Real Madrid,2
+2015-09-12,Sp Gijon,Valencia,2
+2015-09-13,Ath Bilbao,Getafe,1
+2015-09-13,Celta,Las Palmas,X
+2015-09-13,Granada,Villarreal,2
+2015-09-13,Malaga,Eibar,X
+2015-09-14,Vallecano,La Coruña,2
+2015-09-18,Getafe,Malaga,1
+2015-09-19,Eibar,Ath Madrid,2
+2015-09-19,Real Madrid,Granada,1
+2015-09-19,Sociedad,Español,2
+2015-09-19,Valencia,Betis,X
+2015-09-20,Barcelona,Levante,1
+2015-09-20,La Coruña,Sp Gijon,2
+2015-09-20,Las Palmas,Vallecano,2
+2015-09-20,Sevilla,Celta,2
+2015-09-20,Villarreal,Ath Bilbao,1
+2015-09-22,Ath Madrid,Getafe,1
+2015-09-22,Español,Valencia,1
+2015-09-22,Granada,Sociedad,2
+2015-09-23,Ath Bilbao,Real Madrid,2
+2015-09-23,Celta,Barcelona,1
+2015-09-23,Las Palmas,Sevilla,1
+2015-09-23,Levante,Eibar,X
+2015-09-23,Malaga,Villarreal,2
+2015-09-23,Vallecano,Sp Gijon,1
+2015-09-24,Betis,La Coruña,2
+2015-09-25,Valencia,Granada,1
+2015-09-26,Barcelona,Las Palmas,1
+2015-09-26,Eibar,Celta,X
+2015-09-26,Real Madrid,Malaga,X
+2015-09-26,Sevilla,Vallecano,1
+2015-09-26,Villarreal,Ath Madrid,1
+2015-09-27,Getafe,Levante,1
+2015-09-27,La Coruña,Español,1
+2015-09-27,Sociedad,Ath Bilbao,X
+2015-09-27,Sp Gijon,Betis,2
+2015-10-02,Celta,Getafe,X
+2015-10-03,Español,Sp Gijon,2
+2015-10-03,Granada,La Coruña,X
+2015-10-03,Las Palmas,Eibar,2
+2015-10-03,Malaga,Sociedad,1
+2015-10-03,Sevilla,Barcelona,1
+2015-10-04,Ath Bilbao,Valencia,1
+2015-10-04,Ath Madrid,Real Madrid,X
+2015-10-04,Levante,Villarreal,1
+2015-10-04,Vallecano,Betis,2
+2015-10-17,Barcelona,Vallecano,1
+2015-10-17,Betis,Español,2
+2015-10-17,Eibar,Sevilla,X
+2015-10-17,Real Madrid,Levante,1
+2015-10-17,Valencia,Malaga,1
+2015-10-18,Getafe,Las Palmas,1
+2015-10-18,La Coruña,Ath Bilbao,X
+2015-10-18,Sociedad,Ath Madrid,2
+2015-10-18,Villarreal,Celta,2
+2015-10-19,Sp Gijon,Granada,X
+2015-10-23,Vallecano,Español,1
+2015-10-24,Celta,Real Madrid,2
+2015-10-24,Granada,Betis,X
+2015-10-24,Malaga,La Coruña,1
+2015-10-24,Sevilla,Getafe,1
+2015-10-25,Ath Madrid,Valencia,1
+2015-10-25,Barcelona,Eibar,1
+2015-10-25,Las Palmas,Villarreal,X
+2015-10-25,Levante,Sociedad,2
+2015-10-26,Ath Bilbao,Sp Gijon,1
+2015-10-30,La Coruña,Ath Madrid,X
+2015-10-31,Getafe,Barcelona,2
+2015-10-31,Real Madrid,Las Palmas,1
+2015-10-31,Sociedad,Celta,2
+2015-10-31,Valencia,Levante,1
+2015-10-31,Villarreal,Sevilla,1
+2015-11-01,Betis,Ath Bilbao,2
+2015-11-01,Eibar,Vallecano,1
+2015-11-01,Español,Granada,X
+2015-11-01,Sp Gijon,Malaga,1
+2015-11-06,Las Palmas,Sociedad,1
+2015-11-07,Celta,Valencia,2
+2015-11-07,Eibar,Getafe,1
+2015-11-07,Levante,La Coruña,X
+2015-11-07,Malaga,Betis,2
+2015-11-07,Vallecano,Granada,1
+2015-11-08,Ath Bilbao,Español,1
+2015-11-08,Ath Madrid,Sp Gijon,1
+2015-11-08,Barcelona,Villarreal,1
+2015-11-08,Sevilla,Real Madrid,1
+2015-11-21,Español,Malaga,1
+2015-11-21,La Coruña,Celta,1
+2015-11-21,Real Madrid,Barcelona,2
+2015-11-21,Sociedad,Sevilla,1
+2015-11-21,Valencia,Las Palmas,X
+2015-11-22,Betis,Ath Madrid,2
+2015-11-22,Granada,Ath Bilbao,1
+2015-11-22,Sp Gijon,Levante,2
+2015-11-22,Villarreal,Eibar,X
+2015-11-23,Getafe,Vallecano,X
+2015-11-27,Levante,Betis,2
+2015-11-28,Ath Madrid,Español,1
+2015-11-28,Barcelona,Sociedad,1
+2015-11-28,Celta,Sp Gijon,1
+2015-11-28,Las Palmas,La Coruña,2
+2015-11-28,Malaga,Granada,X
+2015-11-29,Eibar,Real Madrid,2
+2015-11-29,Getafe,Villarreal,1
+2015-11-29,Sevilla,Valencia,1
+2015-11-29,Vallecano,Ath Bilbao,2
+2015-12-05,Betis,Celta,X
+2015-12-05,Granada,Ath Madrid,2
+2015-12-05,La Coruña,Sevilla,X
+2015-12-05,Real Madrid,Getafe,1
+2015-12-05,Valencia,Barcelona,X
+2015-12-06,Ath Bilbao,Malaga,X
+2015-12-06,Sociedad,Eibar,1
+2015-12-06,Sp Gijon,Las Palmas,1
+2015-12-06,Villarreal,Vallecano,1
+2015-12-07,Español,Levante,X
+2015-12-11,Getafe,Sociedad,X
+2015-12-12,Barcelona,La Coruña,X
+2015-12-12,Celta,Español,1
+2015-12-12,Las Palmas,Betis,1
+2015-12-12,Levante,Granada,2
+2015-12-12,Sevilla,Sp Gijon,1
+2015-12-13,Ath Madrid,Ath Bilbao,1
+2015-12-13,Eibar,Valencia,X
+2015-12-13,Vallecano,Malaga,2
+2015-12-13,Villarreal,Real Madrid,1
+2015-12-19,Betis,Sevilla,X
+2015-12-19,Español,Las Palmas,1
+2015-12-19,La Coruña,Eibar,1
+2015-12-19,Valencia,Getafe,X
+2015-12-20,Ath Bilbao,Levante,1
+2015-12-20,Granada,Celta,2
+2015-12-20,Malaga,Ath Madrid,1
+2015-12-20,Real Madrid,Vallecano,1
+2015-12-20,Sociedad,Villarreal,2
+2015-12-30,Barcelona,Betis,1
+2015-12-30,Celta,Ath Bilbao,2
+2015-12-30,Eibar,Sp Gijon,1
+2015-12-30,Getafe,La Coruña,X
+2015-12-30,Las Palmas,Granada,1
+2015-12-30,Levante,Malaga,2
+2015-12-30,Real Madrid,Sociedad,1
+2015-12-30,Sevilla,Español,1
+2015-12-30,Vallecano,Ath Madrid,2
+2015-12-31,Villarreal,Valencia,1
+2016-01-02,Ath Madrid,Levante,1
+2016-01-02,Español,Barcelona,X
+2016-01-02,Malaga,Celta,1
+2016-01-03,Ath Bilbao,Las Palmas,X
+2016-01-03,Betis,Eibar,2
+2016-01-03,Granada,Sevilla,1
+2016-01-03,La Coruña,Villarreal,2
+2016-01-03,Valencia,Real Madrid,X
+2016-01-03,Vallecano,Sociedad,X
+2016-01-04,Sp Gijon,Getafe,2
+2016-01-09,Barcelona,Granada,1
+2016-01-09,Getafe,Betis,1
+2016-01-09,Levante,Vallecano,1
+2016-01-09,Real Madrid,La Coruña,1
+2016-01-09,Sevilla,Ath Bilbao,1
+2016-01-10,Celta,Ath Madrid,2
+2016-01-10,Eibar,Español,1
+2016-01-10,Las Palmas,Malaga,X
+2016-01-10,Sociedad,Valencia,1
+2016-01-10,Villarreal,Sp Gijon,1
+2016-01-16,Celta,Levante,1
+2016-01-16,Sevilla,Malaga,1
+2016-01-16,Sociedad,La Coruña,X
+2016-01-16,Villarreal,Betis,X
+2016-01-17,Barcelona,Ath Bilbao,1
+2016-01-17,Getafe,Español,1
+2016-01-17,Las Palmas,Ath Madrid,2
+2016-01-17,Real Madrid,Sp Gijon,1
+2016-01-17,Valencia,Vallecano,X
+2016-01-18,Eibar,Granada,1
+2016-01-22,Sp Gijon,Sociedad,1
+2016-01-23,Español,Villarreal,X
+2016-01-23,Granada,Getafe,1
+2016-01-23,Malaga,Barcelona,2
+2016-01-23,Vallecano,Celta,1
+2016-01-24,Ath Bilbao,Eibar,1
+2016-01-24,Ath Madrid,Sevilla,X
+2016-01-24,Betis,Real Madrid,X
+2016-01-24,La Coruña,Valencia,X
+2016-01-25,Levante,Las Palmas,1
+2016-01-30,Barcelona,Ath Madrid,1
+2016-01-30,Eibar,Malaga,2
+2016-01-30,Getafe,Ath Bilbao,2
+2016-01-30,Sociedad,Betis,1
+2016-01-30,Villarreal,Granada,1
+2016-01-31,Las Palmas,Celta,1
+2016-01-31,Real Madrid,Español,1
+2016-01-31,Sevilla,Levante,1
+2016-01-31,Valencia,Sp Gijon,2
+2016-02-01,La Coruña,Vallecano,X
+2016-02-05,Malaga,Getafe,1
+2016-02-06,Ath Bilbao,Villarreal,X
+2016-02-06,Ath Madrid,Eibar,1
+2016-02-06,Sp Gijon,La Coruña,X
+2016-02-06,Vallecano,Las Palmas,1
+2016-02-07,Betis,Valencia,1
+2016-02-07,Celta,Sevilla,X
+2016-02-07,Granada,Real Madrid,2
+2016-02-07,Levante,Barcelona,2
+2016-02-08,Español,Sociedad,2
+2016-02-12,Sp Gijon,Vallecano,X
+2016-02-13,La Coruña,Betis,X
+2016-02-13,Real Madrid,Ath Bilbao,1
+2016-02-13,Valencia,Español,1
+2016-02-13,Villarreal,Malaga,1
+2016-02-14,Barcelona,Celta,1
+2016-02-14,Eibar,Levante,1
+2016-02-14,Getafe,Ath Madrid,2
+2016-02-14,Sevilla,Las Palmas,1
+2016-02-14,Sociedad,Granada,1
+2016-02-17,Sp Gijon,Barcelona,2
+2016-02-19,Levante,Getafe,1
+2016-02-20,Betis,Sp Gijon,X
+2016-02-20,Celta,Eibar,1
+2016-02-20,Español,La Coruña,1
+2016-02-20,Las Palmas,Barcelona,2
+2016-02-21,Ath Bilbao,Sociedad,2
+2016-02-21,Ath Madrid,Villarreal,X
+2016-02-21,Granada,Valencia,2
+2016-02-21,Malaga,Real Madrid,X
+2016-02-21,Vallecano,Sevilla,X
+2016-02-26,Eibar,Las Palmas,2
+2016-02-27,Betis,Vallecano,X
+2016-02-27,Getafe,Celta,2
+2016-02-27,Real Madrid,Ath Madrid,2
+2016-02-27,Sociedad,Malaga,X
+2016-02-27,Sp Gijon,Español,2
+2016-02-28,Barcelona,Sevilla,1
+2016-02-28,La Coruña,Granada,2
+2016-02-28,Valencia,Ath Bilbao,2
+2016-02-28,Villarreal,Levante,1
+2016-03-01,Ath Madrid,Sociedad,1
+2016-03-01,Las Palmas,Getafe,1
+2016-03-02,Ath Bilbao,La Coruña,1
+2016-03-02,Celta,Villarreal,X
+2016-03-02,Levante,Real Madrid,2
+2016-03-02,Malaga,Valencia,2
+2016-03-02,Sevilla,Eibar,1
+2016-03-03,Español,Betis,2
+2016-03-03,Granada,Sp Gijon,1
+2016-03-03,Vallecano,Barcelona,2
+2016-03-05,Getafe,Sevilla,X
+2016-03-05,La Coruña,Malaga,X
+2016-03-05,Real Madrid,Celta,1
+2016-03-05,Villarreal,Las Palmas,2
+2016-03-06,Betis,Granada,1
+2016-03-06,Eibar,Barcelona,2
+2016-03-06,Sociedad,Levante,X
+2016-03-06,Sp Gijon,Ath Bilbao,2
+2016-03-06,Valencia,Ath Madrid,2
+2016-03-07,Español,Vallecano,1
+2016-03-11,Malaga,Sp Gijon,1
+2016-03-12,Ath Madrid,La Coruña,1
+2016-03-12,Barcelona,Getafe,1
+2016-03-12,Celta,Sociedad,1
+2016-03-12,Vallecano,Eibar,X
+2016-03-13,Ath Bilbao,Betis,1
+2016-03-13,Las Palmas,Real Madrid,2
+2016-03-13,Levante,Valencia,1
+2016-03-13,Sevilla,Villarreal,1
+2016-03-14,Granada,Español,X
+2016-03-18,Getafe,Eibar,X
+2016-03-19,Betis,Malaga,2
+2016-03-19,Granada,Vallecano,X
+2016-03-19,La Coruña,Levante,1
+2016-03-19,Sociedad,Las Palmas,2
+2016-03-19,Sp Gijon,Ath Madrid,1
+2016-03-20,Español,Ath Bilbao,1
+2016-03-20,Real Madrid,Sevilla,1
+2016-03-20,Valencia,Celta,2
+2016-03-20,Villarreal,Barcelona,X
+2016-04-01,Vallecano,Getafe,1
+2016-04-02,Ath Madrid,Betis,1
+2016-04-02,Barcelona,Real Madrid,2
+2016-04-02,Celta,La Coruña,X
+2016-04-02,Las Palmas,Valencia,1
+2016-04-03,Ath Bilbao,Granada,X
+2016-04-03,Eibar,Villarreal,2
+2016-04-03,Malaga,Español,X
+2016-04-03,Sevilla,Sociedad,2
+2016-04-04,Levante,Sp Gijon,X
+2016-04-08,Granada,Malaga,X
+2016-04-09,Betis,Levante,1
+2016-04-09,Español,Ath Madrid,2
+2016-04-09,Real Madrid,Eibar,1
+2016-04-09,Sociedad,Barcelona,1
+2016-04-10,Ath Bilbao,Vallecano,1
+2016-04-10,Sp Gijon,Celta,2
+2016-04-10,Valencia,Sevilla,1
+2016-04-10,Villarreal,Getafe,1
+2016-04-11,La Coruña,Las Palmas,2
+2016-04-15,Levante,Español,1
+2016-04-16,Celta,Betis,X
+2016-04-16,Eibar,Sociedad,1
+2016-04-16,Getafe,Real Madrid,2
+2016-04-16,Las Palmas,Sp Gijon,X
+2016-04-17,Ath Madrid,Granada,1
+2016-04-17,Barcelona,Valencia,2
+2016-04-17,Malaga,Ath Bilbao,2
+2016-04-17,Sevilla,La Coruña,X
+2016-04-17,Vallecano,Villarreal,1
+2016-04-19,Betis,Las Palmas,1
+2016-04-19,Español,Celta,X
+2016-04-20,Ath Bilbao,Ath Madrid,2
+2016-04-20,La Coruña,Barcelona,2
+2016-04-20,Malaga,Vallecano,X
+2016-04-20,Real Madrid,Villarreal,1
+2016-04-20,Sp Gijon,Sevilla,1
+2016-04-20,Valencia,Eibar,1
+2016-04-21,Granada,Levante,1
+2016-04-21,Sociedad,Getafe,2
+2016-04-22,Las Palmas,Español,1
+2016-04-23,Ath Madrid,Malaga,1
+2016-04-23,Barcelona,Sp Gijon,1
+2016-04-23,Eibar,La Coruña,X
+2016-04-23,Vallecano,Real Madrid,2
+2016-04-24,Getafe,Valencia,X
+2016-04-24,Levante,Ath Bilbao,X
+2016-04-24,Sevilla,Betis,1
+2016-04-24,Villarreal,Sociedad,X
+2016-04-25,Celta,Granada,1
+2016-04-29,Sp Gijon,Eibar,1
+2016-04-30,Ath Madrid,Vallecano,1
+2016-04-30,Betis,Barcelona,2
+2016-04-30,Granada,Las Palmas,1
+2016-04-30,Sociedad,Real Madrid,2
+2016-05-01,Ath Bilbao,Celta,1
+2016-05-01,Español,Sevilla,1
+2016-05-01,La Coruña,Getafe,2
+2016-05-01,Valencia,Villarreal,2
+2016-05-02,Malaga,Levante,1
+2016-05-08,Barcelona,Español,1
+2016-05-08,Celta,Malaga,1
+2016-05-08,Eibar,Betis,X
+2016-05-08,Getafe,Sp Gijon,X
+2016-05-08,Las Palmas,Ath Bilbao,X
+2016-05-08,Levante,Ath Madrid,1
+2016-05-08,Real Madrid,Valencia,1
+2016-05-08,Sevilla,Granada,2
+2016-05-08,Sociedad,Vallecano,1
+2016-05-08,Villarreal,La Coruña,2
+2016-05-13,Valencia,Sociedad,2
+2016-05-14,Ath Bilbao,Sevilla,1
+2016-05-14,Ath Madrid,Celta,1
+2016-05-14,Granada,Barcelona,2
+2016-05-14,La Coruña,Real Madrid,2
+2016-05-15,Betis,Getafe,1
+2016-05-15,Español,Eibar,1
+2016-05-15,Malaga,Las Palmas,1
+2016-05-15,Sp Gijon,Villarreal,1
+2016-05-15,Vallecano,Levante,1
