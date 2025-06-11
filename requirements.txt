@@ -1,0 +1,13 @@
+
+---
+
+### 📄 `requirements.txt`
+
+```txt
+pandas
+numpy
+fastapi
+uvicorn
+scikit-learn
+jupyter
+

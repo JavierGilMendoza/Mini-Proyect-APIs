@@ -1,0 +1,15 @@
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoint files
+*.ipynb_checkpoints
+
+# Local configuration files
+*.env
